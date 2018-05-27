@@ -1,0 +1,25 @@
+{
+  "name": "All-Terrain Vehicle",
+  "content": "<h2>Description</h2>All-Terrain Vehicle",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Vehicle",
+    "description": "All-Terrain Vehicle",
+    "wealthLevel": 2,
+    "speed": "80'",
+    "properties": null,
+    "attributes": ["Agility 4"],
+    "feats": null,
+    "HP": 20,
+    "DT": 2,
+    "Defenses": {
+      "Guard": 14,
+      "Toughness": 14,
+      "Resolve": "Immune"
+    },
+    "tags": [
+      "Land"
+    ]
+  }
+}

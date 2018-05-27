@@ -1,0 +1,22 @@
+{
+  "name": "Club",
+  "content": "<h2>Description</h2>Club",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["One-handed Melee"],
+    "description": "Club",
+		"wealthLevel": 1,
+    "banes": [
+      "Knockdown",
+      "Stunned"
+    ],
+    "properties": [
+      "Forceful"
+    ],
+    "similar": [
+      "Baseball Bat",
+      "Improvised Weapon"
+    ]
+  }
+}

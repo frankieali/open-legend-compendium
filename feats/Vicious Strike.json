@@ -1,0 +1,19 @@
+{
+  "name": "Vicious Strike",
+  "content": "<h2>Description</h2>Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheroes of exceptional combat skill are all good examples of this feat in play.<br/><br/><h2>Effect</h2>Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheroes of exceptional combat skill are all good examples of this feat in play.",
+    "effect": "Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.",
+    "tiers": {
+      "1": {
+        "prerequisites": null
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "cost": 2
+  }
+}

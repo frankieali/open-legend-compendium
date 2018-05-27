@@ -1,0 +1,28 @@
+{
+  "name": "Impervious Trance",
+  "content": "<h2>Description</h2>In the heightened focus of battle, your will becomes indomitable. Like a monk with unflinching mental focus or a berserker who is too bloodthirsty to be stopped, you cannot be thwarted by fear, charm, or similar attempts to overcome your willpower.<br/><br/><h2>Effect</h2>While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the effect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "In the heightened focus of battle, your will becomes indomitable. Like a monk with unflinching mental focus or a berserker who is too bloodthirsty to be stopped, you cannot be thwarted by fear, charm, or similar attempts to overcome your willpower.",
+    "effect": "While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the effect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Will": 7
+            }
+          ],
+          "Feat": [
+            "Battle Trance"
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "cost": 3
+  }
+}

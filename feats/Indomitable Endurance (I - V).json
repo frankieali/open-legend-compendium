@@ -1,0 +1,86 @@
+{
+  "name": "Indomitable Endurance (I - V)",
+  "content": "<h2>Description</h2>Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples of this feat in action.<br/><br/><h2>Effect</h2>You are able to shrug off the effects of the <em>fatigued</em> bane. For each tier you possess in this feat, treat your fatigue level as one lower than it actually is for the purposes of determining the bane's effects.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples of this feat in action.",
+    "effect": "You are able to shrug off the effects of the <em>fatigued</em> bane. For each tier you possess in this feat, treat your fatigue level as one lower than it actually is for the purposes of determining the bane's effects.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 5
+              },
+              {
+                "Will": 5
+              }
+            ]
+          }
+        }
+      },
+      "2": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 5
+              },
+              {
+                "Will": 5
+              }
+            ]
+          }
+        }
+      },
+      "3": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 5
+              },
+              {
+                "Will": 5
+              }
+            ]
+          }
+        }
+      },
+      "4": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 5
+              },
+              {
+                "Will": 5
+              }
+            ]
+          }
+        }
+      },
+      "5": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 5
+              },
+              {
+                "Will": 5
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Physical"
+    ],
+    "cost": 2
+  }
+}

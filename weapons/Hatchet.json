@@ -1,0 +1,26 @@
+{
+  "name": "Hatchet",
+  "content": "<h2>Description</h2>Hatchet",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": [
+      "Close Ranged",
+      "One-handed Melee"
+    ],
+    "description": "Hatchet",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Disarmed"
+    ],
+    "properties": [
+      "Forceful",
+      "Precise",
+      "Swift"
+    ],
+    "similar": [
+      "Dagger"
+    ]
+  }
+}

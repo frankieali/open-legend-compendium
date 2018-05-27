@@ -1,0 +1,35 @@
+{
+  "name": "Slowed",
+  "content": "<h2>Description</h2>The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.<br/><br/><h2>Effect</h2>The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Banes",
+    "description": "The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.",
+    "effect": "The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
+    "special": null,
+    "powerLevelEffect": null,
+    "tags": [
+      "Extraordinary",
+      "Physical"
+    ],
+    "power": [
+      1
+    ],
+    "attribute": [
+      "Agility",
+      "Energy",
+      "Entropy",
+      "Might",
+      "Movement"
+    ],
+    "attack": [
+      "Agility vs. Guard",
+      "Energy vs. Guard",
+      "Entropy vs. Toughness",
+      "Might vs. Guard",
+      "Movement vs. Guard"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Resist ends (Fail x 3 = 1 minute)"
+  }
+}

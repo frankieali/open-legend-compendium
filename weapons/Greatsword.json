@@ -1,0 +1,25 @@
+{
+  "name": "Greatsword",
+  "content": "<h2>Description</h2>Greatsword",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Greatsword",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Forced Move"
+    ],
+    "properties": [
+      "Forceful",
+      "Precise",
+      "Heavy"
+    ],
+    "similar": [
+      "No-dachi",
+      "Claymore",
+      "Bastard Sword"
+    ]
+  }
+}

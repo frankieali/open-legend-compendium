@@ -1,0 +1,15 @@
+{
+  "name": "Faster than Light",
+  "content": "<h2>Description</h2>The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "mounts & vehicles",
+		"description": "The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.",
+    "wealthModifier": null,
+    "tags": [
+      "item",
+      "mounts and vehicles"
+    ]
+  }
+}

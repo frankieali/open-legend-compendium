@@ -1,0 +1,20 @@
+{
+  "name": "Time Machine",
+  "content": "<h2>Description</h2>The ultimate achievement of mad scientists and quantum physicists alike, this vehicle is capable of transporting its passengers through the fourth dimension.<h2>Special</h2><strong>Time Travel:</strong> A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of time travel. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:\n\n*  The time travelled is multiplied by 100.\n*  The machine instead transports the passengers to a different dimension.\n*  The direction of time travel is reversed.\n*  The travelers miss the mark by 2d4 years.\n*  The travelers are attacked by a horde of 4th dimensional chrono beasts.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Legendary",
+    "description": "The ultimate achievement of mad scientists and quantum physicists alike, this vehicle is capable of transporting its passengers through the fourth dimension.",
+    "wealthLevel": null,
+    "attributes": null,
+    "banes": null,
+    "boons": null,
+    "properties": null,
+    "special": [
+      {
+        "Time Travel": "A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of time travel. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:\n\n*  The time travelled is multiplied by 100.\n*  The machine instead transports the passengers to a different dimension.\n*  The direction of time travel is reversed.\n*  The travelers miss the mark by 2d4 years.\n*  The travelers are attacked by a horde of 4th dimensional chrono beasts."
+      }
+    ]
+  }
+}

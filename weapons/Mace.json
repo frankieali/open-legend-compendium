@@ -1,0 +1,22 @@
+{
+  "name": "Mace",
+  "content": "<h2>Description</h2>Mace",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["One-handed Melee"],
+    "description": "Mace",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Stunned",
+      "Forced Move"
+    ],
+    "properties": [
+      "Forceful"
+    ],
+    "similar": [
+      "Warhammer"
+    ]
+  }
+}

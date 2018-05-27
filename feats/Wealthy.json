@@ -1,0 +1,19 @@
+{
+  "name": "Wealthy",
+  "content": "<h2>Description</h2>Whether you were born into nobility, come from old money, are heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.<br/><br/><h2>Effect</h2>Your wealth score is increased by 1.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether you were born into nobility, come from old money, are heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.",
+    "effect": "Your wealth score is increased by 1.",
+    "tiers": {
+      "1": {
+        "prerequisites": null
+      }
+    },
+    "tags": [
+      "Non-Combat"
+    ],
+    "cost": 3
+  }
+}

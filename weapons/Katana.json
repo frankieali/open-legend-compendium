@@ -1,0 +1,23 @@
+{
+  "name": "Katana",
+  "content": "<h2>Description</h2>Katana",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Versatile Melee"],
+    "description": "Katana",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Disarmed"
+    ],
+    "properties": [
+      "Forceful",
+      "Precise"
+    ],
+    "similar": [
+      "Longsword",
+      "Falchion"
+    ]
+  }
+}

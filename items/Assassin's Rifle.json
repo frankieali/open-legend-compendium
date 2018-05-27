@@ -1,0 +1,19 @@
+{
+  "name": "Assassin's Rifle",
+  "content": "<h2>Description</h2>This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety.",
+    "wealthLevel": 4,
+    "attributes": null,
+    "banes": null,
+    "boons": null,
+    "properties": [
+      "Baneful (Blinded)",
+      "Baneful (Persistent Damage)"
+    ],
+    "special": null
+  }
+}

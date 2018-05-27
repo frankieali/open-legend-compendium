@@ -1,0 +1,98 @@
+{
+  "name": "Defensive Reflexes (I - IX)",
+  "content": "<h2>Description</h2>You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.<br/><br/><h2>Effect</h2>Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.",
+    "effect": "Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "2": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "3": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "4": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "5": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "6": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "7": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      },
+      "8": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      },
+      "9": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Agility",
+      "Extraordinary"
+    ],
+    "cost": 2
+  }
+}

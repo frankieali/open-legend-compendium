@@ -1,0 +1,9 @@
+{
+  "name": "Illiterate",
+  "content": "<h2>Description</h2><br/><br/>You can't read or write, even in languages that you speak fluently.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Flaws",
+    "description": "You can't read or write, even in languages that you speak fluently."
+  }
+}

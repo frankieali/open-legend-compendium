@@ -1,0 +1,22 @@
+{
+  "name": "Chainsaw",
+  "content": "<h2>Description</h2>Chainsaw",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Chainsaw",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Demoralized",
+      "Provoked",
+      "Fear"
+    ],
+    "properties": [
+      "Forceful",
+      "Heavy"
+    ],
+    "similar": null
+  }
+}

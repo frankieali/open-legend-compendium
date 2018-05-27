@@ -1,0 +1,20 @@
+{
+  "name": "Combat Momentum",
+  "content": "<h2>Description</h2>Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.<br/><br/><h2>Effect</h2>Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.<br/><br/><h2>Special</h2>If you have access to the <em>teleport</em> boon, you may use it instead of a normal move.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.",
+    "effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.",
+    "special": "If you have access to the _teleport_ boon, you may use it instead of a normal move.",
+    "tiers": {
+      "1": {
+        "prerequisites": null
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "cost": 1
+  }
+}

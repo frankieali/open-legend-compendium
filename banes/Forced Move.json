@@ -1,0 +1,41 @@
+{
+  "name": "Forced Move",
+  "content": "<h2>Description</h2>With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.<br/><br/><h2>Effect</h2>The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 2</strong> - The target is moved 5'.</li><li><strong>Power Level 4</strong> - The target is moved 10'.</li><li><strong>Power Level 6</strong> - The target is moved 15'.</li><li><strong>Power Level 8</strong> - The target is moved 20'.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Banes",
+    "duration": "Instantaneous",
+    "description": "With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.",
+    "effect": "The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.",
+    "special": null,
+    "powerLevelEffect": {
+      "2": "The target is moved 5'.",
+      "4": "The target is moved 10'.",
+      "6": "The target is moved 15'.",
+      "8": "The target is moved 20'."
+    },
+    "tags": [
+      "Extraordinary",
+      "Physical"
+    ],
+    "power": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "attribute": [
+      "Agility",
+      "Energy",
+      "Might",
+      "Movement"
+    ],
+    "attack": [
+      "Agility vs. Guard",
+      "Energy vs. Guard",
+      "Might vs. Guard",
+      "Movement vs. Guard"
+    ],
+    "invocationTime": "1 Major Action"
+  }
+}

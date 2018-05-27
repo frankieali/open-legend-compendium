@@ -1,0 +1,45 @@
+{
+  "name": "Demoralized",
+  "content": "<h2>Description</h2>Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves. A berserker might achieve this effect by foaming at the mouth while a swashbuckling space captain might dishearten his foes simply with intimidating words.<br/><br/><h2>Effect</h2>The affected target has disadvantage on all action rolls.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 3</strong> - Disadvantage 1.</li><li><strong>Power Level 6</strong> - Disadvantage 2.</li><li><strong>Power Level 8</strong> - Disadvantage 3.</li></ul><br/><br/><h2>Special</h2>Resisting this bane is a minor action. When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Banes",
+    "description": "Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves. A berserker might achieve this effect by foaming at the mouth while a swashbuckling space captain might dishearten his foes simply with intimidating words.",
+    "effect": "The affected target has disadvantage on all action rolls.",
+    "special": "Resisting this bane is a minor action. When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).",
+    "powerLevelEffect": {
+      "3": "Disadvantage 1.",
+      "6": "Disadvantage 2.",
+      "8": "Disadvantage 3."
+    },
+    "tags": [
+      "Physical",
+      "Extraordinary"
+    ],
+    "power": [
+      3,
+      6,
+      8
+    ],
+    "attribute": [
+      "Agility",
+      "Energy",
+      "Entropy",
+      "Influence",
+      "Might",
+      "Persuasion",
+      "Presence"
+    ],
+    "attack": [
+      "Agility vs. Resolve",
+      "Energy vs. Resolve",
+      "Entropy vs. Resolve",
+      "Influence vs. Resolve",
+      "Might vs. Resolve",
+      "Persuasion vs. Resolve",
+      "Presence vs. Resolve"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Resist (minor) ends (Fail x 3 = 1 minute)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Consumable",
+  "content": "<h2>Description</h2>A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "item",
+		"description": "A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.",
+    "wealthModifier": "-1",
+    "tags": [
+      "item"
+    ]
+  }
+}

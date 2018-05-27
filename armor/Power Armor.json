@@ -1,0 +1,18 @@
+{
+  "name": "Power Armor",
+  "content": "<h2>Description</h2>Power Armor",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Armor",
+    "type": "Heavy",
+		"description": "Power Armor",
+    "wealthLevel": 4,
+    "requiredFortitude": 1,
+    "defenseBonus": 3,
+    "speedPenalty": 0,
+    "properties": null,
+    "similar": [
+      "Elven Plate Mail"
+    ]
+  }
+}

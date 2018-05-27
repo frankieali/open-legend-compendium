@@ -1,0 +1,9 @@
+{
+  "name": "Divine Insight",
+  "content": "<h2>Description</h2><br/><br/>You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you've just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Perks",
+    "description": "You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you've just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated."
+  }
+}

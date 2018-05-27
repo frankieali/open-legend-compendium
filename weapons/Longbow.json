@@ -1,0 +1,22 @@
+{
+  "name": "Longbow",
+  "content": "<h2>Description</h2>Longbow",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Long Ranged"],
+    "description": "Longbow",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Slowed"
+    ],
+    "properties": [
+      "Precise"
+    ],
+    "similar": [
+      "Heavy Crossbow",
+      "Rifle"
+    ]
+  }
+}

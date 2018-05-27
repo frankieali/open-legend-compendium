@@ -1,0 +1,22 @@
+{
+  "name": "Plasmablade",
+  "content": "<h2>Description</h2>This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.<h2>Special</h2>When an attack with the plasmablade exceeds the target's defense by 10 or more, the attack severs the target's limb  completely and all damage from the attack is lethal. Furthermore, the target is suffers *demoralized* (power level 3) for the remainder of the combat and the effect can't be canceled.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.",
+    "wealthLevel": 5,
+    "attributes": null,
+    "banes": ["Disarmed 3"],
+    "boons": null,
+    "properties": [
+      "Baneful (Disarmed)",
+      "Damage (Energy)",
+      "Deadly 1",
+      "Weapon (Katana)",
+      "Special"
+    ],
+    "special": "When an attack with the plasmablade exceeds the target's defense by 10 or more, the attack severs the target's limb  completely and all damage from the attack is lethal. Furthermore, the target is suffers *demoralized* (power level 3) for the remainder of the combat and the effect can't be canceled."
+  }
+}

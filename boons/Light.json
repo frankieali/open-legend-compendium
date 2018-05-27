@@ -1,0 +1,32 @@
+{
+  "name": "Light",
+  "content": "<h2>Description</h2>Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light. An android activating its head lamp, a fire mage creating a dancing torch flame, and an alchemist cracking a glow globe are all examples of this boon in play.<br/><br/><h2>Effect</h2>Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light. An android activating its head lamp, a fire mage creating a dancing torch flame, and an alchemist cracking a glow globe are all examples of this boon in play.",
+    "effect": "Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.",
+    "special": null,
+    "powerLevelEffect": null,
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "attribute": [
+      "Creation",
+      "Energy"
+    ],
+    "invocationTime": "1 Minor Action",
+    "duration": "Sustain Persists"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Slaying (creature type)",
+  "content": "<h2>Description</h2>When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "legendary",
+		"description": "When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.",
+    "wealthModifier": "Some Things, Money Can’t Buy",
+    "tags": [
+      "item",
+      "legendary"
+    ]
+  }
+}

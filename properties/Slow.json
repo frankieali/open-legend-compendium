@@ -1,0 +1,14 @@
+{
+  "name": "Slow",
+  "content": "<h2>Description</h2>If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "weapon",
+		"description": "If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+    "wealthModifier": "-1",
+    "tags": [
+      "Weapon"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Longsword",
+  "content": "<h2>Description</h2>Longsword",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Versatile Melee"],
+    "description": "Longsword",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Disarmed"
+    ],
+    "properties": [
+      "Forceful",
+      "Precise"
+    ],
+    "similar": [
+      "Katana",
+      "Falchion"
+    ]
+  }
+}

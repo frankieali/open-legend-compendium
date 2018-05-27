@@ -1,0 +1,14 @@
+{
+  "name": "Cursed (bane)",
+  "content": "<h2>Description</h2>The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the <em>restoration</em> boon at a power level high enough to dispel the bane.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "item",
+		"description": "The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the *restoration* boon at a power level high enough to dispel the bane.",
+    "wealthModifier": "WL cost for the bane on the table in step 1",
+    "tags": [
+      "item"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Maul",
+  "content": "<h2>Description</h2>Maul",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Maul",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Forced Move",
+      "Stunned"
+    ],
+    "properties": [
+      "Forceful",
+      "Heavy"
+    ],
+    "similar": [
+      "Sledge Hammer",
+      "Great Axe"
+    ]
+  }
+}

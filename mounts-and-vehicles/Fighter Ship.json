@@ -1,0 +1,32 @@
+{
+  "name": "Fighter Ship",
+  "content": "<h2>Description</h2>Fighter Ship",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Vehicle",
+    "description": "Fighter Ship",
+    "wealthLevel": 5,
+    "speed": "2000' flying",
+    "properties": [
+      "Faster than Light",
+      "Guided Weapons",
+      "Targeted Weapons",
+      "Multi-Pilot 2"
+    ],
+    "attributes": ["Energy 6"],
+    "feats": [
+      "Multi-Target Attack Specialist III (Area)"
+    ],
+    "HP": 36,
+    "DT": 4,
+    "Defenses": {
+      "Guard": 22,
+      "Toughness": 15,
+      "Resolve": "Immune"
+    },
+    "tags": [
+      "Fly"
+    ]
+  }
+}

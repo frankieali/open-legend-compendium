@@ -1,0 +1,28 @@
+{
+  "name": "Invisible",
+  "content": "<h2>Description</h2>The target vanishes from the visible spectrum, either by bending light, creating an illusion, or stepping into an extradimensional space between the fabric of the planes. This boon is a favorite of special ops agents, illusionists, shadow dancers, inventors, and similar characters.<br/><br/><h2>Effect</h2>Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li><li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "The target vanishes from the visible spectrum, either by bending light, creating an illusion, or stepping into an extradimensional space between the fabric of the planes. This boon is a favorite of special ops agents, illusionists, shadow dancers, inventors, and similar characters.",
+    "effect": "Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.",
+    "special": null,
+    "powerLevelEffect": {
+      "5": "Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.",
+      "6": "Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you."
+    },
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      5,
+      6
+    ],
+    "attribute": [
+      "Alteration",
+      "Influence"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Sustain Persists"
+  }
+}

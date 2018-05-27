@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Armored Trench Coat",
+    "content": "<h2>Description</h2>Armored Trench Coat",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Medium",
+      "description": "Armored Trench Coat",
+      "wealthLevel": 3,
+      "requiredFortitude": 2,
+      "defenseBonus": 2,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Electropolymer Armor"
+      ]
+    }
+  },{
+    "name": "Breastplate",
+    "content": "<h2>Description</h2>Breastplate",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Medium",
+      "description": "Breastplate",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 2,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Chainmail",
+        "Kevlar Vest"
+      ]
+    }
+  },{
+    "name": "Chainmail",
+    "content": "<h2>Description</h2>Chainmail",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Medium",
+      "description": "Chainmail",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 2,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Breastplate",
+        "Kevlar Vest"
+      ]
+    }
+  },{
+    "name": "Electropolymer Armor",
+    "content": "<h2>Description</h2>Electropolymer Armor",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Medium",
+      "description": "Electropolymer Armor",
+      "wealthLevel": 3,
+      "requiredFortitude": 2,
+      "defenseBonus": 2,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Armored Trench Coat"
+      ]
+    }
+  },{
+    "name": "Elven Plate Mail",
+    "content": "<h2>Description</h2>Elven Plate Mail",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Heavy",
+      "description": "Elven Plate Mail",
+      "wealthLevel": 4,
+      "requiredFortitude": 1,
+      "defenseBonus": 3,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Power Armor"
+      ]
+    }
+  },{
+    "name": "Infinity Suit",
+    "content": "<h2>Description</h2>It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.<h2>Special</h2><strong>Indestructible:</strong> While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": ["Heavy", "Legendary"],
+      "description": "It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.",
+      "wealthLevel": null,
+      "attributes": [
+        "Might 8"
+      ],
+      "banes": null,
+      "boons": [
+        "Bolster 6 (Might)",
+        "Regeneration 9",
+        "Flight 8"
+      ],
+      "properties": [
+        "Armor (power armor)",
+        "Persistent"
+      ],
+      "special": [
+        {
+          "Indestructible": "While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit."
+        }
+      ],
+      "similar": null
+    }
+  },{
+    "name": "Kevlar Vest",
+    "content": "<h2>Description</h2>Kevlar Vest",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Medium",
+      "description": "Kevlar Vest",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 2,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Breastplate",
+        "Chainmail"
+      ]
+    }
+  },{
+    "name": "Leather Armor",
+    "content": "<h2>Description</h2>Leather Armor",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Light",
+      "description": "Leather Armor",
+      "wealthLevel": 1,
+      "requiredFortitude": 0,
+      "defenseBonus": 1,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Padded Armor",
+        "Steelsilk"
+      ]
+    }
+  },{
+    "name": "Padded Armor",
+    "content": "<h2>Description</h2>Padded Armor",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Light",
+      "description": "Padded Armor",
+      "wealthLevel": 1,
+      "requiredFortitude": 0,
+      "defenseBonus": 1,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Leather Armor",
+        "Steelsilk"
+      ]
+    }
+  },{
+    "name": "Plate Mail",
+    "content": "<h2>Description</h2>Plate Mail",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Heavy",
+      "description": "Plate Mail",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 3,
+      "speedPenalty": 5,
+      "properties": null,
+      "similar": [
+        "Riot Suit",
+        "Yoroi Armor"
+      ]
+    }
+  },{
+    "name": "Power Armor",
+    "content": "<h2>Description</h2>Power Armor",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Heavy",
+      "description": "Power Armor",
+      "wealthLevel": 4,
+      "requiredFortitude": 1,
+      "defenseBonus": 3,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Elven Plate Mail"
+      ]
+    }
+  },{
+    "name": "Riot Suit",
+    "content": "<h2>Description</h2>Riot Suit",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Heavy",
+      "description": "Riot Suit",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 3,
+      "speedPenalty": 5,
+      "properties": null,
+      "similar": [
+        "Plate Mail",
+        "Yoroi Armor"
+      ]
+    }
+  },{
+    "name": "Steelsilk",
+    "content": "<h2>Description</h2>Steelsilk",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Light",
+      "description": "Steelsilk",
+      "wealthLevel": 1,
+      "requiredFortitude": 0,
+      "defenseBonus": 1,
+      "speedPenalty": 0,
+      "properties": null,
+      "similar": [
+        "Leather Armor",
+        "Padded Armor"
+      ]
+    }
+  },{
+    "name": "Yoroi Armor",
+    "content": "<h2>Description</h2>Yoroi Armor",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Armor",
+      "type": "Heavy",
+      "description": "Yoroi Armor",
+      "wealthLevel": 2,
+      "requiredFortitude": 3,
+      "defenseBonus": 3,
+      "speedPenalty": 5,
+      "properties": null,
+      "similar": [
+        "Plate Mail",
+        "Riot Suit"
+      ]
+    }
+  }
+]

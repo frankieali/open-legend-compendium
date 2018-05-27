@@ -1,0 +1,35 @@
+{
+  "name": "Resilient",
+  "content": "<h2>Description</h2>Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others. This feat can fit almost any character concept: a halfling who always has luck shining on him, a sorceress with an aura of protection, a paladin blessed by a deity, or an absent-minded professor who has no time to let disturbances get in the way of study.<br/><br/><h2>Effect</h2>Any time you make a resist roll, you have advantage 1 on the roll.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others. This feat can fit almost any character concept: a halfling who always has luck shining on him, a sorceress with an aura of protection, a paladin blessed by a deity, or an absent-minded professor who has no time to let disturbances get in the way of study.",
+    "effect": "Any time you make a resist roll, you have advantage 1 on the roll.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Fortitude": 3
+              },
+              {
+                "Presence": 3
+              },
+              {
+                "Will": 3
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Mental",
+      "Physical",
+      "Social"
+    ],
+    "cost": 3
+  }
+}

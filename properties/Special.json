@@ -1,0 +1,14 @@
+{
+  "name": "Special",
+  "content": "<h2>Description</h2>The item possesses a unique property that is explained in full detail in its description.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "item",
+		"description": "The item possesses a unique property that is explained in full detail in its description.",
+    "wealthModifier": "varies",
+    "tags": [
+      "item"
+    ]
+  }
+}

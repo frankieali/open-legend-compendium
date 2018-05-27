@@ -1,0 +1,18 @@
+{
+  "name": "Worker Bot",
+  "content": "<h2>Description</h2>This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day-to-day engineering tasks.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day-to-day engineering tasks.",
+    "wealthLevel": 4,
+    "attributes": ["Might 3"],
+    "banes": null,
+    "boons": null,
+    "properties": [
+      "Autonomous"
+    ],
+    "special": null
+  }
+}

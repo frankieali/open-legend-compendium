@@ -1,0 +1,25 @@
+{
+  "name": "Cannon",
+  "content": "<h2>Description</h2>Cannon",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Extreme Ranged"],
+    "description": "Cannon",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Forced Move",
+      "Stunned"
+    ],
+    "properties": [
+      "Precise",
+      "Slow",
+      "Area (15' square)",
+      "Delayed Ready",
+      "Heavy",
+      "Stationary"
+    ],
+    "similar": null
+  }
+}

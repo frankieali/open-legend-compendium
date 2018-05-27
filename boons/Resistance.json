@@ -1,0 +1,34 @@
+{
+  "name": "Resistance",
+  "content": "<h2>Description</h2>Whether through a magical force field, an elemental wall, self-attaching body armor, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack. This boon is common among abjurers, engineers, telekinetisists, and elemental mages.<br/><br/><h2>Effect</h2>When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the power level effects are not cumulative)<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 3</strong> - The target's defense scores are increased by 3 against the chosen attack type.</li><li><strong>Power Level 5</strong> - The target's defense scores are increased by 6 against the chosen attack type.</li><li><strong>Power Level 7</strong> - The target's defense scores are increased by 9 against the chosen attack type.</li><li><strong>Power Level 9</strong> - The target is immune to damage and harmful effects from the chosen attack type.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "Whether through a magical force field, an elemental wall, self-attaching body armor, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack. This boon is common among abjurers, engineers, telekinetisists, and elemental mages.",
+    "effect": "When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the power level effects are not cumulative)",
+    "special": null,
+    "powerLevelEffect": {
+      "3": "The target's defense scores are increased by 3 against the chosen attack type.",
+      "5": "The target's defense scores are increased by 6 against the chosen attack type.",
+      "7": "The target's defense scores are increased by 9 against the chosen attack type.",
+      "9": "The target is immune to damage and harmful effects from the chosen attack type."
+    },
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      3,
+      5,
+      7,
+      9
+    ],
+    "attribute": [
+      "Alteration",
+      "Energy",
+      "Movement",
+      "Protection"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Sustain Persists"
+  }
+}

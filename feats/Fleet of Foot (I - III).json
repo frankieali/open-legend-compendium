@@ -1,0 +1,70 @@
+{
+  "name": "Fleet of Foot (I - III)",
+  "content": "<h2>Description</h2>Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.<br/><br/><h2>Effect</h2>Your speed is permanently increased by 5' per tier of this feat.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.",
+    "effect": "Your speed is permanently increased by 5' per tier of this feat.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 4
+              },
+              {
+                "Fortitude": 4
+              },
+              {
+                "Movement": 2
+              }
+            ]
+          }
+        }
+      },
+      "2": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 5
+              },
+              {
+                "Fortitude": 5
+              },
+              {
+                "Movement": 4
+              }
+            ]
+          }
+        }
+      },
+      "3": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 7
+              },
+              {
+                "Fortitude": 7
+              },
+              {
+                "Movement": 6
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Extraordinary",
+      "Agility",
+      "Movement",
+      "Fortitude"
+    ],
+    "cost": 2
+  }
+}

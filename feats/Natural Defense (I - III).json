@@ -1,0 +1,43 @@
+{
+  "name": "Natural Defense (I - III)",
+  "content": "<h2>Description</h2>Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.<br/><br/><h2>Effect</h2>When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:<ul><li><strong>Tier 1</strong> - +1 bonus to Guard and Toughness.</li><li><strong>Tier 2</strong> - +2 bonus to Guard and Toughness.</li><li><strong>Tier 3</strong> - +3 bonus to Guard and Toughness.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.",
+    "effect": "When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat.",
+    "tiers": {
+      "1": {
+        "effect": "+1 bonus to Guard and Toughness.",
+        "prerequisites": null
+      },
+      "2": {
+        "effect": "+2 bonus to Guard and Toughness.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Fortitude": 1
+            }
+          ]
+        }
+      },
+      "3": {
+        "effect": "+3 bonus to Guard and Toughness.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Fortitude": 2
+            }
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Combat",
+      "Physical",
+      "Defense",
+      "Fortitude"
+    ],
+    "cost": 2
+  }
+}

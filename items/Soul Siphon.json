@@ -1,0 +1,16 @@
+{
+  "name": "Soul Siphon",
+  "content": "<h2>Description</h2>This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.",
+    "wealthLevel": 2,
+    "attributes": null,
+    "banes": ["Fatigued 5"],
+    "boons": null,
+    "properties": null,
+    "special": null
+  }
+}

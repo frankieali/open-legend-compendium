@@ -1,0 +1,33 @@
+{
+  "name": "Truesight",
+  "content": "<h2>Description</h2>You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.<br/><br/><h2>Effect</h2>Your target gains benefits according to your power level<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li><li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see a *phantasm* for what it is.</li><li><strong>Power Level 8</strong> - The target can see through solid objects and their natural visual range is unhindered by them.</li><li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.",
+    "effect": "Your target gains benefits according to your power level",
+    "special": null,
+    "powerLevelEffect": {
+      "5": "The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.",
+      "6": "The target's extraordinary sight pierces through magical darkness",
+      "7": "The target's extraordinary sight pierces through all illusory effects, allowing them to see a *phantasm* for what it is.",
+      "8": "The target can see through solid objects and their natural visual range is unhindered by them.",
+      "9": "The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged."
+    },
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "attribute": [
+      "Prescience"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Sustain Persists"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Blowfish Venom",
+  "content": "<h2>Description</h2>With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.",
+    "wealthLevel": 3,
+    "attributes": null,
+    "banes": [
+      "Immobile 5"
+    ],
+    "boons": null,
+    "properties": [
+      "Augmenting",
+      "Expendable"
+    ],
+    "special": null
+  }
+}

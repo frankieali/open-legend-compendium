@@ -1,0 +1,22 @@
+{
+  "name": "Shortbow",
+  "content": "<h2>Description</h2>Shortbow",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Medium Ranged"],
+    "description": "Shortbow",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Slowed",
+      "Knockdown"
+    ],
+    "properties": [
+      "Precise"
+    ],
+    "similar": [
+      "Pump Shotgun"
+    ]
+  }
+}

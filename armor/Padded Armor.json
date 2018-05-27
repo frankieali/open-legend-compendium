@@ -1,0 +1,19 @@
+{
+  "name": "Padded Armor",
+  "content": "<h2>Description</h2>Padded Armor",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Armor",
+    "type": "Light",
+		"description": "Padded Armor",
+    "wealthLevel": 1,
+    "requiredFortitude": 0,
+    "defenseBonus": 1,
+    "speedPenalty": 0,
+    "properties": null,
+    "similar": [
+      "Leather Armor",
+      "Steelsilk"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Kevlar Vest",
+  "content": "<h2>Description</h2>Kevlar Vest",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Armor",
+    "type": "Medium",
+		"description": "Kevlar Vest",
+    "wealthLevel": 2,
+    "requiredFortitude": 3,
+    "defenseBonus": 2,
+    "speedPenalty": 0,
+    "properties": null,
+    "similar": [
+      "Breastplate",
+      "Chainmail"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Brutal Intimidation",
+  "content": "<h2>Description</h2>Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.<br/><br/><h2>Effect</h2>If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
+    "effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Might": 2
+            }
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Non-Combat"
+    ],
+    "cost": 1
+  }
+}

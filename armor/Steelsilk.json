@@ -1,0 +1,19 @@
+{
+  "name": "Steelsilk",
+  "content": "<h2>Description</h2>Steelsilk",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Armor",
+    "type": "Light",
+		"description": "Steelsilk",
+    "wealthLevel": 1,
+    "requiredFortitude": 0,
+    "defenseBonus": 1,
+    "speedPenalty": 0,
+    "properties": null,
+    "similar": [
+      "Leather Armor",
+      "Padded Armor"
+    ]
+  }
+}

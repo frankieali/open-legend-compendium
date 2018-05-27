@@ -1,0 +1,493 @@
+[
+  {
+    "name": "Area (item)",
+    "content": "<h2>Description</h2>An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.",
+      "wealthModifier": "+ disadvantage penalty incurred by the area via multi-targeting",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Area (weapon)",
+    "content": "<h2>Description</h2>An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
+      "wealthModifier": "+ disadvantage penalty incurred by the area via multi-targeting",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Armor (type)",
+    "content": "<h2>Description</h2>The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.",
+      "wealthModifier": "Must be acquired or crafted first",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Attribute (bonus/penalty)",
+    "content": "<h2>Description</h2>When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "legendary",
+      "description": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
+      "wealthModifier": "Some Things, Money Can’t Buy",
+      "tags": [
+        "item",
+        "legendary"
+      ]
+    }
+  },{
+    "name": "Augmenting",
+    "content": "<h2>Description</h2>Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All <em>augmenting</em> items must have the <em>expendable</em> property.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.",
+      "wealthModifier": "+1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Autonomous",
+    "content": "<h2>Description</h2>When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
+      "wealthModifier": "+2",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Baneful (bane)",
+    "content": "<h2>Description</h2>When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
+      "wealthModifier": "1 + WL cost of bane's lowest power level on the table in step 1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Consumable",
+    "content": "<h2>Description</h2>A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.",
+      "wealthModifier": "-1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Cursed (bane)",
+    "content": "<h2>Description</h2>The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the <em>restoration</em> boon at a power level high enough to dispel the bane.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the *restoration* boon at a power level high enough to dispel the bane.",
+      "wealthModifier": "WL cost for the bane on the table in step 1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Damage (type)",
+    "content": "<h2>Description</h2>When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.",
+      "wealthModifier": null,
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Deadly",
+    "content": "<h2>Description</h2>Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
+      "wealthModifier": "2 + *deadly* value",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Defensive",
+    "content": "<h2>Description</h2>A defensive weapon grants advantage equal to the listed value when its wielder takes the <em>defend</em> action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the <em>defensive</em> value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a <em>defensive</em> value greater than 3.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.",
+      "wealthModifier": "+ *defensive* value",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Delayed Ready",
+    "content": "<h2>Description</h2>This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
+      "wealthModifier": "-1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Expendable (item)",
+    "content": "<h2>Description</h2>An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.",
+      "wealthModifier": "-1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Expendable (weapon)",
+    "content": "<h2>Description</h2>An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.",
+      "wealthModifier": "-1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Faster than Light",
+    "content": "<h2>Description</h2>The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "mounts & vehicles",
+      "description": "The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.",
+      "wealthModifier": null,
+      "tags": [
+        "item",
+        "mounts and vehicles"
+      ]
+    }
+  },{
+    "name": "Forceful",
+    "content": "<h2>Description</h2>This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
+      "wealthModifier": null,
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Guided Weapons",
+    "content": "<h2>Description</h2>Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target the Guard defense.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "mounts & vehicles",
+      "description": "Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target the Guard defense.",
+      "wealthModifier": null,
+      "tags": [
+        "item",
+        "mounts and vehicles"
+      ]
+    }
+  },{
+    "name": "Heavy",
+    "content": "<h2>Description</h2>The weapon is particularly heavy to carry. You may carry a maximum number of <em>heavy</em> items equal to your Might score.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.",
+      "wealthModifier": null,
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Independent",
+    "content": "<h2>Description</h2>A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "mounts & vehicles",
+      "description": "A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
+      "wealthModifier": null,
+      "tags": [
+        "item",
+        "mounts and vehicles"
+      ]
+    }
+  },{
+    "name": "Intelligent",
+    "content": "<h2>Description</h2>The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "legendary",
+      "description": "The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
+      "wealthModifier": "Some Things, Money Can’t Buy",
+      "tags": [
+        "item",
+        "legendary"
+      ]
+    }
+  },{
+    "name": "Multi-Pilot",
+    "content": "<h2>Description</h2>The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "mounts & vehicles",
+      "description": "The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.",
+      "wealthModifier": null,
+      "tags": [
+        "item",
+        "mounts and vehicles"
+      ]
+    }
+  },{
+    "name": "Persistent (boons)",
+    "content": "<h2>Description</h2>An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.",
+      "wealthModifier": "+3",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Potent",
+    "content": "<h2>Description</h2>Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
+      "wealthModifier": "+1",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Powerful",
+    "content": "<h2>Description</h2>Bane or boon invocations made with this item have advantage equal to the item's <em>powerful</em> value. An item cannot have a <em>powerful</em> value greater than 3.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "Bane or boon invocations made with this item have advantage equal to the item's *powerful* value. An item cannot have a *powerful* value greater than 3.",
+      "wealthModifier": "2 + *powerful* value",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Precise",
+    "content": "<h2>Description</h2>This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
+      "wealthModifier": null,
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Reach",
+    "content": "<h2>Description</h2>This weapon extends the natural melee range of the creature by 5'.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "This weapon extends the natural melee range of the creature by 5'.",
+      "wealthModifier": "+1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Reliable",
+    "content": "<h2>Description</h2>The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the <em>area</em> property, it may still benefit from the automatic success granted by the <em>reliable</em> property.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.",
+      "wealthModifier": "+2",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Sentient",
+    "content": "<h2>Description</h2>The item becomes either self-aware or capable of basic human reasoning. It has no inherent bond with its creator, and is treated like any other NPC. It gets its own turn and array of actions. The item gains no mental or social attributes, only the ability to think. At the GM's discretion, it may also gain a particular mode of movement, such as walking, climbing, flying, or swimming.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The item becomes either self-aware or capable of basic human reasoning. It has no inherent bond with its creator, and is treated like any other NPC. It gets its own turn and array of actions. The item gains no mental or social attributes, only the ability to think. At the GM's discretion, it may also gain a particular mode of movement, such as walking, climbing, flying, or swimming.",
+      "wealthModifier": "+3",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Slaying (creature type)",
+    "content": "<h2>Description</h2>When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "legendary",
+      "description": "When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.",
+      "wealthModifier": "Some Things, Money Can’t Buy",
+      "tags": [
+        "item",
+        "legendary"
+      ]
+    }
+  },{
+    "name": "Slow",
+    "content": "<h2>Description</h2>If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+      "wealthModifier": "-1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Special",
+    "content": "<h2>Description</h2>The item possesses a unique property that is explained in full detail in its description.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The item possesses a unique property that is explained in full detail in its description.",
+      "wealthModifier": "varies",
+      "tags": [
+        "item"
+      ]
+    }
+  },{
+    "name": "Stationary",
+    "content": "<h2>Description</h2>The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
+      "wealthModifier": "-1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Swift",
+    "content": "<h2>Description</h2>If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "weapon",
+      "description": "If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).",
+      "wealthModifier": "+1",
+      "tags": [
+        "Weapon"
+      ]
+    }
+  },{
+    "name": "Targeted Weapons",
+    "content": "<h2>Description</h2>A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "mounts & vehicles",
+      "description": "A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
+      "wealthModifier": null,
+      "tags": [
+        "item",
+        "mounts and vehicles"
+      ]
+    }
+  },{
+    "name": "Unfailing",
+    "content": "<h2>Description</h2>Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "legendary",
+      "description": "Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.",
+      "wealthModifier": "Some Things, Money Can’t Buy",
+      "tags": [
+        "item",
+        "legendary"
+      ]
+    }
+  },{
+    "name": "Weapon (type)",
+    "content": "<h2>Description</h2>The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.",
+    "data": {
+      "Source": "Open Legend: Core Rules",
+      "Category": "Properties",
+      "type": "item",
+      "description": "The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.",
+      "wealthModifier": "Must be acquired or crafted first",
+      "tags": [
+        "item"
+      ]
+    }
+  }
+]

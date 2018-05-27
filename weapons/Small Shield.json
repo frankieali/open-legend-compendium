@@ -1,0 +1,21 @@
+{
+  "name": "Small Shield",
+  "content": "<h2>Description</h2>Small Shield",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["One-handed Melee"],
+    "description": "Small Shield",
+		"wealthLevel": 2,
+    "banes": [
+      "Forced Move",
+      "Stunned",
+      "Knockdown"
+    ],
+    "properties": [
+      "Forceful",
+      "Defensive 1"
+    ],
+    "similar": null
+  }
+}

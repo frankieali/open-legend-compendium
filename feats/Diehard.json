@@ -1,0 +1,31 @@
+{
+  "name": "Diehard",
+  "content": "<h2>Description</h2>Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out. You might be a plucky rogue who always finds a safe nook to duck into or a veteran marine specially trained to grit your teeth and buck up when things look grim.<br/><br/><h2>Effect</h2>Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out. You might be a plucky rogue who always finds a safe nook to duck into or a veteran marine specially trained to grit your teeth and buck up when things look grim.",
+    "effect": "Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Presence": 3
+              },
+              {
+                "Fortitude": 3
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Social",
+      "Combat"
+    ],
+    "cost": 2
+  }
+}

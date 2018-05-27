@@ -1,0 +1,23 @@
+{
+  "name": "Life Drain",
+  "content": "<h2>Description</h2>Like the bite of a vampire, the soul draining touch of a black mage, or the life sucking ray gun of a mad supervillain, this boon allows the target to steal the very lifeforce of their foes.<br/><br/><h2>Effect</h2>While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "Like the bite of a vampire, the soul draining touch of a black mage, or the life sucking ray gun of a mad supervillain, this boon allows the target to steal the very lifeforce of their foes.",
+    "effect": "While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.",
+    "special": null,
+    "powerLevelEffect": null,
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      5
+    ],
+    "attribute": [
+      "Entropy"
+    ],
+    "invocationTime": "1 Major Action",
+    "duration": "Sustain Persists"
+  }
+}

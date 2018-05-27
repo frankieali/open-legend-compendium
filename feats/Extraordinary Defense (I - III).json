@@ -1,0 +1,68 @@
+{
+  "name": "Extraordinary Defense (I - III)",
+  "content": "<h2>Description</h2>Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.<br/><br/><h2>Effect</h2>You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.",
+    "effect": "You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Movement": 2
+              },
+              {
+                "Prescience": 2
+              },
+              {
+                "Protection": 2
+              }
+            ]
+          }
+        }
+      },
+      "2": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Movement": 3
+              },
+              {
+                "Prescience": 3
+              },
+              {
+                "Protection": 3
+              }
+            ]
+          }
+        }
+      },
+      "3": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Movement": 4
+              },
+              {
+                "Prescience": 4
+              },
+              {
+                "Protection": 4
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Extraordinary",
+      "Defense"
+    ],
+    "cost": 3
+  }
+}

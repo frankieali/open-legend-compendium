@@ -1,0 +1,22 @@
+{
+  "name": "Handgun",
+  "content": "<h2>Description</h2>Handgun",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Short Ranged"],
+    "description": "Handgun",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Slowed"
+    ],
+    "properties": [
+      "Precise"
+    ],
+    "similar": [
+      "Laser Pistol",
+      "Revolver"
+    ]
+  }
+}

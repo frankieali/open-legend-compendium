@@ -1,0 +1,24 @@
+{
+  "name": "Great Axe",
+  "content": "<h2>Description</h2>Great Axe",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Great Axe",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Forced Move",
+      "Stunned"
+    ],
+    "properties": [
+      "Forceful",
+      "Heavy"
+    ],
+    "similar": [
+      "Sledge Hammer",
+      "Maul"
+    ]
+  }
+}

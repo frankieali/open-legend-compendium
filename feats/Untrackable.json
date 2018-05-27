@@ -1,0 +1,36 @@
+{
+  "name": "Untrackable",
+  "content": "<h2>Description</h2>Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.<br/><br/><h2>Effect</h2>Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.",
+    "effect": "Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 3
+              },
+              {
+                "Alteration": 3
+              },
+              {
+                "Influence": 3
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Non-Combat",
+      "Protection",
+      "Alteration",
+      "Influence"
+    ],
+    "cost": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Pegasus",
+  "content": "<h2>Description</h2>Pegasus",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Mounts",
+    "description": "Pegasus",
+    "wealthLevel": 4,
+    "speed": "50' flying",
+    "properties": null,
+    "attributes": [
+      "Might 4",
+      "Creation 4"
+    ],
+    "feats": [
+      "Boon Focus I (Heal)"
+    ],
+    "HP": 28,
+    "DT": 1,
+    "Defenses": {
+      "Guard": 18,
+      "Toughness": 17,
+      "Resolve": 17
+    },
+    "tags": [
+      "Fly"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Lightning Reflexes (I - V)",
+  "content": "<h2>Description</h2>You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.<br/><br/><h2>Effect</h2>For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.",
+    "effect": "For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 2
+              },
+              {
+                "Prescience": 2
+              }
+            ]
+          }
+        }
+      },
+      "2": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 2
+              },
+              {
+                "Prescience": 2
+              }
+            ]
+          }
+        }
+      },
+      "3": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 4
+              },
+              {
+                "Prescience": 4
+              }
+            ]
+          }
+        }
+      },
+      "4": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 4
+              },
+              {
+                "Prescience": 4
+              }
+            ]
+          }
+        }
+      },
+      "5": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 4
+              },
+              {
+                "Prescience": 4
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Physical",
+      "Extraordinary",
+      "Agility",
+      "Prescience"
+    ],
+    "cost": 1
+  }
+}

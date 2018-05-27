@@ -1,0 +1,22 @@
+{
+  "name": "Pump Shotgun",
+  "content": "<h2>Description</h2>Pump Shotgun",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Medium Ranged"],
+    "description": "Pump Shotgun",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Slowed",
+      "Knockdown"
+    ],
+    "properties": [
+      "Precise"
+    ],
+    "similar": [
+      "Shortbow"
+    ]
+  }
+}

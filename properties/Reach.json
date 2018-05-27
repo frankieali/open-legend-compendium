@@ -1,0 +1,14 @@
+{
+  "name": "Reach",
+  "content": "<h2>Description</h2>This weapon extends the natural melee range of the creature by 5'.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "weapon",
+		"description": "This weapon extends the natural melee range of the creature by 5'.",
+    "wealthModifier": "+1",
+    "tags": [
+      "Weapon"
+    ]
+  }
+}

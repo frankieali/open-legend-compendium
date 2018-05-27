@@ -1,0 +1,19 @@
+{
+  "name": "Defensive Mastery",
+  "content": "<h2>Description</h2>You know how to turn a strong offense into an even stronger defense. Your special training or experience with defensive implements and shields allows you to capitalize on their defensive benefits far beyond the average wielder. Examples include a martial artist's defensive kata or a soldier equipped with a riot shield.<br/><br/><h2>Effect</h2>When wielding a weapon or implement with the <em>defensive</em> property, you gain an additional +1 armor bonus. In addition, the <em>defensive</em> value of the item is increased by 1 when you wield it. So <em>defensive</em> 1 becomes <em>defensive</em> 2 and <em>defensive</em> 2 becomes <em>defensive</em> 3.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "You know how to turn a strong offense into an even stronger defense. Your special training or experience with defensive implements and shields allows you to capitalize on their defensive benefits far beyond the average wielder. Examples include a martial artist's defensive kata or a soldier equipped with a riot shield.",
+    "effect": "When wielding a weapon or implement with the _defensive_ property, you gain an additional +1 armor bonus. In addition, the _defensive_ value of the item is increased by 1 when you wield it. So _defensive_ 1 becomes _defensive_ 2 and _defensive_ 2 becomes _defensive_ 3.",
+    "tiers": {
+      "1": {
+        "prerequisites": null
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "cost": 3
+  }
+}

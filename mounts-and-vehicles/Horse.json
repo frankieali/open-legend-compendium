@@ -1,0 +1,25 @@
+{
+  "name": "Horse",
+  "content": "<h2>Description</h2>Horse",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Mounts",
+    "description": "Horse",
+    "wealthLevel": 3,
+    "speed": "40'",
+    "properties": null,
+    "attributes": ["Might 4"],
+    "feats": null,
+    "HP": 28,
+    "DT": 1,
+    "Defenses": {
+      "Guard": 15,
+      "Toughness": 15,
+      "Resolve": 10
+    },
+    "tags": [
+      "Land"
+    ]
+  }
+}

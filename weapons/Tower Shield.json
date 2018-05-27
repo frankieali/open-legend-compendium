@@ -1,0 +1,23 @@
+{
+  "name": "Tower Shield",
+  "content": "<h2>Description</h2>Tower Shield",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["One-handed Melee"],
+    "description": "Tower Shield",
+		"wealthLevel": 3,
+    "banes": [
+      "Forced Move",
+      "Stunned",
+      "Knockdown"
+    ],
+    "properties": [
+      "Forceful",
+      "Defensive 2"
+    ],
+    "similar": [
+      "Riot Shield"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Flamethrower",
+  "content": "<h2>Description</h2>Flamethrower",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Flamethrower",
+		"wealthLevel": 3,
+    "banes": [
+      "Fear",
+      "Persistent Damage"
+    ],
+    "properties": [
+      "Precise",
+      "Slow",
+      "Area (5' / 10' cone)"
+    ],
+    "similar": null
+  }
+}

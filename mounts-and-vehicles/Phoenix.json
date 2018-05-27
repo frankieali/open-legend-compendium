@@ -1,0 +1,29 @@
+{
+  "name": "Phoenix",
+  "content": "<h2>Description</h2>Phoenix",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Mounts",
+    "description": "Phoenix",
+    "wealthLevel": 5,
+    "speed": "50' flying",
+    "properties": [
+      "Independent 1"
+    ],
+    "attributes": ["Energy 7"],
+    "feats": [
+      "Attack Specialization II (Fire)"
+    ],
+    "HP": 32,
+    "DT": 1,
+    "Defenses": {
+      "Guard": 20,
+      "Toughness": 16,
+      "Resolve": 19
+    },
+    "tags": [
+      "Fly"
+    ]
+  }
+}

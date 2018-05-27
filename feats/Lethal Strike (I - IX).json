@@ -1,0 +1,108 @@
+{
+  "name": "Lethal Strike (I - IX)",
+  "content": "<h2>Description</h2>Like a highly trained sniper, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.<br/><br/><h2>Effect</h2>Your attacks are considered lethal strikes whenever you fulfill <em>one</em> of the following conditions:<ul><li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li><li>Your target is within melee attack range of an ally.</li></ul>You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).<ul><li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage.</li><li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage.</li><li><strong>Tier 3</strong> - Advantage 3. Up to 10 lethal damage.</li><li><strong>Tier 4</strong> - Advantage 4. Up to 10 lethal damage.</li><li><strong>Tier 5</strong> - Advantage 5. Up to 15 lethal damage.</li><li><strong>Tier 6</strong> - Advantage 6. Up to 20 lethal damage.</li><li><strong>Tier 7</strong> - Advantage 7. Up to 20 lethal damage.</li><li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage.</li><li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Like a highly trained sniper, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.",
+    "effect": "Your attacks are considered lethal strikes whenever you fulfill _one_ of the following conditions:\n\n*   Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.\n*   Your target is within melee attack range of an ally.\n\nYou gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).",
+    "tiers": {
+      "1": {
+        "effect": "Advantage 1. Up to 5 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "2": {
+        "effect": "Advantage 2. Up to 5 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "3": {
+        "effect": "Advantage 3. Up to 10 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 3
+            }
+          ]
+        }
+      },
+      "4": {
+        "effect": "Advantage 4. Up to 10 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "5": {
+        "effect": "Advantage 5. Up to 15 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "6": {
+        "effect": "Advantage 6. Up to 20 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 5
+            }
+          ]
+        }
+      },
+      "7": {
+        "effect": "Advantage 7. Up to 20 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      },
+      "8": {
+        "effect": "Advantage 8. Up to 25 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      },
+      "9": {
+        "effect": "Advantage 9. Up to 25 lethal damage.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Extraordinary",
+      "Agility",
+      "Combat"
+    ],
+    "cost": 3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Halberd",
+  "content": "<h2>Description</h2>Halberd",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Halberd",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Immobile",
+      "Forced Move"
+    ],
+    "properties": [
+      "Forceful",
+      "Reach"
+    ],
+    "similar": [
+      "Glaive",
+      "Naginata"
+    ]
+  }
+}

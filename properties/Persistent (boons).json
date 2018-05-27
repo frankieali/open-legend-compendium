@@ -1,0 +1,14 @@
+{
+  "name": "Persistent (boons)",
+  "content": "<h2>Description</h2>An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "item",
+		"description": "An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.",
+    "wealthModifier": "+3",
+    "tags": [
+      "item"
+    ]
+  }
+}

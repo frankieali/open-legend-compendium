@@ -1,0 +1,16 @@
+{
+  "name": "Crystal Ball",
+  "content": "<h2>Description</h2>No mystic should go without this quintessential tool for peering beyond the limits of normal sight.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "No mystic should go without this quintessential tool for peering beyond the limits of normal sight.",
+    "wealthLevel": 3,
+    "attributes": null,
+    "banes": ["Spying 6"],
+    "boons": null,
+    "properties": null,
+    "special": null
+  }
+}

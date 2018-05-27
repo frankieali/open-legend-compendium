@@ -1,0 +1,20 @@
+{
+  "name": "Firebrand",
+  "content": "<h2>Description</h2>A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
+    "wealthLevel": 4,
+    "attributes": null,
+    "banes": null,
+    "boons": null,
+    "properties": [
+      "Baneful (Persistent Damage)",
+      "Damage (Fire)",
+      "Weapon (Longsword)"
+    ],
+    "special": null
+  }
+}

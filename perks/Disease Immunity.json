@@ -1,0 +1,9 @@
+{
+  "name": "Disease Immunity",
+  "content": "<h2>Description</h2><br/><br/>You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Perks",
+    "description": "You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy."
+  }
+}

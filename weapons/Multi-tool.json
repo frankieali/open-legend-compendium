@@ -1,0 +1,23 @@
+{
+  "name": "Multi-tool",
+  "content": "<h2>Description</h2>Multi-tool",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["One-handed Melee"],
+    "description": "Multi-tool",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Disarmed"
+    ],
+    "properties": [
+      "Precise",
+      "Swift"
+    ],
+    "similar": [
+      "Bowie Knife",
+      "Shiv"
+    ]
+  }
+}

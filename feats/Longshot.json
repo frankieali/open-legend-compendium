@@ -1,0 +1,34 @@
+{
+  "name": "Longshot",
+  "content": "<h2>Description</h2>Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.<br/><br/><h2>Effect</h2>When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.<br/>With the chosen weapon or attack type, your range with that weapon or attribute is doubled.<br/><br/><h2>Special</h2>You may take this feat multiple times. If you do, select a new weapon or attack type each time.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.",
+    "effect": "When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.\nWith the chosen weapon or attack type, your range with that weapon or attribute is doubled.",
+    "special": "You may take this feat multiple times. If you do, select a new weapon or attack type each time.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "any": {
+            "Attribute": [
+              {
+                "Agility": 5
+              },
+              {
+                "Might": 5
+              },
+              {
+                "Any Extraordinary": 5
+              }
+            ]
+          }
+        }
+      }
+    },
+    "tags": [
+      "Combat"
+    ],
+    "cost": 1
+  }
+}

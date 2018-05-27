@@ -1,0 +1,27 @@
+{
+  "name": "Tongues",
+  "content": "<h2>Description</h2>You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.<br/><br/><h2>Effect</h2>Your target gains benefits according to your power level<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 5</strong> - Your target can understand and speak a language of your choice.</li><li><strong>Power Level 6</strong> - Your target can read a language of your choice.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.",
+    "effect": "Your target gains benefits according to your power level",
+    "special": null,
+    "powerLevelEffect": {
+      "5": "Your target can understand and speak a language of your choice.",
+      "6": "Your target can read a language of your choice."
+    },
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      5,
+      6
+    ],
+    "attribute": [
+      "Prescience"
+    ],
+    "invocationTime": "10 Minutes",
+    "duration": "Sustain Persists"
+  }
+}

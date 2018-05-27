@@ -1,0 +1,33 @@
+{
+  "name": "Transmutation",
+  "content": "<h2>Description</h2>You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.<br/><br/><h2>Effect</h2>Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li><li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li><li><strong>Power Level 7</strong> - <em>Permanently</em> transmute an object into another object of the same size and weight. <em>Temporarily</em> transmute an object into another object of the same size and 200% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 200% greater or lesser size.</li><li><strong>Power Level 8</strong> - <em>Permanently</em> transmute an object into another object of up to 200% difference in size and/or weight. <em>Temporarily</em> transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.</li><li><strong>Power Level 9</strong> - <em>Permanently</em> transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Boons",
+    "description": "You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.",
+    "effect": "Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.",
+    "special": null,
+    "powerLevelEffect": {
+      "3": "_Temporarily_ transmute an object into another object of the same size and weight.",
+      "5": "_Temporarily_ transmute an object into another object of the same size and 50% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 50% greater or lesser size.",
+      "7": "_Permanently_ transmute an object into another object of the same size and weight. _Temporarily_ transmute an object into another object of the same size and 200% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 200% greater or lesser size.",
+      "8": "_Permanently_ transmute an object into another object of up to 200% difference in size and/or weight. _Temporarily_ transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.",
+      "9": "_Permanently_ transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less."
+    },
+    "tags": [
+      "Extraordinary"
+    ],
+    "power": [
+      3,
+      5,
+      7,
+      8,
+      9
+    ],
+    "attribute": [
+      "Alteration"
+    ],
+    "invocationTime": "1 Minute",
+    "duration": "Sustain Persists"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Digital Camouflage",
+  "content": "<h2>Description</h2>This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.",
+    "wealthLevel": 4,
+    "attributes": null,
+    "banes": null,
+    "boons": ["Invisible 5"],
+    "properties": ["Reliable"],
+    "special": null
+  }
+}

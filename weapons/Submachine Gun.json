@@ -1,0 +1,23 @@
+{
+  "name": "Submachine Gun",
+  "content": "<h2>Description</h2>Submachine Gun",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Medium Ranged"],
+    "description": "Submachine Gun",
+		"wealthLevel": 3,
+    "banes": [
+      "Persistent Damage",
+      "Provoked",
+      "Demoralized"
+    ],
+    "properties": [
+      "Precise",
+      "Area (10' cube)"
+    ],
+    "similar": [
+      "M16"
+    ]
+  }
+}

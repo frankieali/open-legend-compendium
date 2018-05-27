@@ -1,0 +1,29 @@
+{
+  "name": "Drake",
+  "content": "<h2>Description</h2>Drake",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Mounts & Vehicles",
+    "type": "Mounts",
+    "description": "Drake",
+    "wealthLevel": 5,
+    "speed": "50' flying",
+    "properties": [
+      "Independent 1"
+    ],
+    "attributes": ["Energy 6"],
+    "feats": [
+      "Multi-Target Attack Specialist III (Area)"
+    ],
+    "HP": 38,
+    "DT": 1,
+    "Defenses": {
+      "Guard": 20,
+      "Toughness": 18,
+      "Resolve": 15
+    },
+    "tags": [
+      "Fly"
+    ]
+  }
+}

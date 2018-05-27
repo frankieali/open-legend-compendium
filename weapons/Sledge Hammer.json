@@ -1,0 +1,24 @@
+{
+  "name": "Sledge Hammer",
+  "content": "<h2>Description</h2>Sledge Hammer",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": ["Two-handed Melee"],
+    "description": "Sledge Hammer",
+		"wealthLevel": 2,
+    "banes": [
+      "Knockdown",
+      "Forced Move",
+      "Stunned"
+    ],
+    "properties": [
+      "Forceful",
+      "Heavy"
+    ],
+    "similar": [
+      "Maul",
+      "Great Axe"
+    ]
+  }
+}

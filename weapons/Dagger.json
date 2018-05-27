@@ -1,0 +1,26 @@
+{
+  "name": "Dagger",
+  "content": "<h2>Description</h2>Dagger",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Weapons",
+    "type": [
+      "Close Ranged",
+      "One-handed Melee"
+    ],
+    "description": "Dagger",
+		"wealthLevel": 2,
+    "banes": [
+      "Persistent Damage",
+      "Disarmed"
+    ],
+    "properties": [
+      "Forceful",
+      "Precise",
+      "Swift"
+    ],
+    "similar": [
+      "Hatchet"
+    ]
+  }
+}

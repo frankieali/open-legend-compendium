@@ -1,0 +1,15 @@
+{
+  "name": "Multi-Pilot",
+  "content": "<h2>Description</h2>The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Properties",
+    "type": "mounts & vehicles",
+		"description": "The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.",
+    "wealthModifier": null,
+    "tags": [
+      "item",
+      "mounts and vehicles"
+    ]
+  }
+}

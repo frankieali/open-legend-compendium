@@ -1,0 +1,31 @@
+{
+  "name": "Crushing Blow",
+  "content": "<h2>Description</h2>Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.<br/><br/><h2>Effect</h2>Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the <em>knockdown</em> bane.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.",
+    "effect": "Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the _knockdown_ bane.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Might": 6
+            }
+          ],
+          "Feat": [
+            "Overpowering Strike"
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Physical",
+      "Combat",
+      "Feat Chain",
+      "Might"
+    ],
+    "cost": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Colt 45",
+  "content": "<h2>Description</h2>With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Items",
+    "type": "Extraordinary",
+    "description": "With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.",
+    "wealthLevel": 3,
+    "attributes": null,
+    "banes": null,
+    "boons": null,
+    "properties": [
+      "Deadly 1",
+      "Weapon (Revolver)"
+    ],
+    "special": null
+  }
+}

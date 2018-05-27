@@ -1,0 +1,26 @@
+{
+  "name": "Fast Draw",
+  "content": "<h2>Description</h2>Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.<br/><br/><h2>Effect</h2>Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.",
+    "effect": "Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.",
+    "tiers": {
+      "1": {
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 1
+            }
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Combat",
+      "Agility"
+    ],
+    "cost": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Death Blow (I - II)",
+  "content": "<h2>Description</h2>You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.<br/><br/><h2>Effect</h2>You gain benefits according to your tier in this feat.<ul><li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.</li><li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the <em>stunned</em> bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li></ul>",
+  "data": {
+    "Source": "Open Legend: Core Rules",
+    "Category": "Feats",
+    "description": "You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.",
+    "effect": "You gain benefits according to your tier in this feat.",
+    "tiers": {
+      "1": {
+        "effect": "If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 6
+            }
+          ],
+          "Feat": [
+            "Lethal Strike I"
+          ]
+        }
+      },
+      "2": {
+        "effect": "Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.",
+        "prerequisites": {
+          "Attribute": [
+            {
+              "Agility": 7
+            }
+          ],
+          "Feat": [
+            "Lethal Strike III"
+          ]
+        }
+      }
+    },
+    "tags": [
+      "Combat",
+      "Physical"
+    ],
+    "cost": 3
+  }
+}
