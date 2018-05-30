@@ -1,23 +1,14 @@
 {
   "name": "M16",
-  "content": "<h2>Description</h2>M16",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Medium Ranged"],
-    "description": "M16",
-		"wealthLevel": 3,
-    "banes": [
-      "Persistent Damage",
-      "Provoked",
-      "Demoralized"
-    ],
-    "properties": [
-      "Precise",
-      "Area (10' cube)"
-    ],
-    "similar": [
-      "Submachine Gun"
-    ]
+    "Type": "Medium Ranged",
+    "data-description": "",
+		"Wealth Level": 3,
+    "Banes": "Persistent Damage, Provoked, Demoralized",
+    "Properties": "Precise, Area (10' cube)",
+    "Similar": "Submachine Gun"
   }
 }

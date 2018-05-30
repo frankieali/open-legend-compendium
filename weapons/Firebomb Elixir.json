@@ -1,24 +1,14 @@
 {
   "name": "Firebomb Elixir",
-  "content": "<h2>Description</h2>Firebomb Elixir",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Close Ranged"],
-    "description": "Firebomb Elixir",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Knockdown",
-      "Forced Move"
-    ],
-    "properties": [
-      "Precise",
-      "Expendable",
-      "Area (10' cube)"
-    ],
-    "similar": [
-      "Grenade"
-    ]
+    "Type": "Close Ranged",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Knockdown, Forced Move",
+    "Properties": "Precise, Expendable, Area (10' cube)",
+    "Similar": "Grenade"
   }
 }

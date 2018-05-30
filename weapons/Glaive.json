@@ -1,24 +1,14 @@
 {
   "name": "Glaive",
-  "content": "<h2>Description</h2>Glaive",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Two-handed Melee"],
-    "description": "Glaive",
-		"wealthLevel": 2,
-    "banes": [
-      "Knockdown",
-      "Immobile",
-      "Forced Move"
-    ],
-    "properties": [
-      "Forceful",
-      "Reach"
-    ],
-    "similar": [
-      "Halberd",
-      "Naginata"
-    ]
+    "Type": "Two-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Knockdown, Immobile, Forced Move",
+    "Properties": "Forceful, Reach",
+    "Similar": "Halberd, Naginata"
   }
 }

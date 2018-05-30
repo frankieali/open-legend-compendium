@@ -1,28 +1,16 @@
 {
   "name": "Reaver",
-  "content": "<h2>Description</h2>This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.<h2>Special</h2><strong>Warble:</strong> Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.",
+  "content": "<h2>Description</h2>This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.<br><br><h2>Special</h2><strong>Warble</strong>: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Two-handed Melee", "Legendary"],
-    "description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
-    "wealthLevel": null,
-    "attributes": [
-      "Might +2",
-      "Presence +2"
-    ],
-    "banes": [
-      "Fear 8"
-    ],
-    "properties": [
-      "Weapon (Great Axe)",
-      "Unfailing"
-    ],
-    "special": [
-      {
-        "Warble": "Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8."
-      }
-    ],
-    "similar": null
+    "Type": "Two-handed Melee, Legendary",
+    "data-description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
+    "Wealth Level": "n/a",
+    "attributes": "Might +2, Presence +2",
+    "Banes": "Fear 8",
+    "Properties": "Weapon (Great Axe), Unfailing",
+    "Special": "Warble",
+    "special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
   }
 }

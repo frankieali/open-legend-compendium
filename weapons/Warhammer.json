@@ -1,22 +1,14 @@
 {
   "name": "Warhammer",
-  "content": "<h2>Description</h2>Warhammer",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Warhammer",
-		"wealthLevel": 2,
-    "banes": [
-      "Knockdown",
-      "Stunned",
-      "Forced Move"
-    ],
-    "properties": [
-      "Forceful"
-    ],
-    "similar": [
-      "Mace"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Knockdown, Stunned, Forced Move",
+    "Properties": "Forceful",
+    "Similar": "Mace"
   }
 }

@@ -1,22 +1,14 @@
 {
   "name": "Pitchfork",
-  "content": "<h2>Description</h2>Pitchfork",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Two-handed Melee"],
-    "description": "Pitchfork",
-		"wealthLevel": 1,
-    "banes": [
-      "Knockdown",
-      "Immobile",
-      "Forced Move"
-    ],
-    "properties": [
-      "Forceful"
-    ],
-    "similar": [
-      "Staff"
-    ]
+    "Type": "Two-handed Melee",
+    "data-description": "",
+		"Wealth Level": 1,
+    "Banes": "Knockdown, Immobile, Forced Move",
+    "Properties": "Forceful",
+    "Similar": "Staff"
   }
 }

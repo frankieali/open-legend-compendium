@@ -1,24 +1,14 @@
 {
   "name": "Scimitar",
-  "content": "<h2>Description</h2>Scimitar",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Scimitar",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise"
-    ],
-    "similar": [
-      "Shortsword",
-      "Machete",
-      "Sawblade"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Forceful, Precise",
+    "Similar": "Shortsword, Machete, Sawblade"
   }
 }

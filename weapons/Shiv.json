@@ -1,23 +1,14 @@
 {
   "name": "Shiv",
-  "content": "<h2>Description</h2>Shiv",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Shiv",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Precise",
-      "Swift"
-    ],
-    "similar": [
-      "Bowie Knife",
-      "Multi-tool"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Precise, Swift",
+    "Similar": "Bowie Knife, Multi-tool"
   }
 }
