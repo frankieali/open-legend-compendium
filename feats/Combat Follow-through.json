@@ -4,16 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.",
-    "effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
-    "tiers": {
-      "1": {
-        "prerequisites": null
-      }
-    },
-    "tags": [
-      "Combat"
-    ],
-    "cost": 2
+    "data-description": "You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.",
+    "data-effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
+    "Tier Prerequisites (1)": "None",
+    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Tags": "Combat, No Prerequisite",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }
