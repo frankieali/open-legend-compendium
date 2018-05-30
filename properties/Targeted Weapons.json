@@ -1,15 +1,12 @@
 {
   "name": "Targeted Weapons",
-  "content": "<h2>Description</h2>A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
+  "content": "A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "mounts & vehicles",
-		"description": "A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
-    "wealthModifier": null,
-    "tags": [
-      "item",
-      "mounts and vehicles"
-    ]
+    "Type": "Mounts & Vehicles",
+		"data-description": "A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
+    "Wealth Modifier": "n/a",
+    "Tags": "Item, Mounts and Vehicles"
   }
 }

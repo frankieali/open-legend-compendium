@@ -1,14 +1,12 @@
 {
   "name": "Autonomous",
-  "content": "<h2>Description</h2>When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
+  "content": "When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "item",
-		"description": "When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
-    "wealthModifier": "+2",
-    "tags": [
-      "item"
-    ]
+    "Type": "Item",
+		"data-description": "When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).",
+    "Wealth Modifier": "+2",
+    "Tags": "Item"
   }
 }

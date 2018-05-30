@@ -1,14 +1,12 @@
 {
   "name": "Area (weapon)",
-  "content": "<h2>Description</h2>An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
+  "content": "An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "weapon",
-		"description": "An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
-    "wealthModifier": "+ disadvantage penalty incurred by the area via multi-targeting",
-    "tags": [
-      "Weapon"
-    ]
+    "Type": "Weapon",
+		"data-description": "An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.",
+    "Wealth Modifier": "+ disadvantage penalty incurred by the area via multi-targeting",
+    "Tags": "Weapon"
   }
 }

@@ -1,14 +1,12 @@
 {
   "name": "Stationary",
-  "content": "<h2>Description</h2>The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
+  "content": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "weapon",
-		"description": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
-    "wealthModifier": "-1",
-    "tags": [
-      "Weapon"
-    ]
+    "Type": "Weapon",
+		"data-description": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
+    "Wealth Modifier": "-1",
+    "Tags": "Weapon"
   }
 }
