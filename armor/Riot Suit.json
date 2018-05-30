@@ -1,19 +1,14 @@
 {
   "name": "Riot Suit",
-  "content": "<h2>Description</h2>Riot Suit",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Heavy",
-		"description": "Riot Suit",
-    "wealthLevel": 2,
-    "requiredFortitude": 3,
-    "defenseBonus": 3,
-    "speedPenalty": 5,
-    "properties": null,
-    "similar": [
-      "Plate Mail",
-      "Yoroi Armor"
-    ]
+    "Type": "Heavy",
+    "Wealth Level": 2,
+    "Required Fortitude": 3,
+    "Defense Bonus": 3,
+    "Speed Penalty": 5,
+    "Similar": "Plate Mail, Yoroi Armor"
   }
 }

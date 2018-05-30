@@ -1,19 +1,14 @@
 {
   "name": "Chainmail",
-  "content": "<h2>Description</h2>Chainmail",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Medium",
-		"description": "Chainmail",
-    "wealthLevel": 2,
-    "requiredFortitude": 3,
-    "defenseBonus": 2,
-    "speedPenalty": 0,
-    "properties": null,
-    "similar": [
-      "Breastplate",
-      "Kevlar Vest"
-    ]
+    "Type": "Medium",
+    "Wealth Level": 2,
+    "Required Fortitude": 3,
+    "Defense Bonus": 2,
+    "Speed Penalty": 0,
+    "Similar": "Breastplate, Kevlar Vest"
   }
 }

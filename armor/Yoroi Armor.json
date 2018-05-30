@@ -1,19 +1,14 @@
 {
   "name": "Yoroi Armor",
-  "content": "<h2>Description</h2>Yoroi Armor",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Heavy",
-		"description": "Yoroi Armor",
-    "wealthLevel": 2,
-    "requiredFortitude": 3,
-    "defenseBonus": 3,
-    "speedPenalty": 5,
-    "properties": null,
-    "similar": [
-      "Plate Mail",
-      "Riot Suit"
-    ]
+    "Type": "Heavy",
+    "Wealth Level": 2,
+    "Required Fortitude": 3,
+    "Defense Bonus": 3,
+    "Speed Penalty": 5,
+    "Similar": "Plate Mail, Riot Suit"
   }
 }

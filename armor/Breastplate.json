@@ -1,19 +1,14 @@
 {
   "name": "Breastplate",
-  "content": "<h2>Description</h2>Breastplate",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Medium",
-		"description": "Breastplate",
-    "wealthLevel": 2,
-    "requiredFortitude": 3,
-    "defenseBonus": 2,
-    "speedPenalty": 0,
-    "properties": null,
-    "similar": [
-      "Chainmail",
-      "Kevlar Vest"
-    ]
+    "Type": "Medium",
+    "Wealth Level": 2,
+    "Required Fortitude": 3,
+    "Defense Bonus": 2,
+    "Speed Penalty": 0,
+    "Similar": "Chainmail, Kevlar Vest"
   }
 }
