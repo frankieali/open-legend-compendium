@@ -1,28 +1,21 @@
 {
   "name": "Giant Scorpion",
-  "content": "<h2>Description</h2>Giant Scorpion",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Mounts",
-    "description": "Giant Scorpion",
-    "wealthLevel": 5,
-    "speed": "35'",
-    "properties": ["Independent 1"],
-    "attributes": [
-      "Agility 5",
-      "Perception 5"
-    ],
-    "feats": ["Bane Focus I (Persistent Damage)"],
+    "Type": "Mount",
+    "data-description": "",
+    "Wealth Level": 5,
+    "Speed": "35'",
+    "Properties": "Independent 1",
+    "Attributes": "Agility 5, Perception 5",
+    "Feats": "Bane Focus I (Persistent Damage)",
     "HP": 20,
     "DT": 2,
-    "Defenses": {
-      "Guard": 15,
-      "Toughness": 15,
-      "Resolve": 18
-    },
-    "tags": [
-      "Land"
-    ]
+    "Guard": 15,
+    "Toughness": 15,
+    "Resolve": 18,
+    "Tags": "Land"
   }
 }

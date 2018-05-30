@@ -1,28 +1,20 @@
 {
   "name": "Dire Wolf",
-  "content": "<h2>Description</h2>Dire Wolf",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Mounts",
-    "description": "Dire Wolf",
-    "wealthLevel": 3,
-    "speed": "40'",
-    "properties": null,
-    "attributes": [
-      "Agility 5",
-      "Perception 5"
-    ],
-    "feats": ["Bane Focus I (Knockdown)"],
+    "Type": "Mount",
+    "data-description": "",
+    "Wealth Level": 3,
+    "Speed": "40'",
+    "Attributes": "Agility 5, Perception 5",
+    "Feats": "Bane Focus I (Knockdown)",
     "HP": 24,
     "DT": 1,
-    "Defenses": {
-      "Guard": 17,
-      "Toughness": 14,
-      "Resolve": 15
-    },
-    "tags": [
-      "Land"
-    ]
+    "Guard": 17,
+    "Toughness": 14,
+    "Resolve": 15,
+    "Tags": "Land"
   }
 }

@@ -1,27 +1,21 @@
 {
   "name": "T-Rex",
-  "content": "<h2>Description</h2>T-Rex",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Mounts",
-    "description": "T-Rex",
-    "wealthLevel": 5,
-    "speed": "50'",
-    "properties": ["Independent 1"],
-    "attributes": [
-      "Might 6"
-    ],
-    "feats": ["Attack Specialization II (Bite)"],
+    "Type": "Mount",
+    "data-description": "",
+    "Wealth Level": 5,
+    "Speed": "50'",
+    "Properties": "Independent 1",
+    "Attributes": "Might 6",
+    "Feats": "Attack Specialization II (Bite)",
     "HP": 38,
     "DT": 1,
-    "Defenses": {
-      "Guard": 20,
-      "Toughness": 15,
-      "Resolve": 15
-    },
-    "tags": [
-      "Land"
-    ]
+    "Guard": 20,
+    "Toughness": 15,
+    "Resolve": 15,
+    "Tags": "Land"
   }
 }

@@ -1,33 +1,21 @@
 {
   "name": "Mech Unit",
-  "content": "<h2>Description</h2>Mech Unit",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Vehicle",
-    "description": "Mech Unit",
-    "wealthLevel": 4,
-    "speed": "40'",
-    "properties": [
-      "Guided Weapons",
-      "Targeted Weapons"
-    ],
-    "attributes": [
-      "Energy 5",
-      "Agility 6"
-    ],
-    "feats": [
-      "Multi-Target Attack Specialist II (Area)"
-    ],
+    "Type": "Vehicle",
+    "data-description": "",
+    "Wealth Level": 4,
+    "Speed": "40'",
+    "Properties": "Guided Weapons, Targeted Weapons",
+    "Attributes": "Energy 5, Agility 6",
+    "Feats": "Multi-Target Attack Specialist II (Area)",
     "HP": 22,
     "DT": 3,
-    "Defenses": {
-      "Guard": 22,
-      "Toughness": 20,
-      "Resolve": "Immune"
-    },
-    "tags": [
-      "Land"
-    ]
+    "Guard": 22,
+    "Toughness": 20,
+    "Resolve": "Immune",
+    "Tags": "Land"
   }
 }
