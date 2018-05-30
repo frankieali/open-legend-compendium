@@ -15,8 +15,8 @@ Armor items are described as follows:
     "Defense Bonus": {int} - The bonus to your guard defense
     "Speed Penalty": {int} - The reduction in speed due to the armor's bulk or weight
     "Properties": {string} - Properties this armor posesses
-    "Special": {string} - Special and/or unique properties of this item
-    "data-special": {Array.<Object>: [optional]} - List of special properties that an Extrodinary or Legendary piece of equipment may possess
+    "Special": {string} - Special and/or unique properties of this item (without description)
+    "data-special": {string } | Array.<Object>} - Special properties that an Extrodinary or Legendary piece of equipment may possess and it's description
     "Similar": {string} - Items that have very similar stats but designed for a different time period, genre or environment. Re-skined versions
   }
 }
@@ -25,3 +25,6 @@ Armor items are described as follows:
 ## TODO
 *  Descriptions needed
 *  Images (url's) would be nice
+
+## Notes
+*  `data-special` can be a plain string containing a general description or an array of objects with named special properties and descriptions
