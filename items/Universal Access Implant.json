@@ -4,16 +4,11 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This implant is a coveted tool, gifted by the Intergalactic Alliance to their most trusted agents. For a resourceful user, it unlocks infinite doors. If not for the built-in AI monitoring your every move, it would priceless.",
-    "wealthLevel": 6,
-    "attributes": ["Presence 7"],
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Autonomous",
-      "Special"
-    ],
-    "special": "The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and transmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action."
+    "data-description": "This implant is a coveted tool, gifted by the Intergalactic Alliance to their most trusted agents. For a resourceful user, it unlocks infinite doors. If not for the built-in AI monitoring your every move, it would priceless.",
+    "data-special": "The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and transmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.",
+    "Type": "Extraordinary",
+    "Wealth Level": 6,
+    "Attributes": "Presence 7",
+    "Properties": "Autonomous, Special"
   }
 }

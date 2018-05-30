@@ -4,17 +4,11 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.",
-    "wealthLevel": 4,
-    "attributes": ["Energy 3"],
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Persistent (Aura)",
-      "Armor (Plate Mail)",
-      "Special"
-    ],
-    "special": "Frostblight can only invoke the *immobile* bane via its persistent aura."
+    "data-description": "Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.",
+    "data-special": "Frostblight can only invoke the *immobile* bane via its persistent aura.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Attributes": "Energy 3",
+    "Properties": "Persistent (Aura), Armor (Plate Mail), Special"
   }
 }

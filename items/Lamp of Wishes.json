@@ -4,22 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Legendary",
-    "description": "When rubbed, this dusty old lamp spews forth an ancient genie of unimaginable power, ready to do the owner’s bidding. However, the genie’s services are often served with a bit of mischief on the side.",
-    "wealthLevel": null,
-    "attributes": [
-      "Persuasion 7"
-    ],
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Autonomous"
-    ],
-    "special": [
-      {
-        "Wishes": "The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the kingdom is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world."
-      }
-    ],
-    "similar": null
+    "data-description": "When rubbed, this dusty old lamp spews forth an ancient genie of unimaginable power, ready to do the owner’s bidding. However, the genie’s services are often served with a bit of mischief on the side.",
+    "Type": "Legendary",
+    "Wealth Level": "n/a",
+    "Attributes": "Persuasion 7",
+    "Properties": "Autonomous",
+    "Special": "Wishes",
+    "data-special": "[{\"Wishes\": \"The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the kingdom is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.\"}]"
   }
 }

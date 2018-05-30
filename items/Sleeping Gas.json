@@ -1,19 +1,13 @@
 {
   "name": "Sleeping Gas",
-  "content": "<h2>Description</h2>Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
+  "content": "Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
-    "wealthLevel": 4,
-    "attributes": null,
-    "banes": ["Incapacitated 5"],
-    "boons": null,
-    "properties": [
-      "Expendable",
-      "Area 15' cube"
-    ],
-    "special": null
+    "data-description": "Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Banes": "Incapacitated 5",
+    "Properties": "Expendable, Area 15' cube"
   }
 }

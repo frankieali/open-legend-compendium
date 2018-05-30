@@ -1,18 +1,13 @@
 {
   "name": "Potion of Major Healing",
-  "content": "<h2>Description</h2>A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
+  "content": "A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
-    "wealthLevel": 2,
-    "attributes": null,
-    "banes": null,
-    "boons": ["Heal 7"],
-    "properties": [
-      "Consumable"
-    ],
-    "special": null
+    "data-description": "A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
+    "Type": "Extraordinary",
+    "Wealth Level": 2,
+    "Boons": "Heal 7",
+    "Properties": "Consumable"
   }
 }

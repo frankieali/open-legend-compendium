@@ -4,24 +4,13 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Legendary",
-    "description": "Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.",
-    "wealthLevel": null,
-    "attributes": [
-      "Energy 7",
-      "Energy +2"
-    ],
-    "banes": [
-      "Persistent Damage 9"
-    ],
-    "boons": null,
-    "properties": [
-      "Potent", "Baneful (Persistent Damage)"
-    ],
-    "special": [
-      {
-        "Retributive Strike": "The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard."
-      }
-    ]
+    "data-description": "Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.",
+    "Type": "Legendary",
+    "Wealth Level": "n/a",
+    "Attributes": "Energy 7, Energy +2",
+    "Banes": "Persistent Damage 9",
+    "Properties": "Potent, Baneful (Persistent Damage)",
+    "Special": "Retributive Strike",
+    "data-special": "[{\"Retributive Strike\": \"The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.\"}]"
   }
 }

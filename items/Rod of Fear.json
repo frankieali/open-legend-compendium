@@ -1,16 +1,12 @@
 {
   "name": "Rod of Fear",
-  "content": "<h2>Description</h2>This short rod is crafted of human bone and bears the skull of a screaming human at its head.",
+  "content": "This short rod is crafted of human bone and bears the skull of a screaming human at its head.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This short rod is crafted of human bone and bears the skull of a screaming human at its head.",
-    "wealthLevel": 3,
-    "attributes": null,
-    "banes": ["Fear 7"],
-    "boons": null,
-    "properties": null,
-    "special": null
+    "data-description": "This short rod is crafted of human bone and bears the skull of a screaming human at its head.",
+    "Type": "Extraordinary",
+    "Wealth Level": 3,
+    "Banes": "Fear 7"
   }
 }

@@ -4,18 +4,11 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This massive two-handed hammer is etched with elegant patterns that indicate its value. When held, it pulses with a power felt by all nearby, emitting an aura of menace that draws the attention foes.",
-    "wealthLevel": 4,
-    "attributes": null,
-    "banes": null,
-    "boons": [
-      "Aura 8"
-    ],
-    "properties": [
-      "Special",
-      "Weapon (Maul)"
-    ],
-    "special": "The maul's aura boon can only emit the provoked bane. During the first round of combat, its aura can be invoked as a minor action."
+    "data-description": "This massive two-handed hammer is etched with elegant patterns that indicate its value. When held, it pulses with a power felt by all nearby, emitting an aura of menace that draws the attention foes.",
+    "data-special": "The maul's aura boon can only emit the provoked bane. During the first round of combat, its aura can be invoked as a minor action.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Boons": "Aura 8",
+    "Properties": "Special, Weapon (Maul)"
   }
 }

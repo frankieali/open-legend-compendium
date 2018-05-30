@@ -1,16 +1,12 @@
 {
   "name": "Helm of Goblin Bane",
-  "content": "<h2>Description</h2>At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
+  "content": "At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
-    "wealthLevel": 2,
-    "attributes": null,
-    "banes": ["Fear 5"],
-    "boons": null,
-    "properties": null,
-    "special": null
+    "data-description": "At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
+    "Type": "Extraordinary",
+    "Wealth Level": 2,
+    "Banes": "Fear 5"
   }
 }

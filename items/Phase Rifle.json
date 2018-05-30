@@ -1,20 +1,12 @@
 {
   "name": "Phase Rifle",
-  "content": "<h2>Description</h2>This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
+  "content": "This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
-    "wealthLevel": 4,
-    "attributes": null,
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Damage (Energy)",
-      "Deadly 2",
-      "Weapon (Sniper Rifle)"
-    ],
-    "special": null
+    "data-description": "This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Properties": "Damage (Energy), Deadly 2, Weapon (Sniper Rifle)"
   }
 }

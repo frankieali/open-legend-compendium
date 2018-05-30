@@ -1,20 +1,13 @@
 {
   "name": "Adrenal Biomod",
-  "content": "<h2>Description</h2>Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.",
+  "content": "Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.",
-    "wealthLevel": 4,
-    "attributes": null,
-    "banes": null,
-    "boons": [
-      "Heal 3"
-    ],
-    "properties": [
-      "Persistent (Heal)"
-    ],
-    "special": null
+    "data-description": "Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Boons": "Heal 3",
+    "Properties": "Persistent (Heal)"
   }
 }

@@ -1,21 +1,13 @@
 {
   "name": "Rocket Launcher",
-  "content": "<h2>Description</h2>Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.<h2>Special</h2>This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item.",
+  "content": "Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.<h2>Special</h2>This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.",
-    "wealthLevel": 3,
-    "attributes": null,
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Deadly 2",
-      "Expendable",
-      "Weapon (Cannon)",
-      "Special"
-    ],
-    "special": "This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item."
+    "data-description": "Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.",
+    "data-special": "This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item.",
+    "Type": "Extraordinary",
+    "Wealth Level": 3,
+    "Properties": "Deadly 2, Expendable, Weapon (Cannon), Special"
   }
 }
