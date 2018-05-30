@@ -4,30 +4,17 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light. Pirates, snipers, rogues, and necromancers often make use of this bane in combat.",
-    "effect": "The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplemented by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.",
-    "special": null,
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      5
-    ],
-    "attribute": [
-      "Agility",
-      "Creation",
-      "Energy",
-      "Entropy"
-    ],
-    "attack": [
-      "Agility vs. Guard",
-      "Creation vs. Guard",
-      "Energy vs. Guard",
-      "Entropy vs. Toughness"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light. Pirates, snipers, rogues, and necromancers often make use of this bane in combat.",
+    "data-effect": "The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplemented by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "5",
+    "Attribute": "Agility, Creation, Energy, Entropy",
+    "data-attack": "Agility vs. Guard, Creation vs. Guard, Energy vs. Guard, Entropy vs. Toughness",
+    "Attack 0": "Agility vs. Guard",
+    "Attack 1": "Creation vs. Guard",
+    "Attack 2": "Energy vs. Guard",
+    "Attack 3": "Entropy vs. Toughness",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }

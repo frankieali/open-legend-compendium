@@ -4,26 +4,16 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "Utilizing either incredible precision or the power of entropy, you snuff out the target's life force completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.",
-    "effect": "Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all Perception rolls, and any damaging attacks against them count as finishing blows. If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission, use of a rare technology, or long-forgotten magic to restore the target to life.",
-    "special": "While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.",
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      9
-    ],
-    "attribute": [
-      "Agility",
-      "Entropy"
-    ],
-    "attack": [
-      "Agility vs. Toughness",
-      "Entropy vs. Toughness"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (special) (Fail x 3 = Permanent)"
+    "data-description": "Utilizing either incredible precision or the power of entropy, you snuff out the target's life force completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.",
+    "data-effect": "Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all Perception rolls, and any damaging attacks against them count as finishing blows. If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission, use of a rare technology, or long-forgotten magic to restore the target to life.",
+    "data-special": "While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "9",
+    "Attribute": "Agility, Entropy",
+    "data-attack": "Agility vs. Toughness, Entropy vs. Toughness",
+    "Attack 0": "Agility vs. Toughness",
+    "Attack 1": "Entropy vs. Toughness",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (special) (Fail x 3 = Permanent)"
   }
 }

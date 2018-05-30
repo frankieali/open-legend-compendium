@@ -4,30 +4,17 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.",
-    "effect": "If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
-    "special": null,
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      2
-    ],
-    "attribute": [
-      "Agility",
-      "Alteration",
-      "Entropy",
-      "Might"
-    ],
-    "attack": [
-      "Agility vs. Toughness",
-      "Alteration vs. Toughness",
-      "Entropy vs. Toughness",
-      "Might vs. Toughness"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.",
+    "data-effect": "If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "2",
+    "Attribute": "Agility, Alteration, Entropy, Might",
+    "data-attack": "Agility vs. Toughness, Alteration vs. Toughness, Entropy vs. Toughness, Might vs. Toughness",
+    "Attack 0": "Agility vs. Toughness",
+    "Attack 1": "Alteration vs. Toughness",
+    "Attack 2": "Entropy vs. Toughness",
+    "Attack 3": "Might vs. Toughness",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }
