@@ -4,29 +4,16 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate. This may be the result of a chemical injection, psychic enhancement, time-altering magic, or similar means.",
-    "effect": "Your target gains benefits according to your power level.",
-    "special": null,
-    "powerLevelEffect": {
-      "2": "The target's speed is increased by 10'.",
-      "4": "The target's speed is increased by 15', and it gains +1 to Guard.",
-      "6": "The target's speed is increased by 20', and it gains +2 to Guard. Additionally, the target can make one extra major action on each of its turns. This action cannot be used to perform an interrupt action. If the action requires a roll, it suffers disadvantage 3.",
-      "8": "The target's speed is increased by 30', and it gains +3 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. These actions cannot be used to perform an interrupt action. If the target takes 1 extra action that action has disadvantage 3, if they take a 2nd extra action, that action has disadvantage 6."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      2,
-      4,
-      6,
-      8
-    ],
-    "attribute": [
-      "Alteration",
-      "Movement"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Sustain Persists"
+    "data-description": "The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate. This may be the result of a chemical injection, psychic enhancement, time-altering magic, or similar means.",
+    "data-effect": "Your target gains benefits according to your power level.",
+    "Tags": "Extraordinary",
+    "Power Level": "2, 4, 6, 8",
+    "Power Level Effect (2)": "The target's speed is increased by 10'.",
+    "Power Level Effect (4)": "The target's speed is increased by 15', and it gains +1 to Guard.",
+    "Power Level Effect (6)": "The target's speed is increased by 20', and it gains +2 to Guard. Additionally, the target can make one extra major action on each of its turns. This action cannot be used to perform an interrupt action. If the action requires a roll, it suffers disadvantage 3.",
+    "Power Level Effect (8)": "The target's speed is increased by 30', and it gains +3 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. These actions cannot be used to perform an interrupt action. If the target takes 1 extra action that action has disadvantage 3, if they take a 2nd extra action, that action has disadvantage 6.",
+    "Attribute": "Alteration, Movement",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Sustain Persists"
   }
 }

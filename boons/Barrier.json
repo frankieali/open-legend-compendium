@@ -4,31 +4,16 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You summon forth a wall of thorns, ring of fire, swarm of robotic pests, cloud of entropic fog, or similar barrier to hurt or hinder your foes.",
-    "effect": "When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level.\n\n*   **Damaging:** A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.\n*   **Obscuring:** Creatures cannot see through any part of the barrier or anything within it.\n*   **Hindering:** Creatures move at half speed when travelling within the barrier.\n*   **Impassable:** Creatures and objects cannot move through the barrier. If you place an impassable barrier in a space occupied by a creature, move that creature to the closest position of their choice that is not inside of the barrier. This movement does not provoke opportunity attacks.\n*   **Baneful:** Choose a bane which you can inflict that has a power level less than or equal to the power level of your barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.\n*   **Mobile:** You may spend a major action to move the barrier up to 30 feet.",
-    "special": null,
-    "powerLevelEffect": {
-      "3": "Choose 1 property: Damaging (1d4), Obscuring, Hindering",
-      "5": "Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile",
-      "7": "Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable",
-      "9": "Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable"
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      3,
-      5,
-      7,
-      9
-    ],
-    "attribute": [
-      "Creation",
-      "Energy",
-      "Entropy",
-      "Protection"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Sustain Persists"
+    "data-description": "You summon forth a wall of thorns, ring of fire, swarm of robotic pests, cloud of entropic fog, or similar barrier to hurt or hinder your foes.",
+    "data-effect": "When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level.\n\n*   **Damaging:** A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.\n*   **Obscuring:** Creatures cannot see through any part of the barrier or anything within it.\n*   **Hindering:** Creatures move at half speed when travelling within the barrier.\n*   **Impassable:** Creatures and objects cannot move through the barrier. If you place an impassable barrier in a space occupied by a creature, move that creature to the closest position of their choice that is not inside of the barrier. This movement does not provoke opportunity attacks.\n*   **Baneful:** Choose a bane which you can inflict that has a power level less than or equal to the power level of your barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.\n*   **Mobile:** You may spend a major action to move the barrier up to 30 feet.",
+    "Tags": "Extraordinary",
+    "Power Level": "3, 5, 7, 9",
+    "Power Level Effect (3)": "Choose 1 property: Damaging (1d4), Obscuring, Hindering",
+    "Power Level Effect (5)": "Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile",
+    "Power Level Effect (7)": "Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable",
+    "Power Level Effect (9)": "Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable",
+    "Attribute": "Creation, Energy, Entropy, Protection",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Sustain Persists"
   }
 }

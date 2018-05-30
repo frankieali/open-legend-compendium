@@ -4,41 +4,22 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.",
-    "effect": "Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.",
-    "special": "This boon does not heal lethal damage.",
-    "powerLevelEffect": {
-      "1": "Heal 1d4.",
-      "2": "Heal 1d6.",
-      "3": "Heal 1d8.",
-      "4": "Heal 1d10.",
-      "5": "Heal 2d6.",
-      "6": "Heal 2d8.",
-      "7": "Heal 2d10.",
-      "8": "Heal 3d8.",
-      "9": "Heal 3d10."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "attribute": [
-      "Creation",
-      "Learning",
-      "Logic",
-      "Presence"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Instantaneous"
+    "data-description": "Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.",
+    "data-effect": "Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.",
+    "data-special": "This boon does not heal lethal damage.",
+    "Tags": "Extraordinary",
+    "Power Level": "1, 2, 3, 4, 5, 6, 7, 8, 9",
+    "Power Level Effect (1)": "Heal 1d4.",
+    "Power Level Effect (2)": "Heal 1d6.",
+    "Power Level Effect (3)": "Heal 1d8.",
+    "Power Level Effect (4)": "Heal 1d10.",
+    "Power Level Effect (5)": "Heal 2d6.",
+    "Power Level Effect (6)": "Heal 2d8.",
+    "Power Level Effect (7)": "Heal 2d10.",
+    "Power Level Effect (8)": "Heal 3d8.",
+    "Power Level Effect (9)": "Heal 3d10.",
+    "Attribute": "Creation, Learning, Logic, Presence",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Instantaneous"
   }
 }

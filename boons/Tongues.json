@@ -4,24 +4,14 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.",
-    "effect": "Your target gains benefits according to your power level",
-    "special": null,
-    "powerLevelEffect": {
-      "5": "Your target can understand and speak a language of your choice.",
-      "6": "Your target can read a language of your choice."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      5,
-      6
-    ],
-    "attribute": [
-      "Prescience"
-    ],
-    "invocationTime": "10 Minutes",
-    "duration": "Sustain Persists"
+    "data-description": "You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.",
+    "data-effect": "Your target gains benefits according to your power level",
+    "Tags": "Extraordinary",
+    "Power Level": "5, 6",
+    "Power Level Effect (5)": "Your target can understand and speak a language of your choice.",
+    "Power Level Effect (6)": "Your target can read a language of your choice.",
+    "Attribute": "Prescience",
+    "Invocation Time": "10 Minutes",
+    "Duration": "Sustain Persists"
   }
 }

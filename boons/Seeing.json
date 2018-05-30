@@ -4,26 +4,16 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.",
-    "effect": "For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.",
-    "special": "If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
-    "powerLevelEffect": {
-      "4": "The ally must be within 100'.",
-      "5": "The ally must be within 1 mile.",
-      "6": "The ally must be anywhere on the same plane of existence."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      4,
-      5,
-      6
-    ],
-    "attribute": [
-      "Prescience"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Sustain Persists"
+    "data-description": "You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.",
+    "data-effect": "For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.",
+    "data-special": "If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
+    "Tags": "Extraordinary",
+    "Power Level": "4, 5, 6",
+    "Power Level Effect (4)": "The ally must be within 100'.",
+    "Power Level Effect (5)": "The ally must be within 1 mile.",
+    "Power Level Effect (6)": "The ally must be anywhere on the same plane of existence.",
+    "Attribute": "Prescience",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Sustain Persists"
   }
 }

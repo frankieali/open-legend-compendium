@@ -8,22 +8,22 @@ Boons are described as follows:
   "data": {  {Object} - An object containing all the other datails 
     "Source": {string} - The source book where this entry originates from. e.g.: "Open Legend: Core Rules"
     "Category": {string: "Boons"} - The category this entry falls into
-    "description": {string} - A general idea of what the boon could look like in the story
-    "effect": {string} - The mechanical effects of the boon
-    "special": {string} - A unique property or mechanic explained in detail
-    "powerLevelEffect": {Object} - The keys in this object are mapped to "power" levels.
-      "{powerLevel}": {string} - The effect this boon has at various tiers of power. 
-    "compoundingEffect": {Object: [optional]} - If this boon is applied multiple times then the effect is compounded.
-      "{level}": {string} - The additional effect of this boon as it stacks up
-    "tags": {Array.<string>} - Words or phrases that describe this entry. Additional metadata
-    "power": {Array.<int>} - The attribute score required to inflict the boon at the indexed tier
-    "attribute": {Array.<string>} - A list of attributes that can be used to invoke this boon
-    "invocationTime": {string} - The time requires to activate the boon
-    "duration": {string} - How long the boon remains in effect
+    "data-description": {string} - A general idea of what the boon could look like in the story
+    "data-effect": {string} - The mechanical effects of the boon
+    "data-special": {string} - A unique property or mechanic explained in detail
+    "Tags": {string} - Words or phrases that describe this entry. Additional metadata
+    "Power Level": {string} - The attribute score required to access the next tier of power.
+    "Power Level Effect (#)": {string} - The effect this boon has at various tiers of power.
+    "Compounding Effect (#)": {string} - The additional (compounding) effect of this boon each time it is applied.
+    "Attribute": {string} - A list of attributes that can be used to invoke this boon
+    "Invocation Time": {string} - The time requires to activate the boon
+    "Duration": {string} - How long the boon remains in effect
   }
 }
 ```
 
 ## Notes
+*  Keys with `#` or `(#)` are placeholders for Power Level number, Tier number, or for simple incremention 
 *  Currently there are no boons that have `compoundingEffect` properties
 *  Boons do not have an `attack` property like banes do
+*  `Summon Creatures` has a unique attribute of `data-powerLevelTable` for rendering a data table. Not sure how this will be implemented yet.
