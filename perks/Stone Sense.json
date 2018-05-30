@@ -1,9 +1,9 @@
 {
   "name": "Stone Sense",
-  "content": "<h2>Description</h2><br/><br/>While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern.",
+  "content": "While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Perks",
-    "description": "While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern."
+    "data-description": "While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern."
   }
 }

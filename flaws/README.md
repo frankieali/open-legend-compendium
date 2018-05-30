@@ -8,7 +8,7 @@ Flaws are described as follows:
   "data": { {Object} - An object containing all the other datails for this entry
     "Source": {string} - The source book where this entry originates from. e.g.: "Open Legend: Core Rules"
     "Category": {string: "Flaws"} - The category this entry falls into
-    "description": {string} - A detailed description of this flaw
+    "data-description": {string} - A detailed description of this flaw
   }
 }
 ```

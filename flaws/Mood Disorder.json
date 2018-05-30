@@ -1,9 +1,9 @@
 {
   "name": "Mood Disorder",
-  "content": "<h2>Description</h2><br/><br/>You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to determine the nature and severity of your mood disorder.",
+  "content": "You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to determine the nature and severity of your mood disorder.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to determine the nature and severity of your mood disorder."
+    "data-description": "You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to determine the nature and severity of your mood disorder."
   }
 }
