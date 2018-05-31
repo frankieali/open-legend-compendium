@@ -1,18 +1,14 @@
 {
   "name": "Armored Trench Coat",
-  "content": "<h2>Description</h2>Armored Trench Coat",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Medium",
-    "description": "Armored Trench Coat",
-    "wealthLevel": 3,
-    "requiredFortitude": 2,
-    "defenseBonus": 2,
-    "speedPenalty": 0,
-    "properties": null,
-    "similar": [
-      "Electropolymer Armor"
-    ]
+    "Type": "Medium",
+    "Wealth Level": 3,
+    "Required Fortitude": 2,
+    "Defense Bonus": 2,
+    "Speed Penalty": 0,
+    "Similar": "Electropolymer Armor"
   }
 }

@@ -4,33 +4,20 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "You gaze into the mind of another creature and read their thoughts. The most powerful wielders of this bane can even pry into the distant memories of their subjects. Fortune tellers, psychics, and mentalists all use mind dredge to learn the deepest dreams and darkest secrets of others.",
-    "effect": "You gain access to the target's current thoughts.",
-    "special": "When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.",
-    "powerLevelEffect": {
-      "2": "This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.",
-      "4": "This power may target creatures of any intelligence. You gain access to the target's current thoughts.",
-      "6": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access to an additional day's worth of memories.",
-      "8": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access to an additional year's worth of memories. Alternatively, you may choose to access the memories associated with a particular place, object, or event.",
-      "9": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      2,
-      4,
-      6,
-      8,
-      9
-    ],
-    "attribute": [
-      "Prescience"
-    ],
-    "attack": [
-      "Prescience vs. Resolve"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "You gaze into the mind of another creature and read their thoughts. The most powerful wielders of this bane can even pry into the distant memories of their subjects. Fortune tellers, psychics, and mentalists all use mind dredge to learn the deepest dreams and darkest secrets of others.",
+    "data-effect": "You gain access to the target's current thoughts.",
+    "data-special": "When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.",
+    "Tags": "Extraordinary",
+    "Power Level": "2, 4, 6, 8, 9",
+    "Power Level Effect (2)": "This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.",
+    "Power Level Effect (4)": "This power may target creatures of any intelligence. You gain access to the target's current thoughts.",
+    "Power Level Effect (6)": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access to an additional day's worth of memories.",
+    "Power Level Effect (8)": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access to an additional year's worth of memories. Alternatively, you may choose to access the memories associated with a particular place, object, or event.",
+    "Power Level Effect (9)": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event.",
+    "Attribute": "Prescience",
+    "data-attack": "Prescience vs. Resolve",
+    "Attack 0": "Prescience vs. Resolve",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }

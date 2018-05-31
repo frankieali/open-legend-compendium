@@ -1,21 +1,13 @@
 {
   "name": "Unarmed Strike",
-  "content": "<h2>Description</h2>Unarmed Strike",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Unarmed Strike",
-		"wealthLevel": 0,
-    "banes": [
-      "Stunned",
-      "Knockdown"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise",
-      "Swift"
-    ],
-    "similar": null
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 0,
+    "Banes": "Stunned, Knockdown",
+    "Properties": "Forceful, Precise, Swift"
   }
 }

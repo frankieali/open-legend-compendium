@@ -4,22 +4,13 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, most enemies are incapable of recovering from your legendary attack.",
-    "effect": "Choose one bane that you can invoke that has a duration of “resist ends”. When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.",
-    "special": "You may select this feat multiple times. Each time you take it, choose a different bane.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Other": [
-            "Ability to invoke the chosen bane"
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Bane",
-      "Combat"
-    ],
-    "cost": 3
+    "data-description": "You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, most enemies are incapable of recovering from your legendary attack.",
+    "data-effect": "Choose one bane that you can invoke that has a duration of “resist ends”. When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.",
+    "data-special": "You may select this feat multiple times. Each time you take it, choose a different bane.",
+    "Tier Prerequisites (1)": "Ability to invoke the chosen bane",
+    "data-tierPrereq": "[{\"Tier 1\":\"Ability to invoke the chosen bane\"}]",
+    "Tags": "Bane, Combat",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

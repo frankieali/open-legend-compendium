@@ -1,33 +1,21 @@
 {
   "name": "Battle Cruiser",
-  "content": "<h2>Description</h2>Battle Cruiser",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Vehicle",
-    "description": "Battle Cruiser",
-    "wealthLevel": 9,
-    "speed": "1,000' flying",
-    "properties": [
-      "Faster than Light",
-      "Guided Weapons",
-      "Targeted Weapons",
-      "Independent 2",
-      "Multi-Pilot 4"
-    ],
-    "attributes": ["Energy 7"],
-    "feats": [
-      "Multi-Target Attack Specialist (Area) V"
-    ],
+    "Type": "Vehicle",
+    "data-description": "",
+    "Wealth Level": 9,
+    "Speed": "1,000' flying",
+    "Properties": "Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4",
+    "Attributes": "Energy 7",
+    "Feats": "Multi-Target Attack Specialist (Area) V",
     "HP": 50,
     "DT": 5,
-    "Defenses": {
-      "Guard": 25,
-      "Toughness": 18,
-      "Resolve": "Immune"
-    },
-    "tags": [
-      "Fly"
-    ]
+    "Guard": 25,
+    "Toughness": 18,
+    "Resolve": "Immune",
+    "Tags": "Flying, Space"
   }
 }

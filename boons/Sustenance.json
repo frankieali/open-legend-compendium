@@ -4,32 +4,18 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.",
-    "effect": "You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.",
-    "special": "You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.",
-    "powerLevelEffect": {
-      "3": "Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation.",
-      "4": "Target can sustain a single biological need from an alternate source, such as by breathing the oxygen found in water, drinking from an irradiated stream, or eating food not normally edible",
-      "5": "Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.",
-      "7": "Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.",
-      "9": "Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      3,
-      4,
-      5,
-      7,
-      9
-    ],
-    "attribute": [
-      "Alteration",
-      "Creation",
-      "Protection"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "24 hours"
+    "data-description": "You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.",
+    "data-effect": "You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.",
+    "data-special": "You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.",
+    "Tags": "Extraordinary",
+    "Power Level": "3, 4, 5, 7, 9",
+    "Power Level Effect (3)": "Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation.",
+    "Power Level Effect (4)": "Target can sustain a single biological need from an alternate source, such as by breathing the oxygen found in water, drinking from an irradiated stream, or eating food not normally edible",
+    "Power Level Effect (5)": "Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.",
+    "Power Level Effect (7)": "Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.",
+    "Power Level Effect (9)": "Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.",
+    "Attribute": "Alteration, Creation, Protection",
+    "Invocation Time": "1 Major Action",
+    "Duration": "24 hours"
   }
 }

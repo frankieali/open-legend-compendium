@@ -1,18 +1,13 @@
 {
   "name": "Ghostfire",
-  "content": "<h2>Description</h2>This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.",
+  "content": "This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.",
-    "wealthLevel": 2,
-    "attributes": ["Energy 5"],
-    "banes": null,
-    "boons": null,
-    "properties": [
-      "Expendable"
-    ],
-    "special": null
+    "data-description": "This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.",
+    "Type": "Extraordinary",
+    "Wealth Level": 2,
+    "Attributes": ["Energy 5"],
+    "Properties": "Expendable"
   }
 }

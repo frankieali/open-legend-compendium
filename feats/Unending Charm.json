@@ -4,24 +4,16 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Whether you are an enchanter, psychic, or mad scientist, you have mastered the art of enthralling others. Your charms are so potent that your victims may fall permanently under your compulsion.",
-    "effect": "When you invoke the _charmed_ bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a _nullify_ bane can still end the effect (and other methods may work at the GM's discretion).",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Influence": 4
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
+    "data-description": "Whether you are an enchanter, psychic, or mad scientist, you have mastered the art of enthralling others. Your charms are so potent that your victims may fall permanently under your compulsion.",
+    "data-effect": "When you invoke the _charmed_ bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a _nullify_ bane can still end the effect (and other methods may work at the GM's discretion).",
+    "Tier Prerequisites (1)": "Influence 4",
+    "data-tierPrereq": "[{\"Tier 1\":\"Influence 4\"}]",
+    "Tags": [
       "Extraordinary",
       "Non-Combat",
       "Influence"
     ],
-    "cost": 3
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

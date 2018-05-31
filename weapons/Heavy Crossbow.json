@@ -1,22 +1,14 @@
 {
   "name": "Heavy Crossbow",
-  "content": "<h2>Description</h2>Heavy Crossbow",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Long Ranged"],
-    "description": "Heavy Crossbow",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Slowed"
-    ],
-    "properties": [
-      "Precise"
-    ],
-    "similar": [
-      "Longbow",
-      "Rifle"
-    ]
+    "Type": "Long Ranged",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Slowed",
+    "Properties": "Precise",
+    "Similar": "Longbow, Rifle"
   }
 }

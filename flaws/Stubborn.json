@@ -1,9 +1,9 @@
 {
   "name": "Stubborn",
-  "content": "<h2>Description</h2><br/><br/>It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.",
+  "content": "It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise."
+    "data-description": "It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise."
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "Socially Awkward",
-  "content": "<h2>Description</h2><br/><br/>Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.",
+  "content": "Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times."
+    "data-description": "Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times."
   }
 }

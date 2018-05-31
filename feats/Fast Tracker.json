@@ -4,27 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.",
-    "effect": "You move unhindered and at full speed when tracking your quarry.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Agility": 5
-            },
-            {
-              "Perception": 5
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Extraordinary",
-      "Agility",
-      "Perception"
-    ],
-    "cost": 2
+    "data-description": "Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.",
+    "data-effect": "You move unhindered and at full speed when tracking your quarry.",
+    "Tier Prerequisites (1)": "Agility 5 and Perception 5",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 5 and Perception 5\"}]",
+    "Tags": "Extraordinary, Agility, Perception",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }

@@ -1,18 +1,14 @@
 {
   "name": "Elven Plate Mail",
-  "content": "<h2>Description</h2>Elven Plate Mail",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",
-    "type": "Heavy",
-		"description": "Elven Plate Mail",
-    "wealthLevel": 4,
-    "requiredFortitude": 1,
-    "defenseBonus": 3,
-    "speedPenalty": 0,
-    "properties": null,
-    "similar": [
-      "Power Armor"
-    ]
+    "Type": "Heavy",
+    "Wealth Level": 4,
+    "Required Fortitude": 1,
+    "Defense Bonus": 3,
+    "Speed Penalty": 0,
+    "Similar": "Power Armor"
   }
 }

@@ -4,32 +4,18 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.",
-    "effect": "The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
-    "special": null,
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      1
-    ],
-    "attribute": [
-      "Agility",
-      "Energy",
-      "Entropy",
-      "Might",
-      "Movement"
-    ],
-    "attack": [
-      "Agility vs. Guard",
-      "Energy vs. Guard",
-      "Entropy vs. Toughness",
-      "Might vs. Guard",
-      "Movement vs. Guard"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.",
+    "data-effect": "The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "1",
+    "Attribute": "Agility, Energy, Entropy, Might, Movement",
+    "data-attack": "Agility vs. Guard, Energy vs. Guard, Entropy vs. Toughness, Might vs. Guard, Movement vs. Guard",
+    "Attack 0": "Agility vs. Guard",
+    "Attack 1": "Energy vs. Guard",
+    "Attack 2": "Entropy vs. Toughness",
+    "Attack 3": "Might vs. Guard",
+    "Attack 4": "Movement vs. Guard",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }

@@ -4,21 +4,15 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Whether you are a heavily armored mechanized knight or a nimble rogue in studded leather, you and your armor are one. Your training and experience at wearing armor allows you to maximize its protection and minimize its drawbacks.",
-    "effect": "Your training allows you to sleep in armor without gaining one level of the _fatigued_ bane. In addition, while wearing armor, you gain additional benefits based on your tier.",
-    "tiers": {
-      "1": {
-        "effect": "The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.",
-        "prerequisites": null
-      },
-      "2": {
-        "effect": "The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.",
-        "prerequisites": null
-      }
-    },
-    "tags": [
-      "No Prerequisite"
-    ],
-    "cost": 3
+    "data-description": "Whether you are a heavily armored mechanized knight or a nimble rogue in studded leather, you and your armor are one. Your training and experience at wearing armor allows you to maximize its protection and minimize its drawbacks.",
+    "data-effect": "Your training allows you to sleep in armor without gaining one level of the _fatigued_ bane. In addition, while wearing armor, you gain additional benefits based on your tier.",
+    "Tier Effect (1)": "The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.",
+    "Tier Effect (2)": "The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.",
+    "data-tierEffect": "[{\"Tier 1\":\"The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.\",\"Tier 2\":\"The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.\"}]",
+    "Tier Prerequisites (1-2)": "None",
+    "data-tierPrereq": "[{\"Tier 1-2\":\"None\"}]",
+    "Tags": "No Prerequisite",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

@@ -1,16 +1,12 @@
 {
   "name": "Spyglass of Farsight",
-  "content": "<h2>Description</h2>A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.",
+  "content": "A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.",
-    "wealthLevel": 4,
-    "attributes": ["Perception 6"],
-    "banes": null,
-    "boons": null,
-    "properties": null,
-    "special": null
+    "data-description": "A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.",
+    "Type": "Extraordinary",
+    "Wealth Level": 4,
+    "Attributes": "Perception 6"
   }
 }

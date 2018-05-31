@@ -4,29 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You create an area of illusory darkness or entropic energy that snuffs out all light. This boon is a favorite among illusionists, shadow casters, psions, and mad scientists.",
-    "effect": "Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.",
-    "special": null,
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "attribute": [
-      "Entropy",
-      "Influence"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Sustain Persists"
+    "data-description": "You create an area of illusory darkness or entropic energy that snuffs out all light. This boon is a favorite among illusionists, shadow casters, psions, and mad scientists.",
+    "data-effect": "Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.",
+    "Tags": "Extraordinary",
+    "Power Level": "1, 2, 3, 4, 5, 6, 7, 8, 9",
+    "Attribute": "Entropy, Influence",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Sustain Persists"
   }
 }

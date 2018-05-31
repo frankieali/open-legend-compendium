@@ -4,22 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
-    "effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Might": 2
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Non-Combat"
-    ],
-    "cost": 1
+    "data-description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
+    "data-effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
+    "Tier Prerequisites (1)": "Might 2",
+    "data-tierPrereq": "[{\"Tier 1\":\"Might 2\"}]",
+    "Tags": "Non-Combat",
+    "Cost": "1 points",
+		"data-cost": 1
   }
 }

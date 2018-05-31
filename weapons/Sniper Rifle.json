@@ -1,21 +1,14 @@
 {
   "name": "Sniper Rifle",
-  "content": "<h2>Description</h2>Sniper Rifle",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Extreme Ranged"],
-    "description": "Sniper Rifle",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Slowed"
-    ],
-    "properties": [
-      "Precise"
-    ],
-    "similar": [
-      "Laser Rifle"
-    ]
+    "Type": "Extreme Ranged",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Slowed",
+    "Properties": "Precise",
+    "Similar": "Laser Rifle"
   }
 }

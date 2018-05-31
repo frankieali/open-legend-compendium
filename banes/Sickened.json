@@ -4,24 +4,14 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "Entropic energy overcomes the target, bombarding their system and inducing nausea that makes self-defense and any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.",
-    "effect": "The target has disadvantage 1 on all action rolls and -1 to all defenses.",
-    "special": null,
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      5
-    ],
-    "attribute": [
-      "Entropy"
-    ],
-    "attack": [
-      "Entropy vs. Toughness"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "Entropic energy overcomes the target, bombarding their system and inducing nausea that makes self-defense and any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.",
+    "data-effect": "The target has disadvantage 1 on all action rolls and -1 to all defenses.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "5",
+    "Attribute": "Entropy",
+    "data-attack": "Entropy vs. Toughness",
+    "Attack 0": "Entropy vs. Toughness",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }

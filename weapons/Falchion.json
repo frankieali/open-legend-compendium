@@ -1,23 +1,14 @@
 {
   "name": "Falchion",
-  "content": "<h2>Description</h2>Falchion",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Versatile Melee"],
-    "description": "Falchion",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise"
-    ],
-    "similar": [
-      "Longsword",
-      "Katana"
-    ]
+    "Type": "Versatile Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Forceful, Precise",
+    "Similar": "Longsword, Katana"
   }
 }

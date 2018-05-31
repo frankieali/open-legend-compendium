@@ -1,34 +1,21 @@
 {
   "name": "Hydropod",
-  "content": "<h2>Description</h2>Hydropod",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Vehicle",
-    "description": "Hydropod",
-    "wealthLevel": 4,
-    "speed": "50' swimming",
-    "properties": [
-      "Guided Weapons",
-      "Targeted Weapons",
-      "Multi-Pilot 2"
-    ],
-    "attributes": [
-      "Agility 5",
-      "Energy 4"
-    ],
-    "feats": [
-      "Multi-Target Attack Specialist II (Area)"
-    ],
+    "Type": "Vehicle",
+    "data-description": "",
+    "Wealth Level": 4,
+    "Speed": "50' swimming",
+    "Properties": "Guided Weapons, Targeted Weapons, Multi-Pilot 2",
+    "Attributes": "Agility 5, Energy 4",
+    "Feats": "Multi-Target Attack Specialist II (Area)",
     "HP": 20,
     "DT": 3,
-    "Defenses": {
-      "Guard": 20,
-      "Toughness": 17,
-      "Resolve": "Immune"
-    },
-    "tags": [
-      "Water"
-    ]
+    "Guard": 20,
+    "Toughness": 17,
+    "Resolve": "Immune",
+    "Tags": "Water, Swimming"
   }
 }

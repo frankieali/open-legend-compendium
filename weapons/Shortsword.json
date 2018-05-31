@@ -1,24 +1,14 @@
 {
   "name": "Shortsword",
-  "content": "<h2>Description</h2>Shortsword",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Shortsword",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise"
-    ],
-    "similar": [
-      "Scimitar",
-      "Machete",
-      "Sawblade"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Forceful, Precise",
+    "Similar": "Scimitar, Machete, Sawblade"
   }
 }

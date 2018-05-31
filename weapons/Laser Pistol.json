@@ -1,22 +1,14 @@
 {
   "name": "Laser Pistol",
-  "content": "<h2>Description</h2>Laser Pistol",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Short Ranged"],
-    "description": "Laser Pistol",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Slowed"
-    ],
-    "properties": [
-      "Precise"
-    ],
-    "similar": [
-      "Revolver",
-      "Handgun"
-    ]
+    "Type": "Short Ranged",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Slowed",
+    "Properties": "Precise",
+    "Similar": "Revolver, Handgun"
   }
 }

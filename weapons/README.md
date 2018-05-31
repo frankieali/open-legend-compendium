@@ -8,14 +8,15 @@ Weapons are described as follows:
   "data": { {Object} - An object containing all the other datails for this entry
     "Source": {string} - The source book where this entry originates from. e.g.: "Open Legend: Core Rules"
     "Category": {string: "Weapons"} - The category this entry falls into
-    "type": {Array.<string>} - The type/classification of this weapon
-    "description": {string} - A detailed description of this weapon
-    "wealthLevel": {int} - The _Wealth_ score required to purchase this weapon
-    "attributes": {Array.<string>} - Indicates which attributes, if any, the weapon can make use of
-    "banes": {Array.<string>} - The banes this weapon grants access to
-    "properties": {Array.<string>} - descriptors that make each weapon unique and translate into specific game mechanics
-    "special": {Array.<Object>: [optional]} - List of special properties that an Extrodinary or Legendary piece of equipment may possess
-    "similar": {Array.<string>} - Items that have very similar stats but designed for a different time period, genre or environment. Re-skined versions
+    "Type": {string} - The type/classification of this weapon
+    "data-description": {string} - A detailed description of this weapon
+    "Wealth Level": {int} - The _Wealth_ score required to purchase this weapon
+    "Attributes": {string} - Indicates which attributes, if any, the weapon can make use of
+    "Banes": {string} - The banes this weapon grants access to
+    "Properties": {string} - descriptors that make each weapon unique and translate into specific game mechanics
+    "Special": {string} - Special and/or unique properties of this item (without description)
+    "data-special": {string } | Array.<Object>} - Special properties that an Extrodinary or Legendary piece of equipment may possess and it's description
+    "Similar": {string} - Items that have very similar stats but designed for a different time period, genre or environment. Re-skined versions
   }
 }
 ```
@@ -27,3 +28,4 @@ Weapons are described as follows:
 
 ## Notes
 *  Weapons do not have boons
+*  `data-special` can be a plain string containing a general description or an array of objects with named special properties and descriptions

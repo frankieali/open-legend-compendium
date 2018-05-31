@@ -1,19 +1,13 @@
 {
   "name": "Helm of Truth",
-  "content": "<h2>Description</h2>This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
+  "content": "This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
-    "wealthLevel": 5,
-    "attributes": null,
-    "banes": null,
-    "boons": ["Bolster 3"],
-    "properties": [
-      "Persistent (Bolster)",
-      "Cursed (Truthfulness 5)"
-    ],
-    "special": null
+    "data-description": "This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
+    "Type": "Extraordinary",
+    "Wealth Level": 5,
+    "Boons": "Bolster 3",
+    "Properties": "Persistent (Bolster), Cursed (Truthfulness 5)"
   }
 }

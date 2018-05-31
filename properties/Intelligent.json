@@ -1,15 +1,12 @@
 {
   "name": "Intelligent",
-  "content": "<h2>Description</h2>The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
+  "content": "The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "legendary",
-		"description": "The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
-    "wealthModifier": "Some Things, Money Can’t Buy",
-    "tags": [
-      "item",
-      "legendary"
-    ]
+    "Type": "Legendary",
+		"data-description": "The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).",
+    "Wealth Modifier": "Some Things, Money Can’t Buy",
+    "Tags": "Item, Legendary"
   }
 }

@@ -4,33 +4,13 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes. This power might stem from your rocky carapace, extreme combat training, or simply an extra dose of grit that you acquired from a hard life.",
-    "effect": "You permanently gain 5 extra hit points per tier of this feat you possess.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Fortitude": 3
-            }
-          ]
-        }
-      },
-      "2": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Fortitude": 5
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Defense",
-      "Physical",
-      "Fortitude"
-    ],
-    "cost": 2
+    "data-description": "You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes. This power might stem from your rocky carapace, extreme combat training, or simply an extra dose of grit that you acquired from a hard life.",
+    "data-effect": "You permanently gain 5 extra hit points per tier of this feat you possess.",
+    "Tier Prerequisites (1)": "Fortitude 3",
+    "Tier Prerequisites (2)": "Fortitude 5",
+    "data-tierPrereq": "[{\"Tier 1\":\"Fortitude 3\",\"Tier 2\":\"Fortitude 5\"}]",
+    "Tags": "Defense, Physical, Fortitude",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }

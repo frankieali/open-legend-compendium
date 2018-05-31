@@ -1,22 +1,13 @@
 {
   "name": "Black Lotus Extract",
-  "content": "<h2>Description</h2>Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.",
+  "content": "Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.",
-    "wealthLevel": 6,
-    "attributes": null,
-    "banes": [
-      "Death 9"
-    ],
-    "boons": null,
-    "properties": [
-      "Augmenting",
-      "Expendable",
-      "Potent"
-    ],
-    "special": null
+    "data-description": "Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.",
+    "Type": "Extraordinary",
+    "Wealth Level": 6,
+    "Banes": "Death 9",
+    "Properties": "Augmenting, Expendable, Potent"
   }
 }

@@ -4,43 +4,20 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "description": "You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard. This boon is favored by druids, conjurers, engineers, necromancers, and mad scientists.",
-    "effect": "You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: Agility, Fortitude, Might, Perception, Energy, and Entropy. Your minion's attributes do not affect their hit points or defenses. Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. You are limited to a maximum number of summoned creatures equal to your invoking attribute score. Feats and other abilities cannot increase this limit.",
-    "special": "Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.\nMulti-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.",
-    "powerLevelEffect": {
-      "4": "Hit Points: 4, Defenses: 11, Attributes: 2,1,1",
-      "5": "Hit Points: 5, Defenses: 12, Attributes: 3,2,2",
-      "6": "Hit Points: 6, Defenses: 13, Attributes: 4,3,3",
-      "7": "Hit Points: 7, Defenses: 14, Attributes: 5,4,4",
-      "8": "Hit Points: 8, Defenses: 15, Attributes: 6,5,5",
-      "9": "Hit Points: 9, Defenses: 16, Attributes: 7,6,6"
-    },
-    "powerLevelTableData": [
-      {"Power Level": 4, "Hit Points": 4, "Defenses": 11, "Attributes": "2,1,1"},
-      {"Power Level": 5, "Hit Points": 5, "Defenses": 12, "Attributes": "3,2,2"},
-      {"Power Level": 6, "Hit Points": 6, "Defenses": 13, "Attributes": "4,3,3"},
-      {"Power Level": 7, "Hit Points": 7, "Defenses": 14, "Attributes": "5,4,4"},
-      {"Power Level": 8, "Hit Points": 8, "Defenses": 15, "Attributes": "6,5,5"},
-      {"Power Level": 9, "Hit Points": 9, "Defenses": 16, "Attributes": "7,6,6"}
-    ],
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "attribute": [
-      "Alteration",
-      "Creation",
-      "Entropy",
-      "Energy"
-    ],
-    "invocationTime": "1 Focus Action",
-    "duration": "Sustain Persists"
+    "data-description": "You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard. This boon is favored by druids, conjurers, engineers, necromancers, and mad scientists.",
+    "data-effect": "You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: Agility, Fortitude, Might, Perception, Energy, and Entropy. Your minion's attributes do not affect their hit points or defenses. Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. You are limited to a maximum number of summoned creatures equal to your invoking attribute score. Feats and other abilities cannot increase this limit.",
+    "data-special": "Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.\nMulti-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.",
+    "Tags": "Extraordinary",
+    "Power Level": "4, 5, 6, 7, 8, 9",
+    "Power Level Effect (4)": "Hit Points: 4, Defenses: 11, Attributes: 2,1,1",
+    "Power Level Effect (5)": "Hit Points: 5, Defenses: 12, Attributes: 3,2,2",
+    "Power Level Effect (6)": "Hit Points: 6, Defenses: 13, Attributes: 4,3,3",
+    "Power Level Effect (7)": "Hit Points: 7, Defenses: 14, Attributes: 5,4,4",
+    "Power Level Effect (8)": "Hit Points: 8, Defenses: 15, Attributes: 6,5,5",
+    "Power Level Effect (9)": "Hit Points: 9, Defenses: 16, Attributes: 7,6,6",
+    "data-powerLevelTable": "[{\"Power Level\": 4, \"Hit Points\": 4, \"Defenses\": 11, \"Attributes\": \"2,1,1\"},{\"Power Level\": 5, \"Hit Points\": 5, \"Defenses\": 12, \"Attributes\": \"3,2,2\"},{\"Power Level\": 6, \"Hit Points\": 6, \"Defenses\": 13, \"Attributes\": \"4,3,3\"},{\"Power Level\": 7, \"Hit Points\": 7, \"Defenses\": 14, \"Attributes\": \"5,4,4\"},{\"Power Level\": 8, \"Hit Points\": 8, \"Defenses\": 15, \"Attributes\": \"6,5,5\"},{\"Power Level\": 9, \"Hit Points\": 9, \"Defenses\": 16, \"Attributes\": \"7,6,6\"}]",
+    "Attribute": "Alteration, Creation, Entropy, Energy",
+    "Invocation Time": "1 Focus Action",
+    "Duration": "Sustain Persists"
   }
 }

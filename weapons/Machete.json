@@ -1,24 +1,14 @@
 {
   "name": "Machete",
-  "content": "<h2>Description</h2>Machete",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Machete",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise"
-    ],
-    "similar": [
-      "Scimitar",
-      "Shortsword",
-      "Sawblade"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Forceful, Precise",
+    "Similar": "Scimitar, Shortsword, Sawblade"
   }
 }

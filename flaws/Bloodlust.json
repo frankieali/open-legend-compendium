@@ -1,9 +1,9 @@
 {
   "name": "Bloodlust",
-  "content": "<h2>Description</h2><br/><br/>Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.",
+  "content": "Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered."
+    "data-description": "Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered."
   }
 }

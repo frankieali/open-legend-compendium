@@ -4,23 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.",
-    "effect": "Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the _silenced_ bane.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Agility": 4
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Agility",
-      "Physical"
-    ],
-    "cost": 3
+    "data-description": "Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.",
+    "data-effect": "Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the _silenced_ bane.",
+    "Tier Prerequisites (1)": "Agility 4",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 4\"}]",
+    "Tags": "Agility, Physical",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

@@ -4,23 +4,15 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "By controlling the target's mind through compulsion magic, chemical injection, neural probes, or similar means, you render them incapable of lying deliberately. This is a favored bane among enchanters, mad scientists, psychics, and thought police.",
-    "effect": "The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.",
-    "special": "When you successfully invoke this bane, at the end of its duration, you can make another Influence roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.\nWhen a target wins the contested Will vs. Influence roll, you cannot target them with this bane again for 24 hours.",
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      5
-    ],
-    "attribute": [
-      "Influence"
-    ],
-    "attack": [
-      "Influence vs. Resolve"
-    ],
-    "invocationTime": "10 Minutes",
-    "duration": "10 minutes (special)"
+    "data-description": "By controlling the target's mind through compulsion magic, chemical injection, neural probes, or similar means, you render them incapable of lying deliberately. This is a favored bane among enchanters, mad scientists, psychics, and thought police.",
+    "data-effect": "The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.",
+    "data-special": "When you successfully invoke this bane, at the end of its duration, you can make another Influence roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.\nWhen a target wins the contested Will vs. Influence roll, you cannot target them with this bane again for 24 hours.",
+    "Tags": "Extraordinary",
+    "Power Level": "5",
+    "Attribute": "Influence",
+    "data-attack": "Influence vs. Resolve",
+    "Attack 0": "Influence vs. Resolve",
+    "Invocation Time": "10 Minutes",
+    "Duration": "10 minutes (special)"
   }
 }

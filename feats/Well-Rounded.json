@@ -4,16 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.",
-    "effect": "Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.",
-    "tiers": {
-      "1": {
-        "prerequisites": null
-      }
-    },
-    "tags": [
-      "Non-Combat"
-    ],
-    "cost": 2
+    "data-description": "You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.",
+    "data-effect": "Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.",
+    "Tier Prerequisites (1)": "None",
+    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Tags": "Non-Combat, No Prerequisite",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }

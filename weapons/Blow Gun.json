@@ -1,20 +1,14 @@
 {
   "name": "Blow Gun",
-  "content": "<h2>Description</h2>Blow Gun",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Close Ranged"],
-    "description": "Blow Gun",
-		"wealthLevel": 1,
-    "banes": [
-      "Immobile"
-    ],
-    "properties": [
-      "Precise"
-    ],
-    "similar": [
-      "Dart"
-    ]
+    "Type": "Close Ranged",
+    "data-description": "",
+		"Wealth Level": 1,
+    "Banes": "Immobile",
+    "Properties": "Precise",
+    "Similar": "Dart"
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "Psychotic",
-  "content": "<h2>Description</h2><br/><br/>You are severely mentally deranged to the extent that you occasionally lose touch with reality. You get to determine the extent and nature of your psychosis, including any potential triggers. For example, you might believe that beings from another dimension are trying to abduct you, or perhaps you relive a nightmarish scene from your past whenever you are in the midst of a gun fight.",
+  "content": "You are severely mentally deranged to the extent that you occasionally lose touch with reality. You get to determine the extent and nature of your psychosis, including any potential triggers. For example, you might believe that beings from another dimension are trying to abduct you, or perhaps you relive a nightmarish scene from your past whenever you are in the midst of a gun fight.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "You are severely mentally deranged to the extent that you occasionally lose touch with reality. You get to determine the extent and nature of your psychosis, including any potential triggers. For example, you might believe that beings from another dimension are trying to abduct you, or perhaps you relive a nightmarish scene from your past whenever you are in the midst of a gun fight."
+    "data-description": "You are severely mentally deranged to the extent that you occasionally lose touch with reality. You get to determine the extent and nature of your psychosis, including any potential triggers. For example, you might believe that beings from another dimension are trying to abduct you, or perhaps you relive a nightmarish scene from your past whenever you are in the midst of a gun fight."
   }
 }

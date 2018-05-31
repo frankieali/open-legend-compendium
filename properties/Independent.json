@@ -1,15 +1,12 @@
 {
   "name": "Independent",
-  "content": "<h2>Description</h2>A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
+  "content": "A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "mounts & vehicles",
-		"description": "A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
-    "wealthModifier": null,
-    "tags": [
-      "item",
-      "mounts and vehicles"
-    ]
+    "Type": "Mounts & Vehicles",
+		"data-description": "A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
+    "Wealth Modifier": "n/a",
+    "Tags": "Item, Mounts and Vehicles"
   }
 }

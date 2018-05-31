@@ -1,25 +1,14 @@
 {
   "name": "Claymore",
-  "content": "<h2>Description</h2>Claymore",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Two-handed Melee"],
-    "description": "Claymore",
-		"wealthLevel": 2,
-    "banes": [
-      "Knockdown",
-      "Forced Move"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise",
-      "Heavy"
-    ],
-    "similar": [
-      "Greatsword",
-      "No-dachi",
-      "Bastard Sword"
-    ]
+    "Type": "Two-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Knockdown, Forced Move",
+    "Properties": "Forceful, Precise, Heavy",
+    "Similar": "Greatsword, No-dachi, Bastard Sword"
   }
 }

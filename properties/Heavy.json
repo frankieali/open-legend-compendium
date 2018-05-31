@@ -1,14 +1,12 @@
 {
   "name": "Heavy",
-  "content": "<h2>Description</h2>The weapon is particularly heavy to carry. You may carry a maximum number of <em>heavy</em> items equal to your Might score.",
+  "content": "The weapon is particularly heavy to carry. You may carry a maximum number of <em>heavy</em> items equal to your Might score.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "weapon",
-		"description": "The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.",
-    "wealthModifier": null,
-    "tags": [
-      "Weapon"
-    ]
+    "Type": "Weapon",
+		"data-description": "The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.",
+    "Wealth Modifier": 0,
+    "Tags": "Weapon"
   }
 }

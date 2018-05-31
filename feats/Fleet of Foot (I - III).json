@@ -4,67 +4,14 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.",
-    "effect": "Your speed is permanently increased by 5' per tier of this feat.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Agility": 4
-              },
-              {
-                "Fortitude": 4
-              },
-              {
-                "Movement": 2
-              }
-            ]
-          }
-        }
-      },
-      "2": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Agility": 5
-              },
-              {
-                "Fortitude": 5
-              },
-              {
-                "Movement": 4
-              }
-            ]
-          }
-        }
-      },
-      "3": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Agility": 7
-              },
-              {
-                "Fortitude": 7
-              },
-              {
-                "Movement": 6
-              }
-            ]
-          }
-        }
-      }
-    },
-    "tags": [
-      "Extraordinary",
-      "Agility",
-      "Movement",
-      "Fortitude"
-    ],
-    "cost": 2
+    "data-description": "Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.",
+    "data-effect": "Your speed is permanently increased by 5' per tier of this feat.",
+    "Tier Prerequisites (1)": "Agility 4, Fortitude 4, or Movement 2",
+    "Tier Prerequisites (2)": "Agility 5, Fortitude 5, or Movement 4",
+    "Tier Prerequisites (3)": "Agility 7, Fortitude 7, or Movement 6",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 4, Fortitude 4, or Movement 2\",\"Tier 2\":\"Agility 5, Fortitude 5, or Movement 4\",\"Tier 3\":\"Agility 7, Fortitude 7, or Movement 6\"}]",
+    "Tags": "Extraordinary, Agility, Movement, Fortitude",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }

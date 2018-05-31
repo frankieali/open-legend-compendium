@@ -1,14 +1,12 @@
 {
   "name": "Baneful (bane)",
-  "content": "<h2>Description</h2>When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
+  "content": "When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "item",
-		"description": "When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
-    "wealthModifier": "1 + WL cost of bane's lowest power level on the table in step 1",
-    "tags": [
-      "item"
-    ]
+    "Type": "Item",
+		"data-description": "When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.",
+    "Wealth Modifier": "1 + WL cost of bane's lowest power level on the table in step 1",
+    "Tags": "Item, Bane"
   }
 }

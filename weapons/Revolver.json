@@ -1,22 +1,14 @@
 {
   "name": "Revolver",
-  "content": "<h2>Description</h2>Revolver",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["Short Ranged"],
-    "description": "Revolver",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Slowed"
-    ],
-    "properties": [
-      "Precise"
-    ],
-    "similar": [
-      "Laser Pistol",
-      "Handgun"
-    ]
+    "Type": "Short Ranged",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Slowed",
+    "Properties": "Precise",
+    "Similar": "Laser Pistol, Handgun"
   }
 }

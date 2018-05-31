@@ -1,24 +1,14 @@
 {
   "name": "Sawblade",
-  "content": "<h2>Description</h2>Sawblade",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Sawblade",
-		"wealthLevel": 2,
-    "banes": [
-      "Persistent Damage",
-      "Disarmed"
-    ],
-    "properties": [
-      "Forceful",
-      "Precise"
-    ],
-    "similar": [
-      "Scimitar",
-      "Shortsword",
-      "Machete"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 2,
+    "Banes": "Persistent Damage, Disarmed",
+    "Properties": "Forceful, Precise",
+    "Similar": "Scimitar, Shortsword, Machete"
   }
 }

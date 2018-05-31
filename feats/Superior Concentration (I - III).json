@@ -4,22 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once. This feat is typical among character concepts built to enhance themselves or their allies, such as bards, platoon leaders, or engineers.",
-    "effect": "When you take the _sustain a boon_ minor action, you may sustain one additional boon per tier of this feat which you possess.",
-    "tiers": {
-      "1": {
-        "prerequisites": null
-      },
-      "2": {
-        "prerequisites": null
-      },
-      "3": {
-        "prerequisites": null
-      }
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "cost": 3
+    "data-description": "Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once. This feat is typical among character concepts built to enhance themselves or their allies, such as bards, platoon leaders, or engineers.",
+    "data-effect": "When you take the _sustain a boon_ minor action, you may sustain one additional boon per tier of this feat which you possess.",
+    "Tier Prerequisites (1-3)": "None",
+    "data-tierPrereq": "[{\"Tier 1-3\":\"None\"}]",
+    "Tags": "Extraordinary, No Prerequisite",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

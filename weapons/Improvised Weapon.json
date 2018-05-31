@@ -1,22 +1,14 @@
 {
   "name": "Improvised Weapon",
-  "content": "<h2>Description</h2>Improvised Weapon",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
-    "type": ["One-handed Melee"],
-    "description": "Improvised Weapon",
-		"wealthLevel": 1,
-    "banes": [
-      "Knockdown",
-      "Stunned"
-    ],
-    "properties": [
-      "Forceful"
-    ],
-    "similar": [
-      "Baseball Bat",
-      "Club"
-    ]
+    "Type": "One-handed Melee",
+    "data-description": "",
+		"Wealth Level": 1,
+    "Banes": "Knockdown, Stunned",
+    "Properties": "Forceful",
+    "Similar": "Baseball Bat, Club"
   }
 }

@@ -4,31 +4,19 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.",
-    "effect": "You can spy on a person or area that you are familiar with. The power level of this bane determines the maximum distance between you and the target. If successfully invoked, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your spying if they are familiar with such powers.",
-    "special": "When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.\nYou can attempt to spy the same target any number of times, but if your action roll fails, that target becomes immune to your spying for 24 hours.",
-    "powerLevelEffect": {
-      "3": "1 mile or less.",
-      "6": "100 miles or less.",
-      "7": "More than 100 miles, but on the same dimension or plane of reality.",
-      "9": "Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion)."
-    },
-    "tags": [
-      "Extraordinary"
-    ],
-    "power": [
-      5,
-      6,
-      7,
-      9
-    ],
-    "attribute": [
-      "Prescience"
-    ],
-    "attack": [
-      "Prescience vs. Resolve (special)"
-    ],
-    "invocationTime": "10 Minutes",
-    "duration": "10 minutes (special)"
+    "data-description": "Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.",
+    "data-effect": "You can spy on a person or area that you are familiar with. The power level of this bane determines the maximum distance between you and the target. If successfully invoked, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your spying if they are familiar with such powers.",
+    "data-special": "When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.\nYou can attempt to spy the same target any number of times, but if your action roll fails, that target becomes immune to your spying for 24 hours.",
+    "Tags": "Extraordinary",
+    "Power Level": "5, 6, 7, 9",
+    "Power Level Effect (3)": "1 mile or less.",
+    "Power Level Effect (6)": "100 miles or less.",
+    "Power Level Effect (7)": "More than 100 miles, but on the same dimension or plane of reality.",
+    "Power Level Effect (9)": "Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).",
+    "Attribute": "Prescience",
+    "data-attack": "Prescience vs. Resolve (special)",
+    "Attack 0": "Prescience vs. Resolve (special)",
+    "Invocation Time": "10 Minutes",
+    "Duration": "10 minutes (special)"
   }
 }

@@ -1,32 +1,21 @@
 {
   "name": "Galleon",
-  "content": "<h2>Description</h2>Galleon",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Vehicle",
-    "description": "Galleon",
-    "wealthLevel": 6,
-    "speed": "70' swimming",
-    "properties": [
-      "Targeted Weapons",
-      "Multi-Pilot 10"
-    ],
-    "attributes": [
-      "Agility 6"
-    ],
-    "feats": [
-      "Multi-Target Attack Specialist III (Area)"
-    ],
+    "Type": "Vehicle",
+    "data-description": "",
+    "Wealth Level": 6,
+    "Speed": "70' swimming",
+    "Properties": "Targeted Weapons, Multi-Pilot 10",
+    "Attributes": "Agility 6",
+    "Feats": "Multi-Target Attack Specialist III (Area)",
     "HP": 30,
     "DT": 5,
-    "Defenses": {
-      "Guard": 19,
-      "Toughness": 15,
-      "Resolve": "Immune"
-    },
-    "tags": [
-      "Water"
-    ]
+    "Guard": 19,
+    "Toughness": 15,
+    "Resolve": "Immune",
+    "Tags": "Water, Swimming, Boat"
   }
 }

@@ -4,30 +4,18 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "description": "You disorient the target's senses, causing them to act much less efficiently. Stunning an enemy can be caused by attacks such as a pistol whip to the back of the head, a kick in the groin, and a deafening thunderclap.",
-    "effect": "During the target's turn, they are limited to either a single major action, a single move action, or a single minor action. Effects that grant additional actions do not circumvent this unless they grant a free action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds.",
-    "special": "This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initiative turn. It may still take all of its boss actions as usual.",
-    "powerLevelEffect": null,
-    "tags": [
-      "Extraordinary",
-      "Physical"
-    ],
-    "power": [
-      4
-    ],
-    "attribute": [
-      "Agility",
-      "Energy",
-      "Entropy",
-      "Might"
-    ],
-    "attack": [
-      "Agility vs. Toughness",
-      "Energy vs. Toughness",
-      "Entropy vs. Toughness",
-      "Might vs. Toughness"
-    ],
-    "invocationTime": "1 Major Action",
-    "duration": "Resist ends (Fail x 3 = 1 minute)"
+    "data-description": "You disorient the target's senses, causing them to act much less efficiently. Stunning an enemy can be caused by attacks such as a pistol whip to the back of the head, a kick in the groin, and a deafening thunderclap.",
+    "data-effect": "During the target's turn, they are limited to either a single major action, a single move action, or a single minor action. Effects that grant additional actions do not circumvent this unless they grant a free action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds.",
+    "data-special": "This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initiative turn. It may still take all of its boss actions as usual.",
+    "Tags": "Extraordinary, Physical",
+    "Power Level": "4",
+    "Attribute": "Agility, Energy, Entropy, Might",
+    "data-attack": "Agility vs. Toughness, Energy vs. Toughness, Entropy vs. Toughness, Might vs. Toughness",
+    "Attack 0": "Agility vs. Toughness",
+    "Attack 1": "Energy vs. Toughness",
+    "Attack 2": "Entropy vs. Toughness",
+    "Attack 3": "Might vs. Toughness",
+    "Invocation Time": "1 Major Action",
+    "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }
 }

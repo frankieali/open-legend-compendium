@@ -1,9 +1,9 @@
 {
   "name": "Greedy",
-  "content": "<h2>Description</h2><br/><br/>You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.",
+  "content": "You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "description": "You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies."
+    "data-description": "You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies."
   }
 }

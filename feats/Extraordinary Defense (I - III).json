@@ -4,65 +4,14 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.",
-    "effect": "You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Movement": 2
-              },
-              {
-                "Prescience": 2
-              },
-              {
-                "Protection": 2
-              }
-            ]
-          }
-        }
-      },
-      "2": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Movement": 3
-              },
-              {
-                "Prescience": 3
-              },
-              {
-                "Protection": 3
-              }
-            ]
-          }
-        }
-      },
-      "3": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Movement": 4
-              },
-              {
-                "Prescience": 4
-              },
-              {
-                "Protection": 4
-              }
-            ]
-          }
-        }
-      }
-    },
-    "tags": [
-      "Extraordinary",
-      "Defense"
-    ],
-    "cost": 3
+    "data-description": "Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.",
+    "data-effect": "You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.",
+    "Tier Prerequisites (1)": "Movement 2, Prescience 2, or Protection 2",
+    "Tier Prerequisites (2)": "Movement 3, Prescience 3, or Protection 3",
+    "Tier Prerequisites (3)": "Movement 4, Prescience 4, or Protection 4",
+    "data-tierPrereq": "[{\"Tier 1\":\"Movement 2, Prescience 2, or Protection 2\",\"Tier 2\":\"Movement 3, Prescience 3, or Protection 3\",\"Tier 3\":\"Movement 4, Prescience 4, or Protection 4\"}]",
+    "Tags": "Extraordinary, Defense",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "Courageous",
-  "content": "<h2>Description</h2><br/><br/>When the odds are stacked against you, you never falter or waiver. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.",
+  "content": "When the odds are stacked against you, you never falter or waiver. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Perks",
-    "description": "When the odds are stacked against you, you never falter or waiver. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale."
+    "data-description": "When the odds are stacked against you, you never falter or waiver. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale."
   }
 }

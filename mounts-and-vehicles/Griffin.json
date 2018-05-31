@@ -1,29 +1,21 @@
 {
   "name": "Griffin",
-  "content": "<h2>Description</h2>Griffin",
+  "content": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Mounts & Vehicles",
-    "type": "Mounts",
-    "description": "Griffin",
-    "wealthLevel": 4,
-    "speed": "50' flying",
-    "properties": [
-      "Independent 1"
-    ],
-    "attributes": ["Might 5"],
-    "feats": [
-      "Bane Focus (Immobile)"
-    ],
+    "Type": "Mount",
+    "data-description": "",
+    "Wealth Level": 4,
+    "Speed": "50' flying",
+    "Properties": "Independent 1",
+    "Attributes": "Might 5",
+    "Feats": "Bane Focus (Immobile)",
     "HP": 34,
     "DT": 1,
-    "Defenses": {
-      "Guard": 19,
-      "Toughness": 16,
-      "Resolve": 13
-    },
-    "tags": [
-      "Flying"
-    ]
+    "Guard": 19,
+    "Toughness": 16,
+    "Resolve": 13,
+    "Tags": "Flying"
   }
 }

@@ -1,14 +1,12 @@
 {
   "name": "Augmenting",
-  "content": "<h2>Description</h2>Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All <em>augmenting</em> items must have the <em>expendable</em> property.",
+  "content": "Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All <em>augmenting</em> items must have the <em>expendable</em> property.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
-    "type": "item",
-		"description": "Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.",
-    "wealthModifier": "+1",
-    "tags": [
-      "item"
-    ]
+    "Type": "Item",
+		"data-description": "Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.",
+    "Wealth Modifier": "+1",
+    "Tags": "Item"
   }
 }

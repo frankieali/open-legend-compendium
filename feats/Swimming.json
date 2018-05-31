@@ -4,16 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "You are made for the water and can swim at surprising speeds with the aptitude of a fish. This might be the result of hard core training, or it may stem from a racial trait, such as webbed feet and hands.",
-    "effect": "You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.",
-    "tiers": {
-      "1": {
-        "prerequisites": null
-      }
-    },
-    "tags": [
-      "Non-Combat"
-    ],
-    "cost": 1
+    "data-description": "You are made for the water and can swim at surprising speeds with the aptitude of a fish. This might be the result of hard core training, or it may stem from a racial trait, such as webbed feet and hands.",
+    "data-effect": "You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.",
+    "Tier Prerequisites (1)": "None",
+    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Tags": "Non-Combat, No Prerequisite",
+    "Cost": "1 points",
+		"data-cost": 1
   }
 }

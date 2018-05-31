@@ -1,19 +1,13 @@
 {
   "name": "Transmogrification Ray",
-  "content": "<h2>Description</h2>A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
+  "content": "A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "type": "Extraordinary",
-    "description": "A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
-    "wealthLevel": 5,
-    "attributes": null,
-    "banes": ["Polymorph 6"],
-    "boons": null,
-    "properties": [
-      "Potent",
-      "Powerful 1"
-    ],
-    "special": null
+    "data-description": "A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
+    "Type": "Extraordinary",
+    "Wealth Level": 5,
+    "Banes": "Polymorph 6",
+    "Properties": "Potent, Powerful 1"
   }
 }
