@@ -14,6 +14,6 @@
     "data-tierPrereq": "[{\"Tier 1-2\":\"Learning 3, Logic 3, or Knowledge I\"}]",
     "Tags": "Non-Combat",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

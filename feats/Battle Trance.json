@@ -9,6 +9,6 @@
     "Tier Prerequisites (1)": "Fortitude 3 or Will 3",
     "data-tierPrereq": "[{\"Tier 1\":\"Fortitude 3 or Will 3\"}]",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

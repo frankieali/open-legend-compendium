@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1-3\":\"Agility 5, Might 5, or Any Extraordinary 5\"}]",
     "Tags": "Defense, Physical, Extraordinary",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

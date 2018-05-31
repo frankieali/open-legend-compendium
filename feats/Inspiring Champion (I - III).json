@@ -16,6 +16,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Presence 4\",\"Tier 2\":\"Presence 5\",\"Tier 3\":\"Presence 6\"}]",
     "Tags": "Social, Combat, Presence",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

@@ -12,6 +12,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Presence 3 or Will 3\",\"Tier 2\":\"Presence 4 or Will 4\",\"Tier 3\":\"Presence 5 or Will 5\"}]",
     "Tags": "Combat, Presence, Will",
     "Cost": "1 points",
-		"data-cost": 1
+    "data-cost": 1
   }
 }

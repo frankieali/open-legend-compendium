@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
     "Tags": "Combat, No Prerequisite",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

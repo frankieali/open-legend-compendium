@@ -12,6 +12,6 @@
     "Tier Prerequisites (1-2)": "Agility 4",
     "data-tierPrereq": "[{\"Tier 1-2\":\"Agility 4\"}]",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

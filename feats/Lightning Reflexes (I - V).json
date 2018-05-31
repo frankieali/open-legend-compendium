@@ -11,6 +11,6 @@
     "data-tierPrereq": "[{\"Tier 1-2\": \"Agility 2 or Prescience 2\",\"Tier 3-5\": \"Agility 4 or Prescience 4\"}]",
     "Tags": "Physical, Extraordinary, Agility, Prescience",
     "Cost": "1 points",
-		"data-cost": 1
+    "data-cost": 1
   }
 }

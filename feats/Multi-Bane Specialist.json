@@ -11,6 +11,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Able to inflict both banes (see description)\"}]",
     "Tags": "Bane, Combat",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

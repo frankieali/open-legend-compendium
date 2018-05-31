@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Fortitude 3, Presence 3, or Will 3\"}]",
     "Tags": "Mental, Physical, Social",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

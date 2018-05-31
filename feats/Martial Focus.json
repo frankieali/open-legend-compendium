@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Agility 1 or Might 1\"}]",
     "Tags": "Combat, Physical",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

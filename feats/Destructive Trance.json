@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"{Agility 7, Might 7, Energy 7, or Entropy 7} and Battle Trance\"}]",
     "Tags": "Extraordinary, Might",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

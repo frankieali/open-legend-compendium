@@ -17,6 +17,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Any Extraordinary 4\",\"Tier 2\":\"Any Extraordinary 6\",\"Tier 3\":\"Any Extraordinary 9\"}]",
     "Tags": "Extraordinary, Non-Combat",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

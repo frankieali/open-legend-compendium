@@ -11,6 +11,6 @@
     "data-tierPrereq": "[{\"Tier 1-5\":\"None\"}]",
     "Tags": "Any Attribute, No Prerequisite",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

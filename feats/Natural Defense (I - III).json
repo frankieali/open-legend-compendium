@@ -16,6 +16,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"None\",\"Tier 2\":\"Fortitude 1\",\"Tier 3\":\"Fortitude 2\"}]",
     "Tags": "Combat, Physical, Defense, Fortitude",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

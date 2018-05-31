@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"{Agility 5, Might 5, or Any Extraordinary 5} and Battlefield Retribution\"}]",
     "Tags": "Might, Passive, Combat, Feat Chain",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }

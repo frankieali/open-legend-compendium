@@ -10,6 +10,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Agility 4, or Might 4, or Any Extraordinary 4\"}]",
     "Tags": "Might, Agility, Extraordinary, Passive, Combat",
     "Cost": "2 points",
-		"data-cost": 2
+    "data-cost": 2
   }
 }

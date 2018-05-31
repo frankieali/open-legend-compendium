@@ -14,6 +14,6 @@
     "data-tierPrereq": "[{\"Tier 1\":\"Agility 6 and Lethal Strike I\",\"Tier 2\":\"Agility 7 and Lethal Strike II\"}]",
     "Tags": "Combat, Physical",
     "Cost": "3 points",
-		"data-cost": 3
+    "data-cost": 3
   }
 }
