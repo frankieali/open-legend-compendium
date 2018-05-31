@@ -1,1310 +1,765 @@
 [
   {
     "name": "Baseball Bat",
-    "content": "<h2>Description</h2>Baseball Bat",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Baseball Bat",
-      "wealthLevel": 1,
-      "banes": [
-        "Knockdown",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Club",
-        "Improvised Weapon"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Knockdown, Stunned",
+      "Properties": "Forceful",
+      "Similar": "Club, Improvised Weapon"
     }
   },{
     "name": "Bastard Sword",
-    "content": "<h2>Description</h2>Bastard Sword",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Bastard Sword",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Heavy"
-      ],
-      "similar": [
-        "Greatsword",
-        "No-dachi",
-        "Claymore"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move",
+      "Properties": "Forceful, Precise, Heavy",
+      "Similar": "Greatsword, No-dachi, Claymore"
     }
   },{
     "name": "Blow Gun",
-    "content": "<h2>Description</h2>Blow Gun",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Close Ranged"],
-      "description": "Blow Gun",
-      "wealthLevel": 1,
-      "banes": [
-        "Immobile"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Dart"
-      ]
+      "Type": "Close Ranged",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Immobile",
+      "Properties": "Precise",
+      "Similar": "Dart"
     }
   },{
     "name": "Bowie Knife",
-    "content": "<h2>Description</h2>Bowie Knife",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Bowie Knife",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Precise",
-        "Swift"
-      ],
-      "similar": [
-        "Shiv",
-        "Multi-tool"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Precise, Swift",
+      "Similar": "Shiv, Multi-tool"
     }
   },{
     "name": "Cannon",
-    "content": "<h2>Description</h2>Cannon",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Extreme Ranged"],
-      "description": "Cannon",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Forced Move",
-        "Stunned"
-      ],
-      "properties": [
-        "Precise",
-        "Slow",
-        "Area (15' square)",
-        "Delayed Ready",
-        "Heavy",
-        "Stationary"
-      ],
-      "similar": null
+      "Type": "Extreme Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Forced Move, Stunned",
+      "Properties": "Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary"
     }
   },{
     "name": "Chainsaw",
-    "content": "<h2>Description</h2>Chainsaw",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Chainsaw",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Demoralized",
-        "Provoked",
-        "Fear"
-      ],
-      "properties": [
-        "Forceful",
-        "Heavy"
-      ],
-      "similar": null
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Demoralized, Provoked, Fear",
+      "Properties": "Forceful, Heavy"
     }
   },{
     "name": "Claymore",
-    "content": "<h2>Description</h2>Claymore",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Claymore",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Heavy"
-      ],
-      "similar": [
-        "Greatsword",
-        "No-dachi",
-        "Bastard Sword"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move",
+      "Properties": "Forceful, Precise, Heavy",
+      "Similar": "Greatsword, No-dachi, Bastard Sword"
     }
   },{
     "name": "Club",
-    "content": "<h2>Description</h2>Club",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Club",
-      "wealthLevel": 1,
-      "banes": [
-        "Knockdown",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Baseball Bat",
-        "Improvised Weapon"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Knockdown, Stunned",
+      "Properties": "Forceful",
+      "Similar": "Baseball Bat, Improvised Weapon"
     }
   },{
     "name": "Dagger",
-    "content": "<h2>Description</h2>Dagger",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": [
-        "Close Ranged",
-        "One-handed Melee"
-      ],
-      "description": "Dagger",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Swift"
-      ],
-      "similar": [
-        "Hatchet"
-      ]
+      "Type": "Close Ranged, One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise, Swift",
+      "Similar": "Hatchet"
     }
   },{
     "name": "Dart",
-    "content": "<h2>Description</h2>Dart",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Close Ranged"],
-      "description": "Dart",
-      "wealthLevel": 1,
-      "banes": [
-        "Immobile"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Blow Gun"
-      ]
+      "Type": "Close Ranged",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Immobile",
+      "Properties": "Precise",
+      "Similar": "Blow Gun"
     }
   },{
     "name": "Falchion",
-    "content": "<h2>Description</h2>Falchion",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Versatile Melee"],
-      "description": "Falchion",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Longsword",
-        "Katana"
-      ]
+      "Type": "Versatile Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Longsword, Katana"
     }
   },{
     "name": "Firebomb Elixir",
-    "content": "<h2>Description</h2>Firebomb Elixir",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Close Ranged"],
-      "description": "Firebomb Elixir",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Precise",
-        "Expendable",
-        "Area (10' cube)"
-      ],
-      "similar": [
-        "Grenade"
-      ]
+      "Type": "Close Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Knockdown, Forced Move",
+      "Properties": "Precise, Expendable, Area (10' cube)",
+      "Similar": "Grenade"
     }
   },{
     "name": "Flamethrower",
-    "content": "<h2>Description</h2>Flamethrower",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Flamethrower",
-      "wealthLevel": 3,
-      "banes": [
-        "Fear",
-        "Persistent Damage"
-      ],
-      "properties": [
-        "Precise",
-        "Slow",
-        "Area (5' / 10' cone)"
-      ],
-      "similar": null
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Banes": "Fear, Persistent Damage",
+      "Properties": "Precise, Slow, Area (5' / 10' cone)"
     }
   },{
     "name": "Giant’s Bane",
-    "content": "<h2>Description</h2>This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.<h2>Special</h2><strong>Intelligent:</strong> The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.",
+    "content": "<h2>Description</h2>This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.<br><br><h2>Special</h2><strong>Intelligent</strong>: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Long Ranged", "Legendary"],
-      "description": "This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.",
-      "wealthLevel": null,
-      "attributes": [
-        "Agility +1",
-        "Perception +2"
-      ],
-      "banes": [
-        "Persistent Damage"
-      ],
-      "properties": [
-        "Weapon (Longbow)",
-        "Deadly 2",
-        "Slaying (giants)",
-        "Intelligent"
-      ],
-      "special": [
-        {
-          "Intelligent": "The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants."
-        }
-      ],
-      "similar": null
+      "Type": "Long Ranged, Legendary",
+      "data-description": "This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.",
+      "Wealth Level": "n/a",
+      "attributes": "Agility +1, Perception +2",
+      "Banes": "Persistent Damage",
+      "Properties": "Weapon (Longbow), Deadly 2, Slaying (giants), Intelligent",
+      "Special": "Intelligent",
+      "data-special": "[{\"Intelligent\": \"The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.\"}]"
     }
   },{
     "name": "Glaive",
-    "content": "<h2>Description</h2>Glaive",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Glaive",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Immobile",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Reach"
-      ],
-      "similar": [
-        "Halberd",
-        "Naginata"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Immobile, Forced Move",
+      "Properties": "Forceful, Reach",
+      "Similar": "Halberd, Naginata"
     }
   },{
     "name": "Great Axe",
-    "content": "<h2>Description</h2>Great Axe",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Great Axe",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful",
-        "Heavy"
-      ],
-      "similar": [
-        "Sledge Hammer",
-        "Maul"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move, Stunned",
+      "Properties": "Forceful, Heavy",
+      "Similar": "Sledge Hammer, Maul"
     }
   },{
     "name": "Greatsword",
-    "content": "<h2>Description</h2>Greatsword",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Greatsword",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Heavy"
-      ],
-      "similar": [
-        "No-dachi",
-        "Claymore",
-        "Bastard Sword"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move",
+      "Properties": "Forceful, Precise, Heavy",
+      "Similar": "No-dachi, Claymore, Bastard Sword"
     }
   },{
     "name": "Grenade",
-    "content": "<h2>Description</h2>Grenade",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Close Ranged"],
-      "description": "Grenade",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Precise",
-        "Expendable",
-        "Area (10' cube)"
-      ],
-      "similar": [
-        "Firebomb Elixir"
-      ]
+      "Type": "Close Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Knockdown, Forced Move",
+      "Properties": "Precise, Expendable, Area (10' cube)",
+      "Similar": "Firebomb Elixir"
     }
   },{
     "name": "Halberd",
-    "content": "<h2>Description</h2>Halberd",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Halberd",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Immobile",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Reach"
-      ],
-      "similar": [
-        "Glaive",
-        "Naginata"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Immobile, Forced Move",
+      "Properties": "Forceful, Reach",
+      "Similar": "Glaive, Naginata"
     }
   },{
     "name": "Handgun",
-    "content": "<h2>Description</h2>Handgun",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Short Ranged"],
-      "description": "Handgun",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Laser Pistol",
-        "Revolver"
-      ]
+      "Type": "Short Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Laser Pistol, Revolver"
     }
   },{
     "name": "Hatchet",
-    "content": "<h2>Description</h2>Hatchet",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": [
-        "Close Ranged",
-        "One-handed Melee"
-      ],
-      "description": "Hatchet",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Swift"
-      ],
-      "similar": [
-        "Dagger"
-      ]
+      "Type": "Close Ranged, One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise, Swift",
+      "Similar": "Dagger"
     }
   },{
     "name": "Heavy Crossbow",
-    "content": "<h2>Description</h2>Heavy Crossbow",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Long Ranged"],
-      "description": "Heavy Crossbow",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Longbow",
-        "Rifle"
-      ]
+      "Type": "Long Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Longbow, Rifle"
     }
   },{
     "name": "Improvised Weapon",
-    "content": "<h2>Description</h2>Improvised Weapon",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Improvised Weapon",
-      "wealthLevel": 1,
-      "banes": [
-        "Knockdown",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Baseball Bat",
-        "Club"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Knockdown, Stunned",
+      "Properties": "Forceful",
+      "Similar": "Baseball Bat, Club"
     }
   },{
     "name": "Katana",
-    "content": "<h2>Description</h2>Katana",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Versatile Melee"],
-      "description": "Katana",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Longsword",
-        "Falchion"
-      ]
+      "Type": "Versatile Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Longsword, Falchion"
     }
   },{
     "name": "Laser Pistol",
-    "content": "<h2>Description</h2>Laser Pistol",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Short Ranged"],
-      "description": "Laser Pistol",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Revolver",
-        "Handgun"
-      ]
+      "Type": "Short Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Revolver, Handgun"
     }
   },{
     "name": "Laser Rifle",
-    "content": "<h2>Description</h2>Laser Rifle",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Extreme Ranged"],
-      "description": "Laser Rifle",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Sniper Rifle"
-      ]
+      "Type": "Extreme Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Sniper Rifle"
     }
   },{
     "name": "Light Crossbow",
-    "content": "<h2>Description</h2>Light Crossbow",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged"],
-      "description": "Light Crossbow",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Immobile"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": null
+      "Type": "Medium Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Immobile",
+      "Properties": "Precise"
     }
   },{
     "name": "Longbow",
-    "content": "<h2>Description</h2>Longbow",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Long Ranged"],
-      "description": "Longbow",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Heavy Crossbow",
-        "Rifle"
-      ]
+      "Type": "Long Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Heavy Crossbow, Rifle"
     }
   },{
     "name": "Longspear",
-    "content": "<h2>Description</h2>Longspear",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": [
-        "Close Ranged",
-        "Two-handed Melee" 
-      ],
-      "description": "Longspear",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed",
-        "Immobile"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Reach"
-      ],
-      "similar": null
+      "Type": "Close Ranged, Two-handed Melee" ,
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed, Immobile",
+      "Properties": "Forceful, Precise, Reach"
     }
   },{
     "name": "Longsword",
-    "content": "<h2>Description</h2>Longsword",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Versatile Melee"],
-      "description": "Longsword",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Katana",
-        "Falchion"
-      ]
+      "Type": "Versatile Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Katana, Falchion"
     }
   },{
     "name": "M16",
-    "content": "<h2>Description</h2>M16",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged"],
-      "description": "M16",
-      "wealthLevel": 3,
-      "banes": [
-        "Persistent Damage",
-        "Provoked",
-        "Demoralized"
-      ],
-      "properties": [
-        "Precise",
-        "Area (10' cube)"
-      ],
-      "similar": [
-        "Submachine Gun"
-      ]
+      "Type": "Medium Ranged",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Banes": "Persistent Damage, Provoked, Demoralized",
+      "Properties": "Precise, Area (10' cube)",
+      "Similar": "Submachine Gun"
     }
   },{
     "name": "Mace",
-    "content": "<h2>Description</h2>Mace",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Mace",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Stunned",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Warhammer"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Stunned, Forced Move",
+      "Properties": "Forceful",
+      "Similar": "Warhammer"
     }
   },{
     "name": "Machete",
-    "content": "<h2>Description</h2>Machete",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Machete",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Scimitar",
-        "Shortsword",
-        "Sawblade"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Scimitar, Shortsword, Sawblade"
     }
   },{
     "name": "Maul",
-    "content": "<h2>Description</h2>Maul",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Maul",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful",
-        "Heavy"
-      ],
-      "similar": [
-        "Sledge Hammer",
-        "Great Axe"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move, Stunned",
+      "Properties": "Forceful, Heavy",
+      "Similar": "Sledge Hammer, Great Axe"
     }
   },{
     "name": "Multi-tool",
-    "content": "<h2>Description</h2>Multi-tool",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Multi-tool",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Precise",
-        "Swift"
-      ],
-      "similar": [
-        "Bowie Knife",
-        "Shiv"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Precise, Swift",
+      "Similar": "Bowie Knife, Shiv"
     }
   },{
     "name": "Naginata",
-    "content": "<h2>Description</h2>Naginata",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Naginata",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Immobile",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Reach"
-      ],
-      "similar": [
-        "Glaive",
-        "Halberd"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Immobile, Forced Move",
+      "Properties": "Forceful, Reach",
+      "Similar": "Glaive, Halberd"
     }
   },{
     "name": "No-dachi",
-    "content": "<h2>Description</h2>No-dachi",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "No-dachi",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Heavy"
-      ],
-      "similar": [
-        "Greatsword",
-        "Claymore",
-        "Bastard Sword"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move",
+      "Properties": "Forceful, Precise, Heavy",
+      "Similar": "Greatsword, Claymore, Bastard Sword"
     }
   },{
     "name": "Pitchfork",
-    "content": "<h2>Description</h2>Pitchfork",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Pitchfork",
-      "wealthLevel": 1,
-      "banes": [
-        "Knockdown",
-        "Immobile",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Staff"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Knockdown, Immobile, Forced Move",
+      "Properties": "Forceful",
+      "Similar": "Staff"
     }
   },{
     "name": "Pump Shotgun",
-    "content": "<h2>Description</h2>Pump Shotgun",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged"],
-      "description": "Pump Shotgun",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed",
-        "Knockdown"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Shortbow"
-      ]
+      "Type": "Medium Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed, Knockdown",
+      "Properties": "Precise",
+      "Similar": "Shortbow"
     }
   },{
     "name": "Reaver",
-    "content": "<h2>Description</h2>This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.<h2>Special</h2><strong>Warble:</strong> Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.",
+    "content": "<h2>Description</h2>This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.<br><br><h2>Special</h2><strong>Warble</strong>: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee", "Legendary"],
-      "description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
-      "wealthLevel": null,
-      "attributes": [
-        "Might +2",
-        "Presence +2"
-      ],
-      "banes": [
-        "Fear 8"
-      ],
-      "properties": [
-        "Weapon (Great Axe)",
-        "Unfailing"
-      ],
-      "special": [
-        {
-          "Warble": "Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8."
-        }
-      ],
-      "similar": null
+      "Type": "Two-handed Melee, Legendary",
+      "data-description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
+      "Wealth Level": "n/a",
+      "attributes": "Might +2, Presence +2",
+      "Banes": "Fear 8",
+      "Properties": "Weapon (Great Axe), Unfailing",
+      "Special": "Warble",
+      "special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
     }
   },{
     "name": "Revolver",
-    "content": "<h2>Description</h2>Revolver",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Short Ranged"],
-      "description": "Revolver",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Laser Pistol",
-        "Handgun"
-      ]
+      "Type": "Short Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Laser Pistol, Handgun"
     }
   },{
     "name": "Rifle",
-    "content": "<h2>Description</h2>Rifle",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Long Ranged"],
-      "description": "Rifle",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Heavy Crossbow",
-        "Longbow"
-      ]
+      "Type": "Long Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Heavy Crossbow, Longbow"
     }
   },{
     "name": "Riot Shield",
-    "content": "<h2>Description</h2>Riot Shield",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Riot Shield",
-      "wealthLevel": 3,
-      "banes": [
-        "Forced Move",
-        "Stunned",
-        "Knockdown"
-      ],
-      "properties": [
-        "Forceful",
-        "Defensive 2"
-      ],
-      "similar": [
-        "Tower Shield"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Banes": "Forced Move, Stunned, Knockdown",
+      "Properties": "Forceful, Defensive 2",
+      "Similar": "Tower Shield"
     }
   },{
     "name": "Sawblade",
-    "content": "<h2>Description</h2>Sawblade",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Sawblade",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Scimitar",
-        "Shortsword",
-        "Machete"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Scimitar, Shortsword, Machete"
     }
   },{
     "name": "Sawed-off Shotgun",
-    "content": "<h2>Description</h2>Sawed-off Shotgun",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Short Ranged"],
-      "description": "Sawed-off Shotgun",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Stunned",
-        "Forced Move"
-      ],
-      "properties": [
-        "Precise",
-        "Slow",
-        "Area (10' cone)"
-      ],
-      "similar": null
+      "Type": "Short Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Stunned, Forced Move",
+      "Properties": "Precise, Slow, Area (10' cone)"
     }
   },{
     "name": "Scimitar",
-    "content": "<h2>Description</h2>Scimitar",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Scimitar",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Shortsword",
-        "Machete",
-        "Sawblade"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Shortsword, Machete, Sawblade"
     }
   },{
     "name": "Shiv",
-    "content": "<h2>Description</h2>Shiv",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Shiv",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Precise",
-        "Swift"
-      ],
-      "similar": [
-        "Bowie Knife",
-        "Multi-tool"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Precise, Swift",
+      "Similar": "Bowie Knife, Multi-tool"
     }
   },{
     "name": "Shortbow",
-    "content": "<h2>Description</h2>Shortbow",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged"],
-      "description": "Shortbow",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed",
-        "Knockdown"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Pump Shotgun"
-      ]
+      "Type": "Medium Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed, Knockdown",
+      "Properties": "Precise",
+      "Similar": "Pump Shotgun"
     }
   },{
     "name": "Shortspear",
-    "content": "<h2>Description</h2>Shortspear",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": [
-        "Versatile Melee", 
-        "Short Ranged"
-      ],
-      "description": "Shortspear",
-      "wealthLevel": 1,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed",
-        "Immobile"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": null
+      "Type": "Versatile Melee, Short Ranged",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Persistent Damage, Disarmed, Immobile",
+      "Properties": "Forceful, Precise"
     }
   },{
     "name": "Shortsword",
-    "content": "<h2>Description</h2>Shortsword",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Shortsword",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Disarmed"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise"
-      ],
-      "similar": [
-        "Scimitar",
-        "Machete",
-        "Sawblade"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Disarmed",
+      "Properties": "Forceful, Precise",
+      "Similar": "Scimitar, Machete, Sawblade"
     }
   },{
     "name": "Sledge Hammer",
-    "content": "<h2>Description</h2>Sledge Hammer",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Sledge Hammer",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Forced Move",
-        "Stunned"
-      ],
-      "properties": [
-        "Forceful",
-        "Heavy"
-      ],
-      "similar": [
-        "Maul",
-        "Great Axe"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Forced Move, Stunned",
+      "Properties": "Forceful, Heavy",
+      "Similar": "Maul, Great Axe"
     }
   },{
     "name": "Small Shield",
-    "content": "<h2>Description</h2>Small Shield",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Small Shield",
-      "wealthLevel": 2,
-      "banes": [
-        "Forced Move",
-        "Stunned",
-        "Knockdown"
-      ],
-      "properties": [
-        "Forceful",
-        "Defensive 1"
-      ],
-      "similar": null
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Forced Move, Stunned, Knockdown",
+      "Properties": "Forceful, Defensive 1"
     }
   },{
     "name": "Sniper Rifle",
-    "content": "<h2>Description</h2>Sniper Rifle",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Extreme Ranged"],
-      "description": "Sniper Rifle",
-      "wealthLevel": 2,
-      "banes": [
-        "Persistent Damage",
-        "Slowed"
-      ],
-      "properties": [
-        "Precise"
-      ],
-      "similar": [
-        "Laser Rifle"
-      ]
+      "Type": "Extreme Ranged",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Persistent Damage, Slowed",
+      "Properties": "Precise",
+      "Similar": "Laser Rifle"
     }
   },{
     "name": "Staff",
-    "content": "<h2>Description</h2>Staff",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Two-handed Melee"],
-      "description": "Staff",
-      "wealthLevel": 1,
-      "banes": [
-        "Knockdown",
-        "Immobile",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Pitchfork"
-      ]
+      "Type": "Two-handed Melee",
+      "data-description": "",
+      "Wealth Level": 1,
+      "Banes": "Knockdown, Immobile, Forced Move",
+      "Properties": "Forceful",
+      "Similar": "Pitchfork"
     }
   },{
     "name": "Submachine Gun",
-    "content": "<h2>Description</h2>Submachine Gun",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged"],
-      "description": "Submachine Gun",
-      "wealthLevel": 3,
-      "banes": [
-        "Persistent Damage",
-        "Provoked",
-        "Demoralized"
-      ],
-      "properties": [
-        "Precise",
-        "Area (10' cube)"
-      ],
-      "similar": [
-        "M16"
-      ]
+      "Type": "Medium Ranged",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Banes": "Persistent Damage, Provoked, Demoralized",
+      "Properties": "Precise, Area (10' cube)",
+      "Similar": "M16"
     }
   },{
     "name": "Tower Shield",
-    "content": "<h2>Description</h2>Tower Shield",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Tower Shield",
-      "wealthLevel": 3,
-      "banes": [
-        "Forced Move",
-        "Stunned",
-        "Knockdown"
-      ],
-      "properties": [
-        "Forceful",
-        "Defensive 2"
-      ],
-      "similar": [
-        "Riot Shield"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Banes": "Forced Move, Stunned, Knockdown",
+      "Properties": "Forceful, Defensive 2",
+      "Similar": "Riot Shield"
     }
   },{
     "name": "Unarmed Strike",
-    "content": "<h2>Description</h2>Unarmed Strike",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Unarmed Strike",
-      "wealthLevel": 0,
-      "banes": [
-        "Stunned",
-        "Knockdown"
-      ],
-      "properties": [
-        "Forceful",
-        "Precise",
-        "Swift"
-      ],
-      "similar": null
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 0,
+      "Banes": "Stunned, Knockdown",
+      "Properties": "Forceful, Precise, Swift"
     }
   },{
     "name": "Void Cannon",
-    "content": "<h2>Description</h2>This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation that wipes from existence anything in its path.<h2>Special</h2><strong>Void:</strong> The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.",
+    "content": "<h2>Description</h2>This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation that wipes from existence anything in its path.<br><br><h2>Special</h2><strong>Void</strong>: The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["Medium Ranged", "Legendary"],
-      "description": "This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation that wipes from existence anything in its path.",
-      "wealthLevel": null,
-      "banes": [
-        "Persistent Damage"
-      ],
-      "properties": [
-        "Deadly 3",
-        "Precise",
-        "Delayed Ready",
-        "Area (10’ cube)"
-      ],
-      "special": [
-        {
-          "Void": "The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours."
-        }
-      ],
-      "similar": null
+      "Type": "Medium Ranged, Legendary",
+      "data-description": "This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation that wipes from existence anything in its path.",
+      "Wealth Level": "n/a",
+      "Banes": "Persistent Damage",
+      "Properties": "Deadly 3, Precise, Delayed Ready, Area (10’ cube)",
+      "special": "[{\"Void\": \"The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.\"}]"
     }
   },{
     "name": "Warhammer",
-    "content": "<h2>Description</h2>Warhammer",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Weapons",
-      "type": ["One-handed Melee"],
-      "description": "Warhammer",
-      "wealthLevel": 2,
-      "banes": [
-        "Knockdown",
-        "Stunned",
-        "Forced Move"
-      ],
-      "properties": [
-        "Forceful"
-      ],
-      "similar": [
-        "Mace"
-      ]
+      "Type": "One-handed Melee",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Banes": "Knockdown, Stunned, Forced Move",
+      "Properties": "Forceful",
+      "Similar": "Mace"
     }
   }
 ]

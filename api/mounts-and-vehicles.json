@@ -1,430 +1,296 @@
 [
   {
     "name": "All-Terrain Vehicle",
-    "content": "<h2>Description</h2>All-Terrain Vehicle",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "All-Terrain Vehicle",
-      "wealthLevel": 2,
-      "speed": "80'",
-      "properties": null,
-      "attributes": ["Agility 4"],
-      "feats": null,
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 2,
+      "Speed": "80'",
+      "Attributes": "Agility 4",
       "HP": 20,
       "DT": 2,
-      "Defenses": {
-        "Guard": 14,
-        "Toughness": 14,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 14,
+      "Toughness": 14,
+      "Resolve": "Immune",
+      "Tags": "Land"
     }
   },{
     "name": "Battle Cruiser",
-    "content": "<h2>Description</h2>Battle Cruiser",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "Battle Cruiser",
-      "wealthLevel": 9,
-      "speed": "1,000' flying",
-      "properties": [
-        "Faster than Light",
-        "Guided Weapons",
-        "Targeted Weapons",
-        "Independent 2",
-        "Multi-Pilot 4"
-      ],
-      "attributes": ["Energy 7"],
-      "feats": [
-        "Multi-Target Attack Specialist (Area) V"
-      ],
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 9,
+      "Speed": "1,000' flying",
+      "Properties": "Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4",
+      "Attributes": "Energy 7",
+      "Feats": "Multi-Target Attack Specialist (Area) V",
       "HP": 50,
       "DT": 5,
-      "Defenses": {
-        "Guard": 25,
-        "Toughness": 18,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Fly"
-      ]
+      "Guard": 25,
+      "Toughness": 18,
+      "Resolve": "Immune",
+      "Tags": "Flying, Space"
     }
   },{
     "name": "Dire Wolf",
-    "content": "<h2>Description</h2>Dire Wolf",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Dire Wolf",
-      "wealthLevel": 3,
-      "speed": "40'",
-      "properties": null,
-      "attributes": [
-        "Agility 5",
-        "Perception 5"
-      ],
-      "feats": ["Bane Focus I (Knockdown)"],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Speed": "40'",
+      "Attributes": "Agility 5, Perception 5",
+      "Feats": "Bane Focus I (Knockdown)",
       "HP": 24,
       "DT": 1,
-      "Defenses": {
-        "Guard": 17,
-        "Toughness": 14,
-        "Resolve": 15
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 17,
+      "Toughness": 14,
+      "Resolve": 15,
+      "Tags": "Land"
     }
   },{
     "name": "Drake",
-    "content": "<h2>Description</h2>Drake",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Drake",
-      "wealthLevel": 5,
-      "speed": "50' flying",
-      "properties": [
-        "Independent 1"
-      ],
-      "attributes": ["Energy 6"],
-      "feats": [
-        "Multi-Target Attack Specialist III (Area)"
-      ],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 5,
+      "Speed": "50' flying",
+      "Properties": "Independent 1",
+      "Attributes": "Energy 6",
+      "Feats": "Multi-Target Attack Specialist III (Area)",
       "HP": 38,
       "DT": 1,
-      "Defenses": {
-        "Guard": 20,
-        "Toughness": 18,
-        "Resolve": 15
-      },
-      "tags": [
-        "Fly"
-      ]
+      "Guard": 20,
+      "Toughness": 18,
+      "Resolve": 15,
+      "Tags": "Flying"
     }
   },{
     "name": "Fighter Ship",
-    "content": "<h2>Description</h2>Fighter Ship",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "Fighter Ship",
-      "wealthLevel": 5,
-      "speed": "2000' flying",
-      "properties": [
-        "Faster than Light",
-        "Guided Weapons",
-        "Targeted Weapons",
-        "Multi-Pilot 2"
-      ],
-      "attributes": ["Energy 6"],
-      "feats": [
-        "Multi-Target Attack Specialist III (Area)"
-      ],
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 5,
+      "Speed": "2000' flying",
+      "Properties": "Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2",
+      "Attributes": "Energy 6",
+      "Feats": "Multi-Target Attack Specialist III (Area)",
       "HP": 36,
       "DT": 4,
-      "Defenses": {
-        "Guard": 22,
-        "Toughness": 15,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Fly"
-      ]
+      "Guard": 22,
+      "Toughness": 15,
+      "Resolve": "Immune",
+      "Tags": "Flying, Space"
     }
   },{
     "name": "Galleon",
-    "content": "<h2>Description</h2>Galleon",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "Galleon",
-      "wealthLevel": 6,
-      "speed": "70' swimming",
-      "properties": [
-        "Targeted Weapons",
-        "Multi-Pilot 10"
-      ],
-      "attributes": [
-        "Agility 6"
-      ],
-      "feats": [
-        "Multi-Target Attack Specialist III (Area)"
-      ],
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 6,
+      "Speed": "70' swimming",
+      "Properties": "Targeted Weapons, Multi-Pilot 10",
+      "Attributes": "Agility 6",
+      "Feats": "Multi-Target Attack Specialist III (Area)",
       "HP": 30,
       "DT": 5,
-      "Defenses": {
-        "Guard": 19,
-        "Toughness": 15,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Water"
-      ]
+      "Guard": 19,
+      "Toughness": 15,
+      "Resolve": "Immune",
+      "Tags": "Water, Swimming, Boat"
     }
   },{
     "name": "Giant Scorpion",
-    "content": "<h2>Description</h2>Giant Scorpion",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Giant Scorpion",
-      "wealthLevel": 5,
-      "speed": "35'",
-      "properties": ["Independent 1"],
-      "attributes": [
-        "Agility 5",
-        "Perception 5"
-      ],
-      "feats": ["Bane Focus I (Persistent Damage)"],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 5,
+      "Speed": "35'",
+      "Properties": "Independent 1",
+      "Attributes": "Agility 5, Perception 5",
+      "Feats": "Bane Focus I (Persistent Damage)",
       "HP": 20,
       "DT": 2,
-      "Defenses": {
-        "Guard": 15,
-        "Toughness": 15,
-        "Resolve": 18
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 15,
+      "Toughness": 15,
+      "Resolve": 18,
+      "Tags": "Land"
     }
   },{
     "name": "Griffin",
-    "content": "<h2>Description</h2>Griffin",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Griffin",
-      "wealthLevel": 4,
-      "speed": "50' flying",
-      "properties": [
-        "Independent 1"
-      ],
-      "attributes": ["Might 5"],
-      "feats": [
-        "Bane Focus (Immobile)"
-      ],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 4,
+      "Speed": "50' flying",
+      "Properties": "Independent 1",
+      "Attributes": "Might 5",
+      "Feats": "Bane Focus (Immobile)",
       "HP": 34,
       "DT": 1,
-      "Defenses": {
-        "Guard": 19,
-        "Toughness": 16,
-        "Resolve": 13
-      },
-      "tags": [
-        "Flying"
-      ]
+      "Guard": 19,
+      "Toughness": 16,
+      "Resolve": 13,
+      "Tags": "Flying"
     }
   },{
     "name": "Horse",
-    "content": "<h2>Description</h2>Horse",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Horse",
-      "wealthLevel": 3,
-      "speed": "40'",
-      "properties": null,
-      "attributes": ["Might 4"],
-      "feats": null,
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Speed": "40'",
+      "Attributes": "Might 4",
       "HP": 28,
       "DT": 1,
-      "Defenses": {
-        "Guard": 15,
-        "Toughness": 15,
-        "Resolve": 10
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 15,
+      "Toughness": 15,
+      "Resolve": 10,
+      "Tags": "Land"
     }
   },{
     "name": "Hydropod",
-    "content": "<h2>Description</h2>Hydropod",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "Hydropod",
-      "wealthLevel": 4,
-      "speed": "50' swimming",
-      "properties": [
-        "Guided Weapons",
-        "Targeted Weapons",
-        "Multi-Pilot 2"
-      ],
-      "attributes": [
-        "Agility 5",
-        "Energy 4"
-      ],
-      "feats": [
-        "Multi-Target Attack Specialist II (Area)"
-      ],
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 4,
+      "Speed": "50' swimming",
+      "Properties": "Guided Weapons, Targeted Weapons, Multi-Pilot 2",
+      "Attributes": "Agility 5, Energy 4",
+      "Feats": "Multi-Target Attack Specialist II (Area)",
       "HP": 20,
       "DT": 3,
-      "Defenses": {
-        "Guard": 20,
-        "Toughness": 17,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Water"
-      ]
+      "Guard": 20,
+      "Toughness": 17,
+      "Resolve": "Immune",
+      "Tags": "Water, Swimming"
     }
   },{
     "name": "Mech Unit",
-    "content": "<h2>Description</h2>Mech Unit",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Vehicle",
-      "description": "Mech Unit",
-      "wealthLevel": 4,
-      "speed": "40'",
-      "properties": [
-        "Guided Weapons",
-        "Targeted Weapons"
-      ],
-      "attributes": [
-        "Energy 5",
-        "Agility 6"
-      ],
-      "feats": [
-        "Multi-Target Attack Specialist II (Area)"
-      ],
+      "Type": "Vehicle",
+      "data-description": "",
+      "Wealth Level": 4,
+      "Speed": "40'",
+      "Properties": "Guided Weapons, Targeted Weapons",
+      "Attributes": "Energy 5, Agility 6",
+      "Feats": "Multi-Target Attack Specialist II (Area)",
       "HP": 22,
       "DT": 3,
-      "Defenses": {
-        "Guard": 22,
-        "Toughness": 20,
-        "Resolve": "Immune"
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 22,
+      "Toughness": 20,
+      "Resolve": "Immune",
+      "Tags": "Land"
     }
   },{
     "name": "Pegasus",
-    "content": "<h2>Description</h2>Pegasus",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Pegasus",
-      "wealthLevel": 4,
-      "speed": "50' flying",
-      "properties": null,
-      "attributes": [
-        "Might 4",
-        "Creation 4"
-      ],
-      "feats": [
-        "Boon Focus I (Heal)"
-      ],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 4,
+      "Speed": "50' flying",
+      "Attributes": "Might 4, Creation 4",
+      "Feats": "Boon Focus I (Heal)",
       "HP": 28,
       "DT": 1,
-      "Defenses": {
-        "Guard": 18,
-        "Toughness": 17,
-        "Resolve": 17
-      },
-      "tags": [
-        "Fly"
-      ]
+      "Guard": 18,
+      "Toughness": 17,
+      "Resolve": 17,
+      "Tags": "Flying"
     }
   },{
     "name": "Phoenix",
-    "content": "<h2>Description</h2>Phoenix",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Phoenix",
-      "wealthLevel": 5,
-      "speed": "50' flying",
-      "properties": [
-        "Independent 1"
-      ],
-      "attributes": ["Energy 7"],
-      "feats": [
-        "Attack Specialization II (Fire)"
-      ],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 5,
+      "Speed": "50' flying",
+      "Properties": "Independent 1",
+      "Attributes": "Energy 7",
+      "Feats": "Attack Specialization II (Fire)",
       "HP": 32,
       "DT": 1,
-      "Defenses": {
-        "Guard": 20,
-        "Toughness": 16,
-        "Resolve": 19
-      },
-      "tags": [
-        "Fly"
-      ]
+      "Guard": 20,
+      "Toughness": 16,
+      "Resolve": 19,
+      "Tags": "Flying"
     }
   },{
     "name": "T-Rex",
-    "content": "<h2>Description</h2>T-Rex",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "T-Rex",
-      "wealthLevel": 5,
-      "speed": "50'",
-      "properties": ["Independent 1"],
-      "attributes": [
-        "Might 6"
-      ],
-      "feats": ["Attack Specialization II (Bite)"],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 5,
+      "Speed": "50'",
+      "Properties": "Independent 1",
+      "Attributes": "Might 6",
+      "Feats": "Attack Specialization II (Bite)",
       "HP": 38,
       "DT": 1,
-      "Defenses": {
-        "Guard": 20,
-        "Toughness": 15,
-        "Resolve": 15
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 20,
+      "Toughness": 15,
+      "Resolve": 15,
+      "Tags": "Land"
     }
   },{
     "name": "Velociraptor",
-    "content": "<h2>Description</h2>Velociraptor",
+    "content": "",
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Mounts & Vehicles",
-      "type": "Mounts",
-      "description": "Velociraptor",
-      "wealthLevel": 3,
-      "speed": "40'",
-      "properties": null,
-      "attributes": [
-        "Agility 5",
-        "Perception 5"
-      ],
-      "feats": ["Bane Focus I (Knockdown)"],
+      "Type": "Mount",
+      "data-description": "",
+      "Wealth Level": 3,
+      "Speed": "40'",
+      "Attributes": "Agility 5, Perception 5",
+      "Feats": "Bane Focus I (Knockdown)",
       "HP": 24,
       "DT": 1,
-      "Defenses": {
-        "Guard": 17,
-        "Toughness": 14,
-        "Resolve": 15
-      },
-      "tags": [
-        "Land"
-      ]
+      "Guard": 17,
+      "Toughness": 14,
+      "Resolve": 15,
+      "Tags": "Land"
     }
   }
 ]
