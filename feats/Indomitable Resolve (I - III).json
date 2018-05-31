@@ -4,57 +4,14 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Your resolve is exceptional, making your more resilient to mental effects that would overwhelm those of lesser mettle. A keen-minded space captain and a wizened mage are both exemplars of this feat in action.",
-    "effect": "For each tier you possess in this feat, your Resolve defense is increased by 1.",
-    "tiers": {
-      "1": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Presence": 3
-              },
-              {
-                "Will": 3
-              }
-            ]
-          }
-        }
-      },
-      "2": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Presence": 4
-              },
-              {
-                "Will": 4
-              }
-            ]
-          }
-        }
-      },
-      "3": {
-        "prerequisites": {
-          "any": {
-            "Attribute": [
-              {
-                "Presence": 5
-              },
-              {
-                "Will": 5
-              }
-            ]
-          }
-        }
-      }
-    },
-    "tags": [
-      "Combat",
-      "Presence",
-      "Will"
-    ],
-    "cost": 1
+    "data-description": "Your resolve is exceptional, making your more resilient to mental effects that would overwhelm those of lesser mettle. A keen-minded space captain and a wizened mage are both exemplars of this feat in action.",
+    "data-effect": "For each tier you possess in this feat, your Resolve defense is increased by 1.",
+    "Tier Prerequisites (1)": "Presence 3 or Will 3",
+    "Tier Prerequisites (2)": "Presence 4 or Will 4",
+    "Tier Prerequisites (3)": "Presence 5 or Will 5",
+    "data-tierPrereq": "[{\"Tier 1\":\"Presence 3 or Will 3\",\"Tier 2\":\"Presence 4 or Will 4\",\"Tier 3\":\"Presence 5 or Will 5\"}]",
+    "Tags": "Combat, Presence, Will",
+    "Cost": "1 points",
+		"data-cost": 1
   }
 }

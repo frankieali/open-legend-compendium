@@ -4,40 +4,18 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.",
-    "effect": "When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat.",
-    "tiers": {
-      "1": {
-        "effect": "+1 bonus to Guard and Toughness.",
-        "prerequisites": null
-      },
-      "2": {
-        "effect": "+2 bonus to Guard and Toughness.",
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Fortitude": 1
-            }
-          ]
-        }
-      },
-      "3": {
-        "effect": "+3 bonus to Guard and Toughness.",
-        "prerequisites": {
-          "Attribute": [
-            {
-              "Fortitude": 2
-            }
-          ]
-        }
-      }
-    },
-    "tags": [
-      "Combat",
-      "Physical",
-      "Defense",
-      "Fortitude"
-    ],
-    "cost": 2
+    "data-description": "Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.",
+    "data-effect": "When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat.",
+    "Tier Effect (1)": "+1 bonus to Guard and Toughness.",
+    "Tier Effect (2)": "+2 bonus to Guard and Toughness.",
+    "Tier Effect (3)": "+3 bonus to Guard and Toughness.",
+    "data-tierEffect": "[{\"Tier 1\":\"+1 bonus to Guard and Toughness.\",\"Tier 2\":\"+2 bonus to Guard and Toughness.\",\"Tier 3\":\"+3 bonus to Guard and Toughness.\"}]",
+    "Tier Prerequisites (1)": "None",
+    "Tier Prerequisites (2)": "Fortitude 1",
+    "Tier Prerequisites (3)": "Fortitude 2",
+    "data-tierPrereq": "[{\"Tier 1\":\"None\",\"Tier 2\":\"Fortitude 1\",\"Tier 3\":\"Fortitude 2\"}]",
+    "Tags": "Combat, Physical, Defense, Fortitude",
+    "Cost": "2 points",
+		"data-cost": 2
   }
 }

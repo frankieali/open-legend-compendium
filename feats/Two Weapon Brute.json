@@ -4,29 +4,12 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "description": "Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others. Good examples of this feat in action include an orcish barbarian wielding a great axe and shield and a survivor in the zombie apocalypse wielding two chainsaws.",
-    "effect": "You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of advantage 2 when wielding a two-handed weapon in each hand, advantage 1 from the power of a two-handed weapon plus advantage 1 from having one weapon in each hand.",
-    "tiers": {
-      "tier1": {
-        "Attribute": [
-          {
-            "Agility": 4
-          },
-          {
-            "Might": 5
-          }
-        ],
-        "Feat": [
-          "Multi-Attack Specialist"
-        ]
-      }
-    },
-    "tags": [
-      "Combat",
-      "Physical",
-      "Agility",
-      "Might"
-    ],
-    "cost": 3
+    "data-description": "Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others. Good examples of this feat in action include an orcish barbarian wielding a great axe and shield and a survivor in the zombie apocalypse wielding two chainsaws.",
+    "data-effect": "You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of advantage 2 when wielding a two-handed weapon in each hand, advantage 1 from the power of a two-handed weapon plus advantage 1 from having one weapon in each hand.",
+    "Tier Prerequisites (1)": "Agility 4, Might 4, and Multi-Attack Specialist",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 4, Might 4, and Multi-Attack Specialist\"}]",
+    "Tags": "Combat, Physical, Agility, Might",
+    "Cost": "3 points",
+		"data-cost": 3
   }
 }
