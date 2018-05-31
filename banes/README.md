@@ -13,7 +13,7 @@ Banes are described as follows:
     "data-special": {string} - A unique property or mechanic explained in detail
     "Tags": {string} - Words or phrases that describe this entry. Additional metadata
     "Power Level": {string} - The attribute score required to access the next tier of power.
-    "Power Level Effect (#)": {string} - The effect this bane has at specific tiers of power.
+    "Power Level Effect (#)": {string} - The effect this bane has at this specific tiers of power.
     "Compounding Effect (#)": {string} - The additional (compounding) effect of this bane each time it is applied.
     "Attribute": {string} - A list of attributes that can be used to invoke this bane
     "data-attack": {Array.<Object> as string) - All the types of attack rolls available for inflicting the bane,

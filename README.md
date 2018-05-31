@@ -5,6 +5,14 @@ This project is focused on bringing the core rules of Open Lengend to [Roll20.ne
 
 ## Changelog
 
+#### May 30th 2018
+- Big refactor of data to better align with Roll20 examples
+- Renamed many keys after discovering that keys withing the `data` object are used as labels in the Attribute block
+- Prefixed other keys that should remain hidden from the Attribute block with `data-*`
+- Formatted data within `data-*` values so they will be parsed properly by Roll20's `compendium.js` script
+- Converted a lot of arrays to comma seperated values in order to flatten out data
+- Converted a lot of objects to unique key entries in order to flatten out data
+
 #### May 26th 2018
 -  Initial alpha release of core rules
 -  Sections included
