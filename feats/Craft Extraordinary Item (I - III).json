@@ -10,8 +10,8 @@
     "Tier Effect (2)": "Maximum wealth level equals attribute minus 1.",
     "Tier Effect (3)": "Maximum wealth level equals attribute.",
     "data-tierEffect": "[{\"Tier 1\":\"Maximum wealth level equals attribute minus 2.\",\"Tier 2\":\"Maximum wealth level equals attribute minus 1.\",\"Tier 3\":\"Maximum wealth level equals attribute.\"}]",
-    "Tier Prerequisites (1-3)": "Learning 5, Logic 5, or Any Extraordinary 5",
-    "data-tierPrereq": "[{\"Tier 1-3\":\"Learning 5, Logic 5, or Any Extraordinary 5\"}]",
+    "Tier Prerequisites (1-3)": "Learning 5, Logic 5, or any Extraordinary 5",
+    "data-tierPrereq": "[{\"Tier 1-3\":\"Learning 5, Logic 5, or any Extraordinary 5\"}]",
     "Tags": "Extraordinary, Non-Combat",
     "Cost": "3 points",
     "data-cost": 3
