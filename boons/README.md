@@ -13,7 +13,7 @@ Boons are described as follows:
     "data-special": {string} - A unique property or mechanic explained in detail
     "Tags": {string} - Words or phrases that describe this entry. Additional metadata
     "Power Level": {string} - The attribute score required to access the next tier of power.
-    "Power Level Effect (#)": {string} - The effect this boon has at various tiers of power.
+    "Power Level Effect (#)": {string} - The effect this boon has at this specific tiers of power.
     "Compounding Effect (#)": {string} - The additional (compounding) effect of this boon each time it is applied.
     "Attribute": {string} - A list of attributes that can be used to invoke this boon
     "Invocation Time": {string} - The time requires to activate the boon
