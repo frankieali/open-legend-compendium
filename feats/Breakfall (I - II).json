@@ -8,7 +8,7 @@
     "data-effect": "You gain benefits according to your tier in this feat.",
     "data-effect-1": "As long as you are conscious and able to act, reduce all falling damage by half.",
     "data-effect-2": "As long as you are conscious and able to act, you do not suffer falling damage.",
-    "data-tierEffect": "[{\"Tier 1\":\"As long as you are conscious and able to act, reduce all falling damage by half.\",\"Tier 2\":\"As long as you are conscious and able to act, you do not suffer falling damage.\",}]",
+    "data-tierEffect": "[{\"Tier 1\":\"As long as you are conscious and able to act, reduce all falling damage by half.\"},{\"Tier 2\":\"As long as you are conscious and able to act, you do not suffer falling damage.\",}]",
     "Tier Prerequisites (1-2)": "Agility 4",
     "data-tierPrereq": "[{\"Tier 1-2\":\"Agility 4\"}]",
     "Cost": "2 points",

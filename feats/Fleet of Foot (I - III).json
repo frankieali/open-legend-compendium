@@ -9,7 +9,7 @@
     "Tier Prerequisites (1)": "Agility 4, Fortitude 4, or Movement 2",
     "Tier Prerequisites (2)": "Agility 5, Fortitude 5, or Movement 4",
     "Tier Prerequisites (3)": "Agility 7, Fortitude 7, or Movement 6",
-    "data-tierPrereq": "[{\"Tier 1\":\"Agility 4, Fortitude 4, or Movement 2\",\"Tier 2\":\"Agility 5, Fortitude 5, or Movement 4\",\"Tier 3\":\"Agility 7, Fortitude 7, or Movement 6\"}]",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 4, Fortitude 4, or Movement 2\"},{\"Tier 2\":\"Agility 5, Fortitude 5, or Movement 4\"},{\"Tier 3\":\"Agility 7, Fortitude 7, or Movement 6\"}]",
     "Tags": "Extraordinary, Agility, Movement, Fortitude",
     "Cost": "2 points",
     "data-cost": 2

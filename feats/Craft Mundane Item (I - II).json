@@ -9,7 +9,7 @@
     "data-special": "In addition to taking multiple tiers of this feat, you may take this feat multiple times and select a new craft or profession each time.",
     "data-effect-1": "You can craft items equal to your wealth level.",
     "data-effect-2": "You can craft items equal to your wealth level + 1.",
-    "data-tierEffect": "[{\"Tier 1\":\"You can craft items equal to your wealth level.\",\"Tier 2\":\"You can craft items equal to your wealth level + 1.\"}]",
+    "data-tierEffect": "[{\"Tier 1\":\"You can craft items equal to your wealth level.\"},{\"Tier 2\":\"You can craft items equal to your wealth level + 1.\"}]",
     "Tier Prerequisites (1-2)": "Learning 3, Logic 3, or Knowledge I",
     "data-tierPrereq": "[{\"Tier 1-2\":\"Learning 3, Logic 3, or Knowledge I\"}]",
     "Tags": "Non-Combat",

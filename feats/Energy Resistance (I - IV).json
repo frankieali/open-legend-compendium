@@ -11,7 +11,7 @@
     "data-effect-2": "Your defense scores are increased by 6 against the chosen energy type.",
     "data-effect-3": "Your defense scores are increased by 9 against the chosen energy type.",
     "data-effect-4": "You are immune to damage and harmful effects from the chosen energy type.",
-    "data-tierEffect": "[{\"Tier 1\":\"Your defense scores are increased by 3 against the chosen energy type.\",\"Tier 2\":\"Your defense scores are increased by 6 against the chosen energy type.\",\"Tier 3\":\"Your defense scores are increased by 9 against the chosen energy type.\",\"Tier 4\":\"You are immune to damage and harmful effects from the chosen energy type.\"}]",
+    "data-tierEffect": "[{\"Tier 1\":\"Your defense scores are increased by 3 against the chosen energy type.\"},{\"Tier 2\":\"Your defense scores are increased by 6 against the chosen energy type.\"},{\"Tier 3\":\"Your defense scores are increased by 9 against the chosen energy type.\"},{\"Tier 4\":\"You are immune to damage and harmful effects from the chosen energy type.\"}]",
     "Tier Prerequisites (1-4)": "None",
     "data-tierPrereq": "[{\"Tier 1-4\":\"None\"}]",
     "Tags": "Extraordinary, No Prerequisite",

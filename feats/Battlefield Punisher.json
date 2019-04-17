@@ -6,8 +6,8 @@
     "Category": "Feats",
     "data-description": "Not only can you deal out retributive damage, you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.",
     "data-effect": "Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Retribution feat, you may choose to automatically afflict the attacker with the chosen bane.",
-    "Tier Prerequisites (1)": "{Agility 5, Might 5, or any Extraordinary 5} and Battlefield Retribution",
-    "data-tierPrereq": "[{\"Tier 1\":\"{Agility 5, Might 5, or any Extraordinary 5} and Battlefield Retribution\"}]",
+    "Tier Prerequisites (1)": "Agility 5, Might 5, or any Extraordinary 5 and Battlefield Retribution",
+    "data-tierPrereq": "[{\"Tier 1\":\"Agility 5, Might 5, or any Extraordinary 5 and Battlefield Retribution\"}]",
     "Tags": "Might, Passive, Combat, Feat Chain",
     "Cost": "3 points",
     "data-cost": 3

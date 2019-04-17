@@ -9,11 +9,11 @@
     "data-effect-1": "+1 bonus to Guard and Toughness.",
     "data-effect-2": "+2 bonus to Guard and Toughness.",
     "data-effect-3": "+3 bonus to Guard and Toughness.",
-    "data-tierEffect": "[{\"Tier 1\":\"+1 bonus to Guard and Toughness.\",\"Tier 2\":\"+2 bonus to Guard and Toughness.\",\"Tier 3\":\"+3 bonus to Guard and Toughness.\"}]",
+    "data-tierEffect": "[{\"Tier 1\":\"+1 bonus to Guard and Toughness.\"},{\"Tier 2\":\"+2 bonus to Guard and Toughness.\"},{\"Tier 3\":\"+3 bonus to Guard and Toughness.\"}]",
     "Tier Prerequisites (1)": "None",
     "Tier Prerequisites (2)": "Fortitude 1",
     "Tier Prerequisites (3)": "Fortitude 2",
-    "data-tierPrereq": "[{\"Tier 1\":\"None\",\"Tier 2\":\"Fortitude 1\",\"Tier 3\":\"Fortitude 2\"}]",
+    "data-tierPrereq": "[{\"Tier 1\":\"None\"},{\"Tier 2\":\"Fortitude 1\"},{\"Tier 3\":\"Fortitude 2\"}]",
     "Tags": "Combat, Physical, Defense, Fortitude",
     "Cost": "2 points",
     "data-cost": 2

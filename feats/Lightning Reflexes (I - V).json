@@ -8,7 +8,7 @@
     "data-effect": "For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
     "Tier Prerequisites (1-2)": "Agility 2 or Prescience 2",
     "Tier Prerequisites (3-5)": "Agility 4 or Prescience 4",
-    "data-tierPrereq": "[{\"Tier 1-2\": \"Agility 2 or Prescience 2\",\"Tier 3-5\": \"Agility 4 or Prescience 4\"}]",
+    "data-tierPrereq": "[{\"Tier 1-2\": \"Agility 2 or Prescience 2\"},{\"Tier 3-5\": \"Agility 4 or Prescience 4\"}]",
     "Tags": "Physical, Extraordinary, Agility, Prescience",
     "Cost": "1 points",
     "data-cost": 1

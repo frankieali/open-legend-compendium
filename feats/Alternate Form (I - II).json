@@ -9,7 +9,7 @@
     "data-special": "When selecting feats for your alternate form, you may not select the _Alternate Form_ feat.\nWith GM approval, you may take this feat multiple times. If you do, you get access to an additional form. Multiple Alternate Forms can be a powerful way of accumulating new feat points and attributes. The GM should prevent players from exploiting the feat to create an overly powerful character.",
     "data-effect-1": "Half of your primary form's attribute points (rounded up), and 3 feat points.",
     "data-effect-2": "Same attribute points as your primary form, and 3 feat points less than your primary form.",
-    "data-tierEffect": "[{\"Tier 1\":\"Half of your primary form's attribute points (rounded up), and 3 feat points.\",\"Tier 2\":\"Same attribute points as your primary form, and 3 feat points less than your primary form.\"}]",
+    "data-tierEffect": "[{\"Tier 1\":\"Half of your primary form's attribute points (rounded up), and 3 feat points.\"},{\"Tier 2\":\"Same attribute points as your primary form, and 3 feat points less than your primary form.\"}]",
     "Tier Prerequisites (1-2)": "None",
     "data-tierPrereq": "[{\"Tier 1-2\":\"None\"}]",
     "Tags": "No Prerequisite",
