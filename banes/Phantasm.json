@@ -20,7 +20,7 @@
     "Power Level Effect (9)": "Manifest a 50' x 50' x 50' area phantasm.",
     "Attribute": "Influence",
     "data-attack": "Influence vs. Resolve",
-    "Attack 0": "Influence vs. Resolve",
+    "data-attack-0": "Influence vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Special"
   }

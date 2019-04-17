@@ -9,9 +9,9 @@
     "data-special": "This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.",
     "Tags": "Extraordinary",
     "Power Level": "4, 6, 8",
-    "Power Level Effect (4)": "5' radius",
-    "Power Level Effect (6)": "10' radius",
-    "Power Level Effect (8)": "15' radius",
+    "data-effect-4": "5' radius",
+    "data-effect-6": "10' radius",
+    "data-effect-8": "15' radius",
     "Attribute": "Alteration, Creation, Energy, Entropy, Influence, Movement, Presence, Prescience, Protection",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

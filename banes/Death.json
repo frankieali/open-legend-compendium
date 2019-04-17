@@ -11,8 +11,8 @@
     "Power Level": "9",
     "Attribute": "Agility, Entropy",
     "data-attack": "Agility vs. Toughness, Entropy vs. Toughness",
-    "Attack 0": "Agility vs. Toughness",
-    "Attack 1": "Entropy vs. Toughness",
+    "data-attack-0": "Agility vs. Toughness",
+    "data-attack-1": "Entropy vs. Toughness",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (special) (Fail x 3 = Permanent)"
   }

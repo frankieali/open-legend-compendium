@@ -14,7 +14,7 @@
     "Power Level Effect (9)": "Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 7.",
     "Attribute": "Alteration",
     "data-attack": "Alteration vs. Toughness",
-    "Attack 0": "Alteration vs. Toughness",
+    "data-attack-0": "Alteration vs. Toughness",
     "Invocation Time": "1 Minute",
     "Duration": "Resist ends (Fail x 3 = 1 hour)"
   }

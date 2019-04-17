@@ -14,7 +14,7 @@
     "Power Level Effect (6)": "You can Major Charm creatures of humanoid intelligence.",
     "Attribute": "Influence",
     "data-attack": "Influence vs. Resolve",
-    "Attack 0": "Influence vs. Resolve",
+    "data-attack-0": "Influence vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (special) (Fail x 3 = 24 hours)"
   }

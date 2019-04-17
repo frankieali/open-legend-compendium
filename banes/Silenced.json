@@ -10,10 +10,10 @@
     "Power Level": "2",
     "Attribute": "Agility, Alteration, Entropy, Might",
     "data-attack": "Agility vs. Toughness, Alteration vs. Toughness, Entropy vs. Toughness, Might vs. Toughness",
-    "Attack 0": "Agility vs. Toughness",
-    "Attack 1": "Alteration vs. Toughness",
-    "Attack 2": "Entropy vs. Toughness",
-    "Attack 3": "Might vs. Toughness",
+    "data-attack-0": "Agility vs. Toughness",
+    "data-attack-1": "Alteration vs. Toughness",
+    "data-attack-2": "Entropy vs. Toughness",
+    "data-attack-3": "Might vs. Toughness",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

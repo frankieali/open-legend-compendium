@@ -10,11 +10,11 @@
     "Power Level": "1",
     "Attribute": "Agility, Energy, Entropy, Might, Movement",
     "data-attack": "Agility vs. Guard, Energy vs. Guard, Entropy vs. Toughness, Might vs. Guard, Movement vs. Guard",
-    "Attack 0": "Agility vs. Guard",
-    "Attack 1": "Energy vs. Guard",
-    "Attack 2": "Entropy vs. Toughness",
-    "Attack 3": "Might vs. Guard",
-    "Attack 4": "Movement vs. Guard",
+    "data-attack-0": "Agility vs. Guard",
+    "data-attack-1": "Energy vs. Guard",
+    "data-attack-2": "Entropy vs. Toughness",
+    "data-attack-3": "Might vs. Guard",
+    "data-attack-4": "Movement vs. Guard",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

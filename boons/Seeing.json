@@ -9,9 +9,9 @@
     "data-special": "If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
     "Tags": "Extraordinary",
     "Power Level": "4, 5, 6",
-    "Power Level Effect (4)": "The ally must be within 100'.",
-    "Power Level Effect (5)": "The ally must be within 1 mile.",
-    "Power Level Effect (6)": "The ally must be anywhere on the same plane of existence.",
+    "data-effect-4": "The ally must be within 100'.",
+    "data-effect-5": "The ally must be within 1 mile.",
+    "data-effect-6": "The ally must be anywhere on the same plane of existence.",
     "Attribute": "Prescience",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

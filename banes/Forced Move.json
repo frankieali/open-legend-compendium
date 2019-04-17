@@ -15,10 +15,10 @@
     "Power Level Effect (8)": "The target is moved 20'.",
     "Attribute": "Agility, Energy, Might, Movement",
     "data-attack": "Agility vs. Guard, Energy vs. Guard, Might vs. Guard, Movement vs. Guard",
-    "Attack 0": "Agility vs. Guard",
-    "Attack 1": "Energy vs. Guard",
-    "Attack 2": "Might vs. Guard",
-    "Attack 3": "Movement vs. Guard",
+    "data-attack-0": "Agility vs. Guard",
+    "data-attack-1": "Energy vs. Guard",
+    "data-attack-2": "Might vs. Guard",
+    "data-attack-3": "Movement vs. Guard",
     "Invocation Time": "1 Major Action"
   }
 }

@@ -14,9 +14,9 @@
     "Power Level Effect (9)": "The effect cannot be disrupted by external forces. Only the afflicted character's successful resist roll can end the effect.",
     "Attribute": "Agility, Entropy, Influence",
     "data-attack": "Agility vs. Toughness, Entropy vs. Toughness, Influence vs. Resolve",
-    "Attack 0": "Agility vs. Toughness",
-    "Attack 1": "Entropy vs. Toughness",
-    "Attack 2": "Influence vs. Resolve",
+    "data-attack-0": "Agility vs. Toughness",
+    "data-attack-1": "Entropy vs. Toughness",
+    "data-attack-2": "Influence vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

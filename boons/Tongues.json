@@ -8,8 +8,8 @@
     "data-effect": "Your target gains benefits according to your power level",
     "Tags": "Extraordinary",
     "Power Level": "5, 6",
-    "Power Level Effect (5)": "Your target can understand and speak a language of your choice.",
-    "Power Level Effect (6)": "Your target can read a language of your choice.",
+    "data-effect-5": "Your target can understand and speak a language of your choice.",
+    "data-effect-6": "Your target can read a language of your choice.",
     "Attribute": "Prescience",
     "Invocation Time": "10 Minutes",
     "Duration": "Sustain Persists"

@@ -14,7 +14,7 @@
     "Power Level Effect (9)": "You can target creatures of human intelligence or greater with Greater Domination.",
     "Attribute": "Influence",
     "data-attack": "Influence vs. Resolve",
-    "Attack 0": "Influence vs. Resolve",
+    "data-attack-0": "Influence vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Special"
   }

@@ -20,7 +20,7 @@
     "Power Level Effect (9)": "Cancel a boon of Power Level 9",
     "Attribute": "Protection",
     "data-attack": "Protection vs. Resolve",
-    "Attack 0": "Protection vs. Resolve",
+    "data-attack-0": "Protection vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Instantaneous"
   }

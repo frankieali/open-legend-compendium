@@ -16,7 +16,7 @@
     "Power Level Effect (9)": "This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event.",
     "Attribute": "Prescience",
     "data-attack": "Prescience vs. Resolve",
-    "Attack 0": "Prescience vs. Resolve",
+    "data-attack-0": "Prescience vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

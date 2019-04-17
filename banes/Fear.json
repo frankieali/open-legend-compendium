@@ -11,10 +11,10 @@
     "Power Level": "5",
     "Attribute": "Creation, Entropy, Influence, Might",
     "data-attack": "Creation vs. Resolve, Entropy vs. Resolve, Influence vs. Resolve, Might vs. Resolve",
-    "Attack 0": "Creation vs. Resolve",
-    "Attack 1": "Entropy vs. Resolve",
-    "Attack 2": "Influence vs. Resolve",
-    "Attack 3": "Might vs. Resolve",
+    "data-attack-0": "Creation vs. Resolve",
+    "data-attack-1": "Entropy vs. Resolve",
+    "data-attack-2": "Influence vs. Resolve",
+    "data-attack-3": "Might vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Special"
   }

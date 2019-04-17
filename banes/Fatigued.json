@@ -17,7 +17,7 @@
     "Compounding Effect (6)": "The target dies.",
     "Attribute": "Entropy",
     "data-attack": "Entropy vs. Toughness",
-    "Attack 0": "Entropy vs. Toughness",
+    "data-attack-0": "Entropy vs. Toughness",
     "Invocation Time": "1 Major Action",
     "Duration": "Special"
   }

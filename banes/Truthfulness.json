@@ -11,7 +11,7 @@
     "Power Level": "5",
     "Attribute": "Influence",
     "data-attack": "Influence vs. Resolve",
-    "Attack 0": "Influence vs. Resolve",
+    "data-attack-0": "Influence vs. Resolve",
     "Invocation Time": "10 Minutes",
     "Duration": "10 minutes (special)"
   }
