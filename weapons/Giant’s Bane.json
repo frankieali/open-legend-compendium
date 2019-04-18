@@ -7,7 +7,7 @@
     "Type": "Long Ranged, Legendary",
     "data-description": "This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.",
     "Wealth Level": "n/a",
-    "attributes": "Agility +1, Perception +2",
+    "Attributes": "Agility +1, Perception +2",
     "Banes": "Persistent Damage",
     "Properties": "Weapon (Longbow), Deadly 2, Slaying (giants), Intelligent",
     "Special": "Intelligent",
