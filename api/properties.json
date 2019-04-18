@@ -170,7 +170,7 @@
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Properties",
-      "Type": "Mounts & Vehicles",
+      "Type": "Transportation",
       "data-description": "The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.",
       "Wealth Modifier": "n/a",
       "Tags": "Item, Mounts and Vehicles"
@@ -192,7 +192,7 @@
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Properties",
-      "Type": "Mounts & Vehicles",
+      "Type": "Transportation",
       "data-description": "Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target the Guard defense.",
       "Wealth Modifier": "n/a",
       "Tags": "Item, Mounts and Vehicles"
@@ -214,7 +214,7 @@
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Properties",
-      "Type": "Mounts & Vehicles",
+      "Type": "Transportation",
       "data-description": "A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.",
       "Wealth Modifier": "n/a",
       "Tags": "Item, Mounts and Vehicles"
@@ -236,7 +236,7 @@
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Properties",
-      "Type": "Mounts & Vehicles",
+      "Type": "Transportation",
       "data-description": "The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.",
       "Wealth Modifier": "n/a",
       "Tags": "Item, Mounts and Vehicles"
@@ -379,7 +379,7 @@
     "data": {
       "Source": "Open Legend: Core Rules",
       "Category": "Properties",
-      "Type": "Mounts & Vehicles",
+      "Type": "Transportation",
       "data-description": "A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.",
       "Wealth Modifier": "n/a",
       "Tags": "Item, Mounts and Vehicles"
