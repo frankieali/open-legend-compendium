@@ -516,7 +516,7 @@
       "Banes": "Fear 8",
       "Properties": "Weapon (Great Axe), Unfailing",
       "Special": "Warble",
-      "special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
+      "data-special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
     }
   },{
     "name": "Revolver",
@@ -746,7 +746,7 @@
       "Wealth Level": "n/a",
       "Banes": "Persistent Damage",
       "Properties": "Deadly 3, Precise, Delayed Ready, Area (10’ cube)",
-      "special": "[{\"Void\": \"The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.\"}]"
+      "data-special": "[{\"Void\": \"The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.\"}]"
     }
   },{
     "name": "Warhammer",

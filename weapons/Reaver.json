@@ -11,6 +11,6 @@
     "Banes": "Fear 8",
     "Properties": "Weapon (Great Axe), Unfailing",
     "Special": "Warble",
-    "special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
+    "data-special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
   }
 }
