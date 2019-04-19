@@ -1,4 +1,4 @@
-![Open Legend RPG Logo](http://www.openlegendrpg.com/assets/img/open_legend_lg_logo.png)
+![Open Legend RPG Logo](https://openlegendrpg.com/assets/img/open_legend_lg_logo.png)
 
 # Open Legend Core Rules Compendium
 This project is focused on bringing the core rules of Open Lengend to [Roll20.net](https://www.roll20.net). A [compendium](https://wiki.roll20.net/Compendium) in Roll20 is a series of indexed and categorized webpages that can be browsed outside the VTT (Virtual Table Top), but can also be used within your games for quick rule searches and populating fields on your character sheets like equipment and feats via drag and drop capability. This project is following the [compendium guidelines](https://wiki.roll20.net/Building_Compendiums) posted by Roll20.
