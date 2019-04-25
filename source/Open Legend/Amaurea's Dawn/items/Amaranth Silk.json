@@ -1,0 +1,11 @@
+{
+  "name": "Amaranth Silk",
+  "content": "The silks harvested and woven between the pulp walls of the Allsphere in Amaranth are sought across Amaurea. The sheer scarves, shawls, wraps, and dresses leave little to the imagination, but repel bladed weapons. These silks come in every manner of color and are often worn over other garments, both as fashion and for added protection. Though each individual strand of silk is durable, it’s only through the process of refinement and careful weaving that the criss- crossing strands grow nearly impenetrable.",
+  "data": {
+    "Source": "Open Legend: Amaurea's Dawn",
+    "Category": "Items",
+    "data-description": "The silks harvested and woven between the pulp walls of the Allsphere in Amaranth are sought across Amaurea. The sheer scarves, shawls, wraps, and dresses leave little to the imagination, but repel bladed weapons. These silks come in every manner of color and are often worn over other garments, both as fashion and for added protection. Though each individual strand of silk is durable, it’s only through the process of refinement and careful weaving that the criss- crossing strands grow nearly impenetrable.",
+    "Wealth Level": 5,
+    "Properties": "Persistent, Resistance 5 (Precise)"
+  }
+}
