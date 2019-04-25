@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/frankieali/open-legend-compendium#readme",
   "bin": {
-    "coffee-shop": "./bin/coffee.js",
     "OLC": "./bin/index.js"
   },
   "dependencies": {
