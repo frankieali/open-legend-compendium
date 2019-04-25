@@ -1,8 +1,8 @@
 #! /usr/bin/env node
 
 const program = require('commander');
-const questions = require('../cmds/build-inquirer');
-const build = require('../cmds/build');
+const questions = require('../lib/build-inquirer');
+const build = require('../lib/build');
 
 program
   .version('0.1.0')
