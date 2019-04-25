@@ -3,7 +3,26 @@
 # Open Legend Core Rules Compendium
 This project is focused on bringing the core rules of Open Lengend to [Roll20.net](https://www.roll20.net). A [compendium](https://wiki.roll20.net/Compendium) in Roll20 is a series of indexed and categorized webpages that can be browsed outside the VTT (Virtual Table Top), but can also be used within your games for quick rule searches and populating fields on your character sheets like equipment and feats via drag and drop capability. This project is following the [compendium guidelines](https://wiki.roll20.net/Building_Compendiums) posted by Roll20.
 
+## How to use
+
+
+1. Clone this repository
+2. Path into your repo directory from terminal/command prompt
+3. `npm install` to set up modules
+4. `npm install -g ./` to install the app from local source code
+5. Use `OLC b` (OLC = Open Legend Compendium) (b = build) to kick off the build prompts
+    1. Select your category to build
+    2. Select your source material to include
+    3. Files will be saved to `./dist/` directory
+ 
 ## Changelog
+
+#### April 25th 2019
+- Implemented CLI build system using Node and [Commander](https://github.com/tj/commander.js)
+- can build one category or the entire compendium 
+- added ability to support multiple source books/folders (Testing with one Amaurea's Dawn item)
+- api folder removed now that files can be built
+
 
 #### April 19th 2019
 - Updating some of the object key names for consistency
