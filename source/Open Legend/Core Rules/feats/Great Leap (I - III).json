@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Through extraordinary power or exceptional agility, you can jump much farther than the average creature. A telekinetic superhero and an insectoid race of bipedal cricket-like beings are both examples of this feat in play.",
-    "data-effect": "You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.",
+    "Description": "Through extraordinary power or exceptional agility, you can jump much farther than the average creature. A telekinetic superhero and an insectoid race of bipedal cricket-like beings are both examples of this feat in play.",
+    "Effect": "You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.",
     "Tier Prerequisites (1)": "Agility 2 or Movement 2",
     "Tier Prerequisites (2)": "Agility 4 or Movement 4",
     "Tier Prerequisites (3)": "Agility 6 or Movement 6",

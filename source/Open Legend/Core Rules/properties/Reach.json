@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "This weapon extends the natural melee range of the creature by 5'.",
+		"Description": "This weapon extends the natural melee range of the creature by 5'.",
     "Wealth Modifier": "+1",
     "Tags": "Weapon"
   }

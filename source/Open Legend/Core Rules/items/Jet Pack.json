@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.",
+    "Description": "A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.",
     "Type": "Extraordinary",
     "Wealth Level": 3,
     "Boons": "Flight 6"

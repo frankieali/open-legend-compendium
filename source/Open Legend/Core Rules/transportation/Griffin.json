@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 4,
     "Speed": "50' flying",
     "Properties": "Independent 1",
@@ -16,6 +16,7 @@
     "Guard": 19,
     "Toughness": 16,
     "Resolve": 13,
-    "Tags": "Flying"
+    "Tags": "Flying",
+    "data-defense": "[{\"Guard\":\"19\",\"Toughness\":\"16\",\"Resolve\":\"13\"}]"
   }
 }

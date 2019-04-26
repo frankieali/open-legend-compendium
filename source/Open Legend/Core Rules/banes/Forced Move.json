@@ -5,8 +5,8 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
     "Duration": "Instantaneous",
-    "data-description": "With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.",
-    "data-effect": "The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.",
+    "Description": "With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.",
+    "Effect": "The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.",
     "Tags": "Extraordinary, Physical",
     "Power Level": "2, 4, 6, 8",
     "Power Level Effect (2)": "The target is moved 5'.",
@@ -14,11 +14,7 @@
     "Power Level Effect (6)": "The target is moved 15'.",
     "Power Level Effect (8)": "The target is moved 20'.",
     "Attribute": "Agility, Energy, Might, Movement",
-    "data-attack": "Agility vs. Guard, Energy vs. Guard, Might vs. Guard, Movement vs. Guard",
-    "data-attack-0": "Agility vs. Guard",
-    "data-attack-1": "Energy vs. Guard",
-    "data-attack-2": "Might vs. Guard",
-    "data-attack-3": "Movement vs. Guard",
+    "Attack": "Agility vs. Guard, Energy vs. Guard, Might vs. Guard, Movement vs. Guard",
     "Invocation Time": "1 Major Action"
   }
 }

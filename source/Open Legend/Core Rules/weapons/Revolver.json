@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Short Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Slowed",
     "Properties": "Precise",

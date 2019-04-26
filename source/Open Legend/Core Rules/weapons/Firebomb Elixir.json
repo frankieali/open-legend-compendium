@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Close Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Knockdown, Forced Move",
     "Properties": "Precise, Expendable, Area (10' cube)",

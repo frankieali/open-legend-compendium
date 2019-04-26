@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.",
-    "data-effect": "Your speed is permanently increased by 5' per tier of this feat.",
+    "Description": "Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. This feat is common to swashbucklers, martial artists, super soldiers, and psychic warriors.",
+    "Effect": "Your speed is permanently increased by 5' per tier of this feat.",
     "Tier Prerequisites (1)": "Agility 4, Fortitude 4, or Movement 2",
     "Tier Prerequisites (2)": "Agility 5, Fortitude 5, or Movement 4",
     "Tier Prerequisites (3)": "Agility 7, Fortitude 7, or Movement 6",

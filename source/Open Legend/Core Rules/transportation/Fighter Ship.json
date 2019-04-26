@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Vehicle",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 5,
     "Speed": "2000' flying",
     "Properties": "Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2",
@@ -16,6 +16,7 @@
     "Guard": 22,
     "Toughness": 15,
     "Resolve": "Immune",
-    "Tags": "Flying, Space"
+    "Tags": "Flying, Space",
+    "data-defense": "[{\"Guard\":\"22\",\"Toughness\":\"15\",\"Resolve\":\"Immune\"}]"
   }
 }

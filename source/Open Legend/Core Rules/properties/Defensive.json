@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.",
+		"Description": "A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.",
     "Wealth Modifier": "+ *defensive* value",
     "Tags": "Weapon"
   }

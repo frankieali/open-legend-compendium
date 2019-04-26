@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.",
-    "data-effect": "For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
+    "Description": "You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.",
+    "Effect": "For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
     "Tier Prerequisites (1-2)": "Agility 2 or Prescience 2",
     "Tier Prerequisites (3-5)": "Agility 4 or Prescience 4",
     "data-tierPrereq": "[{\"Tier 1-2\": \"Agility 2 or Prescience 2\"},{\"Tier 3-5\": \"Agility 4 or Prescience 4\"}]",

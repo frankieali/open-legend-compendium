@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "One-handed Melee",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 1,
     "Banes": "Knockdown, Stunned",
     "Properties": "Forceful",

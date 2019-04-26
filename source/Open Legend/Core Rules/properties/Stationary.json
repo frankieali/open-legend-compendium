@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
+		"Description": "The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.",
     "Wealth Modifier": "-1",
     "Tags": "Weapon"
   }

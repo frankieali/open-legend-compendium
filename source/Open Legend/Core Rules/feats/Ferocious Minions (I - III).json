@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Whether you are a necromancer who summons hordes of undead, an inventor who crafts autonomous defense droids, or a psychic capable of bending others to your will, minions are exceptionally strong under your command.",
-    "data-effect": "Creatures under the effects of your _charmed_ or _dominated_ banes, or those created by your invocation of the _summon creature_ boon, gain advantage 1 on all attack rolls to protect you or act in your favor for each tier of this feat you possess.",
+    "Description": "Whether you are a necromancer who summons hordes of undead, an inventor who crafts autonomous defense droids, or a psychic capable of bending others to your will, minions are exceptionally strong under your command.",
+    "Effect": "Creatures under the effects of your _charmed_ or _dominated_ banes, or those created by your invocation of the _summon creature_ boon, gain advantage 1 on all attack rolls to protect you or act in your favor for each tier of this feat you possess.",
     "Tier Prerequisites (1)": "Alteration 4, Creation 4, Entropy 4, Energy 4, or Influence 4",
     "Tier Prerequisites (2)": "Alteration 5, Creation 5, Entropy 5, Energy 5, or Influence 5",
     "Tier Prerequisites (3)": "Alteration 7, Creation 7, Entropy 7, Energy 7, or Influence 7",

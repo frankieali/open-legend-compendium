@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.",
+		"Description": "The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.",
     "Wealth Modifier": "Must be acquired or crafted first",
     "Tags": "Item"
   }

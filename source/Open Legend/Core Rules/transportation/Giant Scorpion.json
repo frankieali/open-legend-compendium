@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 5,
     "Speed": "35'",
     "Properties": "Independent 1",
@@ -16,6 +16,7 @@
     "Guard": 15,
     "Toughness": 15,
     "Resolve": 18,
-    "Tags": "Land"
+    "Tags": "Land",
+    "data-defense": "[{\"Guard\":\"15\",\"Toughness\":\"15\",\"Resolve\":\"18\"}]"
   }
 }

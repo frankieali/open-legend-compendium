@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
+    "Description": "At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.",
     "Type": "Extraordinary",
     "Wealth Level": 2,
     "Banes": "Fear 5"

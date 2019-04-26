@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Two-handed Melee",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 3,
     "Banes": "Fear, Persistent Damage",
     "Properties": "Precise, Slow, Area (5' / 10' cone)"

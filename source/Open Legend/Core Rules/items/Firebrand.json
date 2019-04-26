@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
+    "Description": "A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
     "Type": "Extraordinary",
     "Wealth Level": 4,
     "Properties": "Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)"

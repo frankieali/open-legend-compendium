@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "The item becomes either self-aware or capable of basic human reasoning. It has no inherent bond with its creator, and is treated like any other NPC. It gets its own turn and array of actions. The item gains no mental or social attributes, only the ability to think. At the GM's discretion, it may also gain a particular mode of movement, such as walking, climbing, flying, or swimming.",
+		"Description": "The item becomes either self-aware or capable of basic human reasoning. It has no inherent bond with its creator, and is treated like any other NPC. It gets its own turn and array of actions. The item gains no mental or social attributes, only the ability to think. At the GM's discretion, it may also gain a particular mode of movement, such as walking, climbing, flying, or swimming.",
     "Wealth Modifier": "+3",
     "Tags": "Item"
   }

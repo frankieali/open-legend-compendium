@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.",
-    "data-special": "Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.",
+    "Description": "Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.",
+    "Special": "Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.",
     "Type": "Extraordinary",
     "Wealth Level": 5,
     "Banes": "Blinded 5",

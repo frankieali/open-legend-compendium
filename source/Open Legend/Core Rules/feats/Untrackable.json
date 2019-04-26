@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.",
-    "data-effect": "Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.",
+    "Description": "Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.",
+    "Effect": "Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.",
     "Tier Prerequisites (1)": "Agility 3, Alteration 3, or Influence 3",
     "data-tierPrereq": "[{\"Tier 1\":\"Agility 3, Alteration 3, or Influence 3\"}]",
     "Tags": "Non-Combat, Protection, Alteration, Influence",

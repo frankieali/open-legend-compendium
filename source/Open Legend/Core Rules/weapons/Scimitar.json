@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "One-handed Melee",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Disarmed",
     "Properties": "Forceful, Precise",

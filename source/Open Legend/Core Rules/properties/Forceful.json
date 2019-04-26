@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
+		"Description": "This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
     "Wealth Modifier": 0,
     "Tags": "Weapon"
   }

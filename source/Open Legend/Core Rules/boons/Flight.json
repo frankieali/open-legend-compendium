@@ -4,13 +4,13 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "data-description": "By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.",
-    "data-effect": "The target gains a flight speed according to your power level. If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.",
+    "Description": "By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.",
+    "Effect": "The target gains a flight speed according to your power level. If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.",
     "Tags": "Extraordinary",
     "Power Level": "5, 6, 8",
-    "data-effect-5": "The target gains a flight speed of 10'",
-    "data-effect-6": "The target gains a flight speed of 30'",
-    "data-effect-8": "The target gains a flight speed of 60'",
+    "Effect (5)": "The target gains a flight speed of 10'",
+    "Effect (6)": "The target gains a flight speed of 30'",
+    "Effect (8)": "The target gains a flight speed of 60'",
     "Attribute": "Alteration, Movement",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

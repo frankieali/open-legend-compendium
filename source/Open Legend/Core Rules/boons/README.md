@@ -8,9 +8,9 @@ Boons are described as follows:
   "data": {  {Object} - An object containing all the other datails 
     "Source": {string} - The source book where this entry originates from. e.g.: "Open Legend: Core Rules"
     "Category": {string: "Boons"} - The category this entry falls into
-    "data-description": {string} - A general idea of what the boon could look like in the story
-    "data-effect": {string} - The mechanical effects of the boon
-    "data-special": {string} - A unique property or mechanic explained in detail
+    "Description": {string} - A general idea of what the boon could look like in the story
+    "Effect": {string} - The mechanical effects of the boon
+    "Special": {string} - A unique property or mechanic explained in detail
     "Tags": {string} - Words or phrases that describe this entry. Additional metadata
     "Power Level": {string} - The attribute score required to access the next tier of power.
     "Power Level Effect (#)": {string} - The effect this boon has at this specific tiers of power.

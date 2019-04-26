@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.",
+    "Description": "With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.",
     "Type": "Extraordinary",
     "Wealth Level": 3,
     "Banes": "Immobile 5",

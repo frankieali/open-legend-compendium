@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that is inserted into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.",
-    "data-special": "This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
+    "Description": "A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that is inserted into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.",
+    "Special": "This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
     "Type": "Extraordinary",
     "Wealth Level": 3,
     "Banes": "Mind Dredge 8",

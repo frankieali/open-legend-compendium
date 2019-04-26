@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Vehicle",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 6,
     "Speed": "70' swimming",
     "Properties": "Targeted Weapons, Multi-Pilot 10",
@@ -16,6 +16,7 @@
     "Guard": 19,
     "Toughness": 15,
     "Resolve": "Immune",
-    "Tags": "Water, Swimming, Boat"
+    "Tags": "Water, Swimming, Boat",
+    "data-defense": "[{\"Guard\":\"19\",\"Toughness\":\"15\",\"Resolve\":\"Immune\"}]"
   }
 }

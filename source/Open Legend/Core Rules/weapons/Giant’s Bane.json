@@ -5,12 +5,12 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Long Ranged, Legendary",
-    "data-description": "This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.",
+    "Description": "This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.",
     "Wealth Level": "n/a",
     "Attributes": "Agility +1, Perception +2",
     "Banes": "Persistent Damage",
     "Properties": "Weapon (Longbow), Deadly 2, Slaying (giants), Intelligent",
     "Special": "Intelligent",
-    "data-special": "[{\"Intelligent\": \"The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.\"}]"
+    "Special Description": "The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants."
   }
 }

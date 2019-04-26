@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.",
+		"Description": "An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.",
     "Wealth Modifier": "-1",
     "Tags": "Weapon"
   }

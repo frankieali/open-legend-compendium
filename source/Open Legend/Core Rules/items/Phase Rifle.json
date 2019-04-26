@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
+    "Description": "This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.",
     "Type": "Extraordinary",
     "Wealth Level": 4,
     "Properties": "Damage (Energy), Deadly 2, Weapon (Sniper Rifle)"

@@ -5,12 +5,12 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Two-handed Melee, Legendary",
-    "data-description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
+    "Description": "This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.",
     "Wealth Level": "n/a",
     "Attributes": "Might +2, Presence +2",
     "Banes": "Fear 8",
     "Properties": "Weapon (Great Axe), Unfailing",
     "Special": "Warble",
-    "data-special": "[{\"Warble\": \"Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.\"}]"
+    "Special Description": "Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8."
   }
 }

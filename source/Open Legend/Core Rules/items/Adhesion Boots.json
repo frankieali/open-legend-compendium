@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots possess bioengineered nanofiber soles that adhere flawlessly to any surface they touch until deactivated.",
-    "data-special": "These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.",
+    "Description": "Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots possess bioengineered nanofiber soles that adhere flawlessly to any surface they touch until deactivated.",
+    "Special": "These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.",
     "Type": "Extraordinary",
     "Wealth Level": 2,
     "Properties": "Special"

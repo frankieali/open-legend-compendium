@@ -4,9 +4,9 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "data-description": "Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons. The nullify bane is often used by abjurers, engineers, bards, and similar characters built to neutralize the powers of their enemy.",
-    "data-effect": "You cancel a single boon currently in effect if it is of this bane's power level or lower. The invoking power level further impacts the effect as follows:",
-    "data-special": "If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boon's invoked power level.",
+    "Description": "Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons. The nullify bane is often used by abjurers, engineers, bards, and similar characters built to neutralize the powers of their enemy.",
+    "Effect": "You cancel a single boon currently in effect if it is of this bane's power level or lower. The invoking power level further impacts the effect as follows:",
+    "Special": "If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boon's invoked power level.",
     "Tags": "Extraordinary",
     "Power Level": "1, 2, 3, 4, 5, 6, 7, 8, 9",
     "Power Level Effect (1)": "Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.",
@@ -19,8 +19,7 @@
     "Power Level Effect (8)": "Cancel a boon of Power Level 8",
     "Power Level Effect (9)": "Cancel a boon of Power Level 9",
     "Attribute": "Protection",
-    "data-attack": "Protection vs. Resolve",
-    "data-attack-0": "Protection vs. Resolve",
+    "Attack": "Protection vs. Resolve",
     "Invocation Time": "1 Major Action",
     "Duration": "Instantaneous"
   }

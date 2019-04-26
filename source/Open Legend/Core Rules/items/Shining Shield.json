@@ -4,7 +4,7 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard.",
+    "Description": "Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard.",
     "Type": "Extraordinary",
     "Wealth Level": 4,
     "Banes": "Blinded 5"

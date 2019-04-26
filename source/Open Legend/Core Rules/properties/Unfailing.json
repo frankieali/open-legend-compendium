@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Legendary",
-		"data-description": "Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.",
+		"Description": "Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.",
     "Wealth Modifier": "Some Things, Money Can’t Buy",
     "Tags": "Item, Legendary"
   }

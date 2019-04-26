@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
-    "data-description": "You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.",
-    "data-effect": "Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.",
+    "Description": "You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.",
+    "Effect": "Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.",
     "Tags": "Extraordinary",
     "Power Level": "3, 5, 7, 8, 9",
     "Power Level Attribute (3)": "_Temporarily_ transmute an object into another object of the same size and weight.",

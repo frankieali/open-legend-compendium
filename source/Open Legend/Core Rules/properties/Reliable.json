@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.",
+		"Description": "The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.",
     "Wealth Modifier": "+2",
     "Tags": "Item, Weapon"
   }

@@ -4,8 +4,8 @@
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.",
-    "data-effect": "Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.",
+    "Description": "You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.",
+    "Effect": "Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.",
     "Tier Prerequisites (1-3)": "Agility 3",
     "Tier Prerequisites (4-6)": "Agility 5",
     "Tier Prerequisites (7-9)": "Agility 7",

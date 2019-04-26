@@ -5,7 +5,7 @@
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Medium Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 3,
     "Banes": "Persistent Damage, Provoked, Demoralized",
     "Properties": "Precise, Area (10' cube)",
