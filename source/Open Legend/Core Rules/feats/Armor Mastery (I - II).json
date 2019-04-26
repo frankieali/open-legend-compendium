@@ -9,8 +9,8 @@
     "Effect (1)": "The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.",
     "Effect (2)": "The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.",
     "data-tierEffect": "[{\"Tier 1\":\"The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.\"},{\"Tier 2\":\"The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.\"}]",
-    "Tier Prerequisites (1-2)": "None",
-    "data-tierPrereq": "[{\"Tier 1-2\":\"None\"}]",
+    "Prerequisites (1-2)": "None",
+    "data-prerequisites": "[{\"Tier 1-2\":\"None\"}]",
     "Tags": "No Prerequisite",
     "Cost": "3 points",
     "data-cost": 3

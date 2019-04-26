@@ -9,9 +9,9 @@
     "Effect (1)": "If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.",
     "Effect (2)": "Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.",
     "data-tierEffect": "[{\"Tier 1\":\"If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.\"},{\"Tier 2\":\"Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.\"}]",
-    "Tier Prerequisites (1)": "Agility 6 and Lethal Strike I",
-    "Tier Prerequisites (2)": "Agility 7 and Lethal Strike II",
-    "data-tierPrereq": "[{\"Tier 1\":\"Agility 6 and Lethal Strike I\"},{\"Tier 2\":\"Agility 7 and Lethal Strike II\"}]",
+    "Prerequisites (1)": "Agility 6 and Lethal Strike I",
+    "Prerequisites (2)": "Agility 7 and Lethal Strike II",
+    "data-prerequisites": "[{\"Tier 1\":\"Agility 6 and Lethal Strike I\"},{\"Tier 2\":\"Agility 7 and Lethal Strike II\"}]",
     "Tags": "Combat, Physical",
     "Cost": "3 points",
     "data-cost": 3

@@ -9,8 +9,8 @@
     "Effect (1)": "As long as you are conscious and able to act, reduce all falling damage by half.",
     "Effect (2)": "As long as you are conscious and able to act, you do not suffer falling damage.",
     "data-tierEffect": "[{\"Tier 1\":\"As long as you are conscious and able to act, reduce all falling damage by half.\"},{\"Tier 2\":\"As long as you are conscious and able to act, you do not suffer falling damage.\",}]",
-    "Tier Prerequisites (1-2)": "Agility 4",
-    "data-tierPrereq": "[{\"Tier 1-2\":\"Agility 4\"}]",
+    "Prerequisites (1-2)": "Agility 4",
+    "data-prerequisites": "[{\"Tier 1-2\":\"Agility 4\"}]",
     "Cost": "2 points",
     "data-cost": 2
   }

@@ -9,8 +9,8 @@
     "Effect (1)": "Making non-attack, non-defend, non-invocation action rolls\n*   Calculating hit points, defenses, and other secondary statistics\n*   Meeting feat prerequisites\n*   Other situations at the GM's discretion",
     "Effect (2)": "Making attack and defend action rolls\n*   Invoking banes and boons",
     "data-tierEffect": "[{\"Tier 1\":\"Making non-attack, non-defend, non-invocation action rolls\\n*   Calculating hit points, defenses, and other secondary statistics\\n*   Meeting feat prerequisites\\n*   Other situations at the GM's discretion\"},{\"Tier 2\":\"Making attack and defend action rolls\\n*   Invoking banes and boons\"}]",
-    "Tier Prerequisites (1-2)": "None",
-    "data-tierPrereq": "[{\"Tier 1-2\":\"None\"}]",
+    "Prerequisites (1-2)": "None",
+    "data-prerequisites": "[{\"Tier 1-2\":\"None\"}]",
     "Tags": "Any Attribute, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

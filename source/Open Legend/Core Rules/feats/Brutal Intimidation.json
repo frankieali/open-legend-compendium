@@ -6,8 +6,8 @@
     "Category": "Feats",
     "Description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
     "Effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
-    "Tier Prerequisites (1)": "Might 2",
-    "data-tierPrereq": "[{\"Tier 1\":\"Might 2\"}]",
+    "Prerequisites (1)": "Might 2",
+    "data-prerequisites": "[{\"Tier 1\":\"Might 2\"}]",
     "Tags": "Non-Combat",
     "Cost": "1 points",
     "data-cost": 1

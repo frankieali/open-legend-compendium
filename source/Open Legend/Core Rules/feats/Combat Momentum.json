@@ -7,8 +7,8 @@
     "Description": "Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.",
     "Effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.",
     "Special": "If you have access to the _teleport_ boon, you may use it instead of a normal move.",
-    "Tier Prerequisites (1)": "None",
-    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Prerequisites (1)": "None",
+    "data-prerequisites": "[{\"Tier 1\":\"None\"}]",
     "Tags": "Combat, No Prerequisite",
     "Cost": "1 points",
     "data-cost": 1
