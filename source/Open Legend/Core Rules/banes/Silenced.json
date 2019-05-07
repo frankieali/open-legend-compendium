@@ -1,19 +1,16 @@
 {
   "name": "Silenced",
   "content": "<h2>Description</h2>Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.<br/><br/><h2>Effect</h2>If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
+  "content-md": "## Description  \nSilence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.  \n##Effect  \nIf Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "data-description": "Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.",
-    "data-effect": "If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
+    "Description": "Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation. The silence bane is a favorite among assassins, sorcerers, engineers, and mad scientists.",
+    "Effect": "If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is suppressed through extraordinary means, making their footsteps and the usual clank of belongings they are carrying inaudible.",
     "Tags": "Extraordinary, Physical",
     "Power Level": "2",
     "Attribute": "Agility, Alteration, Entropy, Might",
-    "data-attack": "Agility vs. Toughness, Alteration vs. Toughness, Entropy vs. Toughness, Might vs. Toughness",
-    "data-attack-0": "Agility vs. Toughness",
-    "data-attack-1": "Alteration vs. Toughness",
-    "data-attack-2": "Entropy vs. Toughness",
-    "data-attack-3": "Might vs. Toughness",
+    "Attack": "Agility vs. Toughness, Alteration vs. Toughness, Entropy vs. Toughness, Might vs. Toughness",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

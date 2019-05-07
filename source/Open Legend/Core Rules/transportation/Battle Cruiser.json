@@ -1,11 +1,12 @@
 {
   "name": "Battle Cruiser",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Vehicle",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 9,
     "Speed": "1,000' flying",
     "Properties": "Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4",
@@ -16,6 +17,7 @@
     "Guard": 25,
     "Toughness": 18,
     "Resolve": "Immune",
-    "Tags": "Flying, Space"
+    "Tags": "Flying, Space",
+    "data-defense": "Guard: 25, Toughness: 18, Resolve: Immune"
   }
 }

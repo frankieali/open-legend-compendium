@@ -1,11 +1,12 @@
 {
   "name": "Maul",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Two-handed Melee",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Knockdown, Forced Move, Stunned",
     "Properties": "Forceful, Heavy",

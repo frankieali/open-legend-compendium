@@ -1,11 +1,12 @@
 {
   "name": "Pegasus",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 4,
     "Speed": "50' flying",
     "Attributes": "Might 4, Creation 4",
@@ -15,6 +16,7 @@
     "Guard": 18,
     "Toughness": 17,
     "Resolve": 17,
-    "Tags": "Flying"
+    "Tags": "Flying",
+    "data-defense": "Guard: 18, Toughness: 17, Resolve: 17"
   }
 }

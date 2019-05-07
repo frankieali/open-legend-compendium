@@ -1,10 +1,11 @@
 {
   "name": "Potion of Minor Healing",
   "content": "This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.",
+  "content-md": "This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.",
+    "Description": "This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.",
     "Type": "Extraordinary",
     "Wealth Level": 1,
     "Boons": "Heal 3",

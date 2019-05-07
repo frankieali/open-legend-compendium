@@ -1,11 +1,12 @@
 {
   "name": "Delayed Ready",
   "content": "This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
+  "content-md": "This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
+		"Description": "This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.",
     "Wealth Modifier": "-1",
     "Tags": "Weapon"
   }

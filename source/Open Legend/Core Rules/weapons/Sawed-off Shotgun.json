@@ -1,11 +1,12 @@
 {
   "name": "Sawed-off Shotgun",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Short Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Stunned, Forced Move",
     "Properties": "Precise, Slow, Area (10' cone)"

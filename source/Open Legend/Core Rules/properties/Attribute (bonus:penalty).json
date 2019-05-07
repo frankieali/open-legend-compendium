@@ -1,11 +1,12 @@
 {
   "name": "Attribute (bonus/penalty)",
   "content": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
+  "content-md": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Legendary",
-		"data-description": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
+		"Description": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
     "Wealth Modifier": "Some Things, Money Can’t Buy",
     "Tags": "Item, Legendary, Attribute"
   }

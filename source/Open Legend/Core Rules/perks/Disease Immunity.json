@@ -1,9 +1,10 @@
 {
   "name": "Disease Immunity",
   "content": "You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy.",
+  "content-md": "You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Perks",
-    "data-description": "You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy."
+    "Description": "You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy."
   }
 }

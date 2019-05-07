@@ -1,11 +1,12 @@
 {
   "name": "Dire Wolf",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 3,
     "Speed": "40'",
     "Attributes": "Agility 5, Perception 5",
@@ -15,6 +16,7 @@
     "Guard": 17,
     "Toughness": 14,
     "Resolve": 15,
-    "Tags": "Land"
+    "Tags": "Land",
+    "data-defense": "Guard: 17, Toughness: 14, Resolve: 15"
   }
 }

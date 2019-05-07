@@ -1,11 +1,12 @@
 {
   "name": "Shortspear",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Versatile Melee, Short Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 1,
     "Banes": "Persistent Damage, Disarmed, Immobile",
     "Properties": "Forceful, Precise"

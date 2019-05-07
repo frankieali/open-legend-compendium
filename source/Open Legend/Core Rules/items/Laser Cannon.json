@@ -1,10 +1,11 @@
 {
   "name": "Laser Cannon",
   "content": "This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.",
+  "content-md": "This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.",
+    "Description": "This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.",
     "Type": "Extraordinary",
     "Wealth Level": 6,
     "Properties": "Area (50' Line), Deadly 2, Weapon (Cannon)"

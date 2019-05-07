@@ -1,11 +1,12 @@
 {
   "name": "Horse",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 3,
     "Speed": "40'",
     "Attributes": "Might 4",
@@ -14,6 +15,7 @@
     "Guard": 15,
     "Toughness": 15,
     "Resolve": 10,
-    "Tags": "Land"
+    "Tags": "Land",
+    "data-defense": "Guard: 15, Toughness: 15, Resolve: 10"
   }
 }

@@ -1,13 +1,13 @@
 {
   "name": "Climbing",
   "content": "<h2>Description</h2>You gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.<br/><br/><h2>Effect</h2>You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.",
+  "content-md": "## Description  \nYou gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.  \n##Effect  \nYou gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "You gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.",
-    "data-effect": "You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.",
-    "Tier Prerequisites (1)": "None",
-    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Description": "You gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.",
+    "Effect": "You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.",
+    "Prerequisites (1)": "None",
     "Tags": "Non-Combat, No Prerequisite",
     "Cost": "1 points",
     "data-cost": 1

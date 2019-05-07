@@ -1,11 +1,12 @@
 {
   "name": "Rifle",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Long Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Slowed",
     "Properties": "Precise",

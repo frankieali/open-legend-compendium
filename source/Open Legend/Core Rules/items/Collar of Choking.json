@@ -1,11 +1,12 @@
 {
   "name": "Collar of Choking",
   "content": "<h2>Description</h2>This plain steel collar will choke the life out of anyone who wears it.<h2>Special</h2>This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
+  "content-md": "## Description  \nThis plain steel collar will choke the life out of anyone who wears it.<h2>Special</h2>This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "This plain steel collar will choke the life out of anyone who wears it.",
-    "data-special": "This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
+    "Description": "This plain steel collar will choke the life out of anyone who wears it.",
+    "Special": "This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.",
     "Type": "Extraordinary",
     "Wealth Level": 1,
     "Properties": "Cursed (Persistent Damage 2)"

@@ -1,9 +1,10 @@
 {
   "name": "Uncoordinated",
   "content": "Your body just doesn't work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness.",
+  "content-md": "Your body just doesn't work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "data-description": "Your body just doesn't work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness."
+    "Description": "Your body just doesn't work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness."
   }
 }

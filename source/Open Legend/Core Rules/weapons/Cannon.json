@@ -1,11 +1,12 @@
 {
   "name": "Cannon",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Extreme Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Forced Move, Stunned",
     "Properties": "Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary"

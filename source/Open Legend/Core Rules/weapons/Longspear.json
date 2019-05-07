@@ -1,11 +1,12 @@
 {
   "name": "Longspear",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Close Ranged, Two-handed Melee" ,
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Disarmed, Immobile",
     "Properties": "Forceful, Precise, Reach"

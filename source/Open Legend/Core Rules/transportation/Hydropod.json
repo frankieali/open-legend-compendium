@@ -1,11 +1,12 @@
 {
   "name": "Hydropod",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Vehicle",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 4,
     "Speed": "50' swimming",
     "Properties": "Guided Weapons, Targeted Weapons, Multi-Pilot 2",
@@ -16,6 +17,7 @@
     "Guard": 20,
     "Toughness": 17,
     "Resolve": "Immune",
-    "Tags": "Water, Swimming"
+    "Tags": "Water, Swimming",
+    "data-defense": "Guard: 20, Toughness: 17, Resolve: Immune"
   }
 }

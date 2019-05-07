@@ -1,16 +1,17 @@
 {
   "name": "Staff of the Archmage",
   "content": "<h2>Description</h2>Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.<h2>Special</h2><strong>Retributive Strike</strong>: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.",
+  "content-md": "## Description  \nCarved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.<h2>Special</h2>**Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.",
+    "Description": "Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.",
     "Type": "Legendary",
     "Wealth Level": "n/a",
     "Attributes": "Energy 7, Energy +2",
     "Banes": "Persistent Damage 9",
     "Properties": "Potent, Baneful (Persistent Damage)",
     "Special": "Retributive Strike",
-    "data-special": "[{\"Retributive Strike\": \"The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.\"}]"
+    "Special Description": "The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard."
   }
 }

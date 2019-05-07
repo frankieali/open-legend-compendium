@@ -1,11 +1,12 @@
 {
   "name": "Potent",
   "content": "Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
+  "content-md": "Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
+		"Description": "Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.",
     "Wealth Modifier": "+1",
     "Tags": "Item"
   }

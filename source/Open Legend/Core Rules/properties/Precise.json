@@ -1,11 +1,12 @@
 {
   "name": "Precise",
   "content": "This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
+  "content-md": "This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
+		"Description": "This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.",
     "Wealth Modifier": 0,
     "Tags": "Weapon"
   }

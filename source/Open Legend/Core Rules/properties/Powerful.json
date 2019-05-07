@@ -1,11 +1,12 @@
 {
   "name": "Powerful",
   "content": "Bane or boon invocations made with this item have advantage equal to the item's <em>powerful</em> value. An item cannot have a <em>powerful</em> value greater than 3.",
+  "content-md": "Bane or boon invocations made with this item have advantage equal to the item's _powerful_ value. An item cannot have a _powerful_ value greater than 3.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "Bane or boon invocations made with this item have advantage equal to the item's *powerful* value. An item cannot have a *powerful* value greater than 3.",
+		"Description": "Bane or boon invocations made with this item have advantage equal to the item's *powerful* value. An item cannot have a *powerful* value greater than 3.",
     "Wealth Modifier": "2 + *powerful* value",
     "Tags": "Item"
   }

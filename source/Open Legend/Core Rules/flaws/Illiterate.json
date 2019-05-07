@@ -1,9 +1,10 @@
 {
   "name": "Illiterate",
   "content": "You can't read or write, even in languages that you speak fluently.",
+  "content-md": "You can't read or write, even in languages that you speak fluently.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "data-description": "You can't read or write, even in languages that you speak fluently."
+    "Description": "You can't read or write, even in languages that you speak fluently."
   }
 }

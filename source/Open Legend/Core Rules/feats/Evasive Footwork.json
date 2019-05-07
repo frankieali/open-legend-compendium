@@ -1,13 +1,13 @@
 {
   "name": "Evasive Footwork",
   "content": "<h2>Description</h2>You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.<br/><br/><h2>Effect</h2>When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.",
+  "content-md": "## Description  \nYou are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.  \n##Effect  \nWhen you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.",
-    "data-effect": "When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.",
-    "Tier Prerequisites (1)": "Agility 3",
-    "data-tierPrereq": "[{\"Tier 1\":\"Agility 3\"}]",
+    "Description": "You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.",
+    "Effect": "When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.",
+    "Prerequisites (1)": "Agility 3",
     "Tags": "Agility",
     "Cost": "2 points",
     "data-cost": 2

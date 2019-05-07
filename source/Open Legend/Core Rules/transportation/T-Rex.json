@@ -1,11 +1,12 @@
 {
   "name": "T-Rex",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Mount",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 5,
     "Speed": "50'",
     "Properties": "Independent 1",
@@ -16,6 +17,7 @@
     "Guard": 20,
     "Toughness": 15,
     "Resolve": 15,
-    "Tags": "Land"
+    "Tags": "Land",
+    "data-defense": "Guard: 20, Toughness: 15, Resolve: 15"
   }
 }

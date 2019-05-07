@@ -1,18 +1,16 @@
 {
   "name": "Deafened",
   "content": "<h2>Description</h2>You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.<br/><br/><h2>Effect</h2>The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
+  "content-md": "## Description  \nYou deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.  \n##Effect  \nThe target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "data-description": "You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.",
-    "data-effect": "The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
+    "Description": "You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.",
+    "Effect": "The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
     "Tags": "Extraordinary, Physical",
     "Power Level": "4",
     "Attribute": "Agility, Energy, Entropy",
-    "data-attack": "Agility vs. Guard, Energy vs. Toughness, Entropy vs. Toughness",
-    "data-attack-0": "Agility vs. Guard",
-    "data-attack-1": "Energy vs. Toughness",
-    "data-attack-2": "Entropy vs. Toughness",
+    "Attack": "Agility vs. Guard, Energy vs. Toughness, Entropy vs. Toughness",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

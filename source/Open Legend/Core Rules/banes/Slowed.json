@@ -1,20 +1,16 @@
 {
   "name": "Slowed",
   "content": "<h2>Description</h2>The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.<br/><br/><h2>Effect</h2>The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
+  "content-md": "## Description  \nThe target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.  \n##Effect  \nThe afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",
-    "data-description": "The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.",
-    "data-effect": "The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
+    "Description": "The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. This bane is a favored attack among rogues, ice mages, telekinetisists, and gunslingers.",
+    "Effect": "The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.",
     "Tags": "Extraordinary, Physical",
     "Power Level": "1",
     "Attribute": "Agility, Energy, Entropy, Might, Movement",
-    "data-attack": "Agility vs. Guard, Energy vs. Guard, Entropy vs. Toughness, Might vs. Guard, Movement vs. Guard",
-    "data-attack-0": "Agility vs. Guard",
-    "data-attack-1": "Energy vs. Guard",
-    "data-attack-2": "Entropy vs. Toughness",
-    "data-attack-3": "Might vs. Guard",
-    "data-attack-4": "Movement vs. Guard",
+    "Attack": "Agility vs. Guard, Energy vs. Guard, Entropy vs. Toughness, Might vs. Guard, Movement vs. Guard",
     "Invocation Time": "1 Major Action",
     "Duration": "Resist ends (Fail x 3 = 1 minute)"
   }

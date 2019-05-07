@@ -1,13 +1,13 @@
 {
   "name": "Flying",
   "content": "<h2>Description</h2>Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.<br/><br/><h2>Effect</h2>You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the <em>immobile</em> bane might render your wings immovable. If telekinetic, an application of the <em>nullify</em> bane may cancel your flight.",
+  "content-md": "## Description  \nWhether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.  \n##Effect  \nYou gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the _immobile_ bane might render your wings immovable. If telekinetic, an application of the _nullify_ bane may cancel your flight.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.",
-    "data-effect": "You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the _immobile_ bane might render your wings immovable. If telekinetic, an application of the _nullify_ bane may cancel your flight.",
-    "Tier Prerequisites (1)": "None",
-    "data-tierPrereq": "[{\"Tier 1\":\"None\"}]",
+    "Description": "Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.",
+    "Effect": "You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the _immobile_ bane might render your wings immovable. If telekinetic, an application of the _nullify_ bane may cancel your flight.",
+    "Prerequisites (1)": "None",
     "Tags": "Non-Combat, No Prerequisite",
     "Cost": "3 points",
     "data-cost": 3

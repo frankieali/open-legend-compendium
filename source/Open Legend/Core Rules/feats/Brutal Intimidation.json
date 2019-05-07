@@ -1,13 +1,13 @@
 {
   "name": "Brutal Intimidation",
   "content": "<h2>Description</h2>Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.<br/><br/><h2>Effect</h2>If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
+  "content-md": "## Description  \nYour powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.  \n##Effect  \nIf you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
-    "data-effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
-    "Tier Prerequisites (1)": "Might 2",
-    "data-tierPrereq": "[{\"Tier 1\":\"Might 2\"}]",
+    "Description": "Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.",
+    "Effect": "If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.",
+    "Prerequisites (1)": "Might 2",
     "Tags": "Non-Combat",
     "Cost": "1 points",
     "data-cost": 1

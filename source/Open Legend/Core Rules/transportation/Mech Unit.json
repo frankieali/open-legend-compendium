@@ -1,11 +1,12 @@
 {
   "name": "Mech Unit",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
     "Type": "Vehicle",
-    "data-description": "",
+    "Description": "",
     "Wealth Level": 4,
     "Speed": "40'",
     "Properties": "Guided Weapons, Targeted Weapons",
@@ -16,6 +17,7 @@
     "Guard": 22,
     "Toughness": 20,
     "Resolve": "Immune",
-    "Tags": "Land"
+    "Tags": "Land",
+    "data-defense": "Guard: 22, Toughness: 20, Resolve: Immune"
   }
 }

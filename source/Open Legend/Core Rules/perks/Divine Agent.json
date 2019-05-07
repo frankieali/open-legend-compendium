@@ -1,9 +1,10 @@
 {
   "name": "Divine Agent",
   "content": "You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.",
+  "content-md": "You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Perks",
-    "data-description": "You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1."
+    "Description": "You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1."
   }
 }

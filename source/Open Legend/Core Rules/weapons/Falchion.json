@@ -1,11 +1,12 @@
 {
   "name": "Falchion",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Versatile Melee",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Disarmed",
     "Properties": "Forceful, Precise",

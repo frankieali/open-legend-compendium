@@ -1,10 +1,11 @@
 {
   "name": "Hydraulic Propulsion Implants",
   "content": "You always count as having a running start for your jumps, and your distance covered when jumping is doubled.",
+  "content-md": "You always count as having a running start for your jumps, and your distance covered when jumping is doubled.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",
-    "data-description": "You always count as having a running start for your jumps, and your distance covered when jumping is doubled.",
+    "Description": "You always count as having a running start for your jumps, and your distance covered when jumping is doubled.",
     "Type": "Extraordinary",
     "Wealth Level": 2
   }

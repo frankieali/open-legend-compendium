@@ -1,9 +1,10 @@
 {
   "name": "Bravado",
   "content": "You have a flair for the dramatic, and will often undertake bold or daring maneuvers simply for the thrill of it. For example, in combat you might swing from a chandelier even if it offers no tactical advantage.",
+  "content-md": "You have a flair for the dramatic, and will often undertake bold or daring maneuvers simply for the thrill of it. For example, in combat you might swing from a chandelier even if it offers no tactical advantage.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "data-description": "You have a flair for the dramatic, and will often undertake bold or daring maneuvers simply for the thrill of it. For example, in combat you might swing from a chandelier even if it offers no tactical advantage."
+    "Description": "You have a flair for the dramatic, and will often undertake bold or daring maneuvers simply for the thrill of it. For example, in combat you might swing from a chandelier even if it offers no tactical advantage."
   }
 }

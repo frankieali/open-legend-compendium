@@ -1,11 +1,12 @@
 {
   "name": "Light Crossbow",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Medium Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 2,
     "Banes": "Persistent Damage, Immobile",
     "Properties": "Precise"

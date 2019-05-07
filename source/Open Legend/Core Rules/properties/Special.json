@@ -1,11 +1,12 @@
 {
   "name": "Special",
   "content": "The item possesses a unique property that is explained in full detail in its description.",
+  "content-md": "The item possesses a unique property that is explained in full detail in its description.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Item",
-		"data-description": "The item possesses a unique property that is explained in full detail in its description.",
+		"Description": "The item possesses a unique property that is explained in full detail in its description.",
     "Wealth Modifier": "varies",
     "Tags": "Item, Weapon, Armor, Mounts and Vehicles"
   }

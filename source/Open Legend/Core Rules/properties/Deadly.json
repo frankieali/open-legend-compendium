@@ -1,11 +1,12 @@
 {
   "name": "Deadly",
   "content": "Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
+  "content-md": "Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",
     "Type": "Weapon",
-		"data-description": "Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
+		"Description": "Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.",
     "Wealth Modifier": "2 + *deadly* value",
     "Tags": "Weapon"
   }

@@ -1,13 +1,13 @@
 {
   "name": "Crushing Blow",
   "content": "<h2>Description</h2>Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.<br/><br/><h2>Effect</h2>Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the <em>knockdown</em> bane.",
+  "content-md": "## Description  \nLike a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.  \n##Effect  \nAny time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the _knockdown_ bane.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
-    "data-description": "Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.",
-    "data-effect": "Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the _knockdown_ bane.",
-    "Tier Prerequisites (1)": "Might 6 and Overpowering Strike",
-    "data-tierPrereq": "[{\"Tier 1\":\"Might 6 and Overpowering Strike\"}]",
+    "Description": "Like a reckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.",
+    "Effect": "Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the _knockdown_ bane.",
+    "Prerequisites (1)": "Might 6 and Overpowering Strike",
     "Tags": "Physical, Combat, Feat Chain, Might",
     "Cost": "3 points",
     "data-cost": 3

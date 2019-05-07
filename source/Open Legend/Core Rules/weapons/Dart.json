@@ -1,11 +1,12 @@
 {
   "name": "Dart",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Weapons",
     "Type": "Close Ranged",
-    "data-description": "",
+    "Description": "",
 		"Wealth Level": 1,
     "Banes": "Immobile",
     "Properties": "Precise",

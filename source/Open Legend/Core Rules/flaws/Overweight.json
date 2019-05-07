@@ -1,9 +1,10 @@
 {
   "name": "Overweight",
   "content": "You are carrying a few extra pounds, and they tend to get in the way at all the wrong times, such as when climbing a ladder or crossing a decrepit rope bridge.",
+  "content-md": "You are carrying a few extra pounds, and they tend to get in the way at all the wrong times, such as when climbing a ladder or crossing a decrepit rope bridge.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",
-    "data-description": "You are carrying a few extra pounds, and they tend to get in the way at all the wrong times, such as when climbing a ladder or crossing a decrepit rope bridge."
+    "Description": "You are carrying a few extra pounds, and they tend to get in the way at all the wrong times, such as when climbing a ladder or crossing a decrepit rope bridge."
   }
 }
