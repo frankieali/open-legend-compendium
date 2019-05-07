@@ -17,7 +17,7 @@ Properties are described as follows:
 ```
 
 ## TODO
-*  Images (url's) would be nice
-*  Need `Wealth Modifier` for Mount and Vehicle specific properties
+\n*  Images (url's) would be nice
+\n*  Need `Wealth Modifier` for Mount and Vehicle specific properties
 
 ## Notes

@@ -1,6 +1,7 @@
 {
   "name": "Dire Wolf",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -16,6 +17,6 @@
     "Toughness": 14,
     "Resolve": 15,
     "Tags": "Land",
-    "data-defense": "[{\"Guard\":\"17\",\"Toughness\":\"14\",\"Resolve\":\"15\"}]"
+    "data-defense": "Guard: 17, Toughness: 14, Resolve: 15"
   }
 }

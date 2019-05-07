@@ -1,6 +1,7 @@
 {
   "name": "Jet Pack",
   "content": "A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.",
+  "content-md": "A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

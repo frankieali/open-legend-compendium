@@ -1,6 +1,7 @@
 {
   "name": "Griffin",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -17,6 +18,6 @@
     "Toughness": 16,
     "Resolve": 13,
     "Tags": "Flying",
-    "data-defense": "[{\"Guard\":\"19\",\"Toughness\":\"16\",\"Resolve\":\"13\"}]"
+    "data-defense": "Guard: 19, Toughness: 16, Resolve: 13"
   }
 }

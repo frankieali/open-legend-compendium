@@ -1,17 +1,16 @@
 {
   "name": "Death Blow (I - II)",
   "content": "<h2>Description</h2>You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.<br/><br/><h2>Effect</h2>You gain benefits according to your tier in this feat.<ul><li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.</li><li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the <em>stunned</em> bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li></ul>",
+  "content-md": "## Description  \nYou are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.  \n##Effect  \nYou gain benefits according to your tier in this feat.  \n*  **Tier 1** - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.  \n*  **Tier 2** - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.",
     "Effect": "You gain benefits according to your tier in this feat.",
-    "Effect (1)": "If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.",
-    "Effect (2)": "Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.",
-    "data-tierEffect": "[{\"Tier 1\":\"If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.\"},{\"Tier 2\":\"Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.\"}]",
+    "Tier Effect (1)": "If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.",
+    "Tier Effect (2)": "Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the _stunned_ bane is automatically inflicted without counting against your usual 1 bane per attack limit.",
     "Prerequisites (1)": "Agility 6 and Lethal Strike I",
     "Prerequisites (2)": "Agility 7 and Lethal Strike II",
-    "data-prerequisites": "[{\"Tier 1\":\"Agility 6 and Lethal Strike I\"},{\"Tier 2\":\"Agility 7 and Lethal Strike II\"}]",
     "Tags": "Combat, Physical",
     "Cost": "3 points",
     "data-cost": 3

@@ -23,7 +23,7 @@ Boons are described as follows:
 ```
 
 ## Notes
-*  Keys with `#` or `(#)` are placeholders for Power Level number, Tier number, or for simple incremention 
-*  Currently there are no boons that have `compoundingEffect` properties
-*  Boons do not have an `attack` property like banes do
-*  `Summon Creatures` has a unique attribute of `data-powerLevelTable` for rendering a data table. Not sure how this will be implemented yet.
+\n*  Keys with `#` or `(#)` are placeholders for Power Level number, Tier number, or for simple incremention 
+\n*  Currently there are no boons that have `compoundingEffect` properties
+\n*  Boons do not have an `attack` property like banes do
+\n*  `Summon Creatures` has a unique attribute of `data-powerLevelTable` for rendering a data table. Not sure how this will be implemented yet.

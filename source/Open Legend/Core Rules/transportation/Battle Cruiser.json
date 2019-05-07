@@ -1,6 +1,7 @@
 {
   "name": "Battle Cruiser",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -17,6 +18,6 @@
     "Toughness": 18,
     "Resolve": "Immune",
     "Tags": "Flying, Space",
-    "data-defense": "[{\"Guard\":\"25\",\"Toughness\":\"18\",\"Resolve\":\"Immune\"}]"
+    "data-defense": "Guard: 25, Toughness: 18, Resolve: Immune"
   }
 }

@@ -1,6 +1,7 @@
 {
   "name": "Potion of Major Healing",
   "content": "A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
+  "content-md": "A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

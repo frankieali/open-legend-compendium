@@ -1,6 +1,7 @@
 {
   "name": "Soul Siphon",
   "content": "This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.",
+  "content-md": "This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

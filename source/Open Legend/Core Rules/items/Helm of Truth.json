@@ -1,6 +1,7 @@
 {
   "name": "Helm of Truth",
   "content": "This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
+  "content-md": "This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

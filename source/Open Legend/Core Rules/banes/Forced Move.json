@@ -1,6 +1,7 @@
 {
   "name": "Forced Move",
   "content": "<h2>Description</h2>With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.<br/><br/><h2>Effect</h2>The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 2</strong> - The target is moved 5'.</li><li><strong>Power Level 4</strong> - The target is moved 10'.</li><li><strong>Power Level 6</strong> - The target is moved 15'.</li><li><strong>Power Level 8</strong> - The target is moved 20'.</li></ul>",
+  "content-md": "## Description  \nWith a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.  \n##Effect  \nThe target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.  \n##Power Level  \n*  **Power Level 2** - The target is moved 5'.  \n*  **Power Level 4** - The target is moved 10'.  \n*  **Power Level 6** - The target is moved 15'.  \n*  **Power Level 8** - The target is moved 20'.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",

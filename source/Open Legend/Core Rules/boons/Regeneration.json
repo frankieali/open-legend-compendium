@@ -1,6 +1,7 @@
 {
   "name": "Regeneration",
   "content": "<h2>Description</h2>The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, a super soldier's adrenal biomod, or the ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.<br/><br/><h2>Effect</h2>While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 1</strong> - 1d4 </li><li><strong>Power Level 3</strong> - 1d6 </li><li><strong>Power Level 5</strong> - 1d8 </li><li><strong>Power Level 7</strong> - 1d10 </li><li><strong>Power Level 9</strong> - 2d6 </li></ul><br/><br/><h2>Special</h2>This boon does not heal lethal damage.",
+  "content-md": "## Description  \nThe target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, a super soldier's adrenal biomod, or the ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.  \n##Effect  \nWhile the regeneration boon is sustained, the target heals hit points at the beginning of each of the _boon invoker's_ turns. The amount of healing is determined by the power level of the boon.  \n##Power Level  \n*  **Power Level 1** - 1d4 \n*  **Power Level 3** - 1d6 \n*  **Power Level 5** - 1d8 \n*  **Power Level 7** - 1d10 \n*  **Power Level 9** - 2d6   \n## Special  \nThis boon does not heal lethal damage.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
@@ -9,11 +10,11 @@
     "Special": "This boon does not heal lethal damage.",
     "Tags": "Extraordinary",
     "Power Level": "1, 3, 5, 7, 9",
-    "Effect (1)": "1d4.",
-    "Effect (3)": "1d6.",
-    "Effect (5)": "1d8.",
-    "Effect (7)": "1d10.",
-    "Effect (9)": "2d6.",
+    "Tier Effect (1)": "1d4.",
+    "Tier Effect (3)": "1d6.",
+    "Tier Effect (5)": "1d8.",
+    "Tier Effect (7)": "1d10.",
+    "Tier Effect (9)": "2d6.",
     "Attribute": "Alteration, Creation",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

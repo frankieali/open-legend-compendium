@@ -1,6 +1,7 @@
 {
   "name": "Forceful",
   "content": "This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
+  "content-md": "This weapon can make attacks with the Might attribute and invoke banes accessible via Might.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

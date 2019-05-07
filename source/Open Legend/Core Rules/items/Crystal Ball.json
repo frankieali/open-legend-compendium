@@ -1,6 +1,7 @@
 {
   "name": "Crystal Ball",
   "content": "No mystic should go without this quintessential tool for peering beyond the limits of normal sight.",
+  "content-md": "No mystic should go without this quintessential tool for peering beyond the limits of normal sight.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

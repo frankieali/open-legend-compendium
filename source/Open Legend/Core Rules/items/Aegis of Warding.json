@@ -1,6 +1,7 @@
 {
   "name": "Aegis of Warding",
   "content": "<h2>Description</h2>These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.<h2>Special</h2>Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.",
+  "content-md": "## Description  \nThese magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.<h2>Special</h2>Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

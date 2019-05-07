@@ -1,6 +1,7 @@
 {
   "name": "Jack of All Trades",
   "content": "You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.",
+  "content-md": "You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Perks",

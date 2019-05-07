@@ -1,6 +1,7 @@
 {
   "name": "Disabled",
   "content": "You have some physical deficiency that holds you back in life. You decide the nature and severity of your disability. Some examples of disabilities include blindness, deafness, missing limbs, partial paralysis, bone deficiencies, or allergies.",
+  "content-md": "You have some physical deficiency that holds you back in life. You decide the nature and severity of your disability. Some examples of disabilities include blindness, deafness, missing limbs, partial paralysis, bone deficiencies, or allergies.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",

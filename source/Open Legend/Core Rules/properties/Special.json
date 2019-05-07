@@ -1,6 +1,7 @@
 {
   "name": "Special",
   "content": "The item possesses a unique property that is explained in full detail in its description.",
+  "content-md": "The item possesses a unique property that is explained in full detail in its description.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

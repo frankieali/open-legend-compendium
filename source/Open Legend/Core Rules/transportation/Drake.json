@@ -1,6 +1,7 @@
 {
   "name": "Drake",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -17,6 +18,6 @@
     "Toughness": 18,
     "Resolve": 15,
     "Tags": "Flying",
-    "data-defense": "[{\"Guard\":\"20\",\"Toughness\":\"18\",\"Resolve\":\"15\"}]"
+    "data-defense": "Guard: 20, Toughness: 18, Resolve: 15"
   }
 }

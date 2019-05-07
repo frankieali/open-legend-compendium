@@ -1,13 +1,13 @@
 {
   "name": "Overpowering Strike",
   "content": "<h2>Description</h2>In combat, you are like a wrecking ball that clears the battlefield of your foes. The sheer force of your attacks is so great that you send opponents flying. A half-ogre wielding a massive tree branch and a super soldier trained to use the enemy's weight against themself are both examples of this feat in play.<br/><br/><h2>Effect</h2>Each time you deal damage using a weapon that has the <em>forceful</em> property, you can choose to push the target five feet away from you.",
+  "content-md": "## Description  \nIn combat, you are like a wrecking ball that clears the battlefield of your foes. The sheer force of your attacks is so great that you send opponents flying. A half-ogre wielding a massive tree branch and a super soldier trained to use the enemy's weight against themself are both examples of this feat in play.  \n##Effect  \nEach time you deal damage using a weapon that has the _forceful_ property, you can choose to push the target five feet away from you.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "In combat, you are like a wrecking ball that clears the battlefield of your foes. The sheer force of your attacks is so great that you send opponents flying. A half-ogre wielding a massive tree branch and a super soldier trained to use the enemy's weight against themself are both examples of this feat in play.",
     "Effect": "Each time you deal damage using a weapon that has the _forceful_ property, you can choose to push the target five feet away from you.",
     "Prerequisites (1)": "Might 4",
-    "data-prerequisites": "[{\"Tier 1\":\"Might 4\"}]",
     "Tags": "Physical, Feat Chain, Might",
     "Cost": "2 points",
     "data-cost": 2

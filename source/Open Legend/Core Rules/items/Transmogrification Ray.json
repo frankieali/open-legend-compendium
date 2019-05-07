@@ -1,6 +1,7 @@
 {
   "name": "Transmogrification Ray",
   "content": "A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
+  "content-md": "A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

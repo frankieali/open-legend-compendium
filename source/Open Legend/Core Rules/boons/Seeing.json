@@ -1,6 +1,7 @@
 {
   "name": "Seeing",
   "content": "<h2>Description</h2>You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.<br/><br/><h2>Effect</h2>For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 4</strong> - The ally must be within 100'. </li><li><strong>Power Level 5</strong> - The ally must be within 1 mile. </li><li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence. </li></ul><br/><br/><h2>Special</h2>If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
+  "content-md": "## Description  \nYou are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.  \n##Effect  \nFor as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.  \n##Power Level  \n*  **Power Level 4** - The ally must be within 100'. \n*  **Power Level 5** - The ally must be within 1 mile. \n*  **Power Level 6** - The ally must be anywhere on the same plane of existence.   \n## Special  \nIf your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
@@ -9,9 +10,9 @@
     "Special": "If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.",
     "Tags": "Extraordinary",
     "Power Level": "4, 5, 6",
-    "Effect (4)": "The ally must be within 100'.",
-    "Effect (5)": "The ally must be within 1 mile.",
-    "Effect (6)": "The ally must be anywhere on the same plane of existence.",
+    "Tier Effect (4)": "The ally must be within 100'.",
+    "Tier Effect (5)": "The ally must be within 1 mile.",
+    "Tier Effect (6)": "The ally must be anywhere on the same plane of existence.",
     "Attribute": "Prescience",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

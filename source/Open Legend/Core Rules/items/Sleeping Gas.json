@@ -1,6 +1,7 @@
 {
   "name": "Sleeping Gas",
   "content": "Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
+  "content-md": "Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

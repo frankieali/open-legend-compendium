@@ -1,6 +1,7 @@
 {
   "name": "Armor (type)",
   "content": "The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.",
+  "content-md": "The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

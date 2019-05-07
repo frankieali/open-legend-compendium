@@ -22,10 +22,10 @@ Weapons are described as follows:
 ```
 
 ## TODO
-*  Descriptions needed
-*  Tags would also be useful for weapons
-*  Images (url's) would be nice
+\n*  Descriptions needed
+\n*  Tags would also be useful for weapons
+\n*  Images (url's) would be nice
 
 ## Notes
-*  Weapons do not have boons
-*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions
+\n*  Weapons do not have boons
+\n*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions

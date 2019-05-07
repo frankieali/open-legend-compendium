@@ -14,6 +14,6 @@ Perks are described as follows:
 ```
 
 ## TODO
-*  Tags may be helpful
+\n*  Tags may be helpful
 
 ## Notes

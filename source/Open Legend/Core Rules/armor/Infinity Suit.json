@@ -1,6 +1,7 @@
 {
   "name": "Infinity Suit",
   "content": "<h2>Description</h2>It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.<h2>Special</h2><strong>Indestructible</strong>: While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.",
+  "content-md": "## Description  \nIt is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.  \n## Special  \n**Indestructible**: While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Armor",

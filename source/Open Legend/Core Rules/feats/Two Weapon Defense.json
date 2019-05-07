@@ -1,13 +1,13 @@
 {
   "name": "Two Weapon Defense",
   "content": "<h2>Description</h2>Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons. Duelists, rangers, and space pirates are all concepts that could make use of this feat.<br/><br/><h2>Effect</h2>When you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.",
+  "content-md": "## Description  \nYour mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons. Duelists, rangers, and space pirates are all concepts that could make use of this feat.  \n##Effect  \nWhen you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons. Duelists, rangers, and space pirates are all concepts that could make use of this feat.",
     "Effect": "When you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.",
     "Prerequisites (1)": "Agility 4 and Attack Specialization",
-    "data-prerequisites": "[{\"Tier 1\":\"Agility 4 and Attack Specialization\"}]",
     "Tags": "Combat, Physical, Agility",
     "Cost": "2 points",
     "data-cost": 2

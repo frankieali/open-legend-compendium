@@ -25,5 +25,5 @@ Banes are described as follows:
 ```
 
 ## Notes
-*  Keys with `#` or `(#)` are placeholders for Power Level number, Tier number, or for simple incremention 
-*  `Fatigued` seems like a one-off case where there's one power level and the effects escalate with each application of the bane. For this type of mechanic, the tiers are considered `compoundingEffect`
+\n*  Keys with `#` or `(#)` are placeholders for Power Level number, Tier number, or for simple incremention 
+\n*  `Fatigued` seems like a one-off case where there's one power level and the effects escalate with each application of the bane. For this type of mechanic, the tiers are considered `compoundingEffect`

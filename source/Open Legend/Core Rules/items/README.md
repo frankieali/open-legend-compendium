@@ -22,9 +22,9 @@ Items are described as follows:
 ```
 
 ## TODO
-*  Tags would also be useful for items
-*  Images (url's) would be nice
+\n*  Tags would also be useful for items
+\n*  Images (url's) would be nice
 
 ## Notes
-*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions
-*  If there are no special attributes on an item then an `<h2>Description</h2>` is not needed in the `content` attribute
+\n*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions
+\n*  If there are no special attributes on an item then an `<h2>Description</h2>` is not needed in the `content` attribute

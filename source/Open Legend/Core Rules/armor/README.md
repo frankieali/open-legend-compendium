@@ -23,8 +23,8 @@ Armor items are described as follows:
 ```
 
 ## TODO
-*  Descriptions needed
-*  Images (url's) would be nice
+\n*  Descriptions needed
+\n*  Images (url's) would be nice
 
 ## Notes
-*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions
+\n*  `Special` can be a plain string containing a general description or an array of objects with named special properties and descriptions

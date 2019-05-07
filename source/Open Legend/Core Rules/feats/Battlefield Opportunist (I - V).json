@@ -1,13 +1,13 @@
 {
   "name": "Battlefield Opportunist (I - V)",
   "content": "<h2>Description</h2>Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat. Whether you wield an axe, plasmablade, or your bare fists, foes struggle to maneuver around or away from you.<br/><br/><h2>Effect</h2>You may make an additional opportunity attack per round for each tier of this feat you possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).",
+  "content-md": "## Description  \nYour battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat. Whether you wield an axe, plasmablade, or your bare fists, foes struggle to maneuver around or away from you.  \n##Effect  \nYou may make an additional opportunity attack per round for each tier of this feat you possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat. Whether you wield an axe, plasmablade, or your bare fists, foes struggle to maneuver around or away from you.",
     "Effect": "You may make an additional opportunity attack per round for each tier of this feat you possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).",
     "Prerequisites (1-5)": "Agility 4, or Might 4",
-    "data-prerequisites": "[{\"Tier 1-5\":\"Agility 4, or Might 4\"}]",
     "Tags": "Might, Agility, Passive, Combat, Feat Chain",
     "Cost": "2 points",
     "data-cost": 2

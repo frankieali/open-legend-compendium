@@ -1,6 +1,7 @@
 {
   "name": "Horse",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -15,6 +16,6 @@
     "Toughness": 15,
     "Resolve": 10,
     "Tags": "Land",
-    "data-defense": "[{\"Guard\":\"15\",\"Toughness\":\"15\",\"Resolve\":\"10\"}]"
+    "data-defense": "Guard: 15, Toughness: 15, Resolve: 10"
   }
 }

@@ -1,6 +1,7 @@
 {
   "name": "Phobia",
   "content": "You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence: a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.",
+  "content-md": "You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence: a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",

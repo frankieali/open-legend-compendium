@@ -1,6 +1,7 @@
 {
   "name": "Explosive Ammo",
   "content": "These special incendiary rounds ignite on impact, wreathing your quarry in a gout of flame.",
+  "content-md": "These special incendiary rounds ignite on impact, wreathing your quarry in a gout of flame.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

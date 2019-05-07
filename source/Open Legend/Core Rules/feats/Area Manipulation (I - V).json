@@ -1,13 +1,13 @@
 {
   "name": "Area Manipulation (I - V)",
   "content": "<h2>Description</h2>Whether unloading your assault rifle on full-automatic or hurling a ball of flame, you are exceptionally precise at choosing targets for area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.<br/><br/><h2>Effect</h2>For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.",
+  "content-md": "## Description  \nWhether unloading your assault rifle on full-automatic or hurling a ball of flame, you are exceptionally precise at choosing targets for area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.  \n##Effect  \nFor each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "Whether unloading your assault rifle on full-automatic or hurling a ball of flame, you are exceptionally precise at choosing targets for area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.",
     "Effect": "For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.",
     "Prerequisites (1-5)": "None",
-    "data-prerequisites": "[{\"Tier 1-5\":\"None\"}]",
     "Tags": "No Prerequisite, Extraordinary",
     "Cost": "1 points",
     "data-cost": 1

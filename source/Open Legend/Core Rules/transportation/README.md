@@ -27,7 +27,7 @@ Transportation are described as follows:
 ```
 
 ## TODO
-*  Need descriptions
-*  Images (url's) would be nice
+\n*  Need descriptions
+\n*  Images (url's) would be nice
 
 ## Notes

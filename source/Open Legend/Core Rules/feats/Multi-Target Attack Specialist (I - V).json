@@ -1,6 +1,7 @@
 {
   "name": "Multi-Target Attack Specialist (I - V)",
   "content": "<h2>Description</h2>You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic energy, or a devastating ball of flame.<br/><br/><h2>Effect</h2>When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.<br/><br/><h2>Special</h2>In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.",
+  "content-md": "## Description  \nYou are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic energy, or a devastating ball of flame.  \n##Effect  \nWhen you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.  \n## Special  \nIn addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
@@ -8,7 +9,6 @@
     "Effect": "When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.",
     "Special": "In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.",
     "Prerequisites (1-5)": "None",
-    "data-prerequisites": "[{\"Tier 1-5\":\"None\"}]",
     "Tags": "Any Attribute, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

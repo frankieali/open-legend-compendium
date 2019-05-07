@@ -1,6 +1,7 @@
 {
   "name": "Heavy",
   "content": "The weapon is particularly heavy to carry. You may carry a maximum number of <em>heavy</em> items equal to your Might score.",
+  "content-md": "The weapon is particularly heavy to carry. You may carry a maximum number of _heavy_ items equal to your Might score.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

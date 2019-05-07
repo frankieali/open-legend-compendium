@@ -1,6 +1,7 @@
 {
   "name": "Attribute (bonus/penalty)",
   "content": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
+  "content-md": "When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

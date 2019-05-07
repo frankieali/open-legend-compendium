@@ -1,6 +1,7 @@
 {
   "name": "Reach",
   "content": "This weapon extends the natural melee range of the creature by 5'.",
+  "content-md": "This weapon extends the natural melee range of the creature by 5'.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

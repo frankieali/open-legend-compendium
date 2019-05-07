@@ -1,19 +1,18 @@
 {
   "name": "Natural Defense (I - III)",
   "content": "<h2>Description</h2>Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.<br/><br/><h2>Effect</h2>When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:<ul><li><strong>Tier 1</strong> - +1 bonus to Guard and Toughness.</li><li><strong>Tier 2</strong> - +2 bonus to Guard and Toughness.</li><li><strong>Tier 3</strong> - +3 bonus to Guard and Toughness.</li></ul>",
+  "content-md": "## Description  \nWhether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.  \n##Effect  \nWhen you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:  \n*  **Tier 1** - +1 bonus to Guard and Toughness.  \n*  **Tier 2** - +2 bonus to Guard and Toughness.  \n*  **Tier 3** - +3 bonus to Guard and Toughness.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.",
     "Effect": "When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat.",
-    "Effect (1)": "+1 bonus to Guard and Toughness.",
-    "Effect (2)": "+2 bonus to Guard and Toughness.",
-    "Effect (3)": "+3 bonus to Guard and Toughness.",
-    "data-tierEffect": "[{\"Tier 1\":\"+1 bonus to Guard and Toughness.\"},{\"Tier 2\":\"+2 bonus to Guard and Toughness.\"},{\"Tier 3\":\"+3 bonus to Guard and Toughness.\"}]",
+    "Tier Effect (1)": "+1 bonus to Guard and Toughness.",
+    "Tier Effect (2)": "+2 bonus to Guard and Toughness.",
+    "Tier Effect (3)": "+3 bonus to Guard and Toughness.",
     "Prerequisites (1)": "None",
     "Prerequisites (2)": "Fortitude 1",
     "Prerequisites (3)": "Fortitude 2",
-    "data-prerequisites": "[{\"Tier 1\":\"None\"},{\"Tier 2\":\"Fortitude 1\"},{\"Tier 3\":\"Fortitude 2\"}]",
     "Tags": "Combat, Physical, Defense, Fortitude",
     "Cost": "2 points",
     "data-cost": 2

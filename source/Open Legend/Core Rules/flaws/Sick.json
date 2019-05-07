@@ -1,6 +1,7 @@
 {
   "name": "Sick",
   "content": "You suffer from some sort of chronic illness or condition, such as tuberculosis, cancer, arthritis, or irritable bowel syndrome. Even if you possess the means to treat your disease or control the symptoms, you might still have episodes or flare ups that hinder your adventuring life.",
+  "content-md": "You suffer from some sort of chronic illness or condition, such as tuberculosis, cancer, arthritis, or irritable bowel syndrome. Even if you possess the means to treat your disease or control the symptoms, you might still have episodes or flare ups that hinder your adventuring life.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",

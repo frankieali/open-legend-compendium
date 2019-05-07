@@ -1,6 +1,7 @@
 {
   "name": "Damage (type)",
   "content": "When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.",
+  "content-md": "When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

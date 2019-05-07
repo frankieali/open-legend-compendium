@@ -1,6 +1,7 @@
 {
   "name": "Pegasus",
   "content": "",
+  "content-md": "",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Transportation",
@@ -16,6 +17,6 @@
     "Toughness": 17,
     "Resolve": 17,
     "Tags": "Flying",
-    "data-defense": "[{\"Guard\":\"18\",\"Toughness\":\"17\",\"Resolve\":\"17\"}]"
+    "data-defense": "Guard: 18, Toughness: 17, Resolve: 17"
   }
 }

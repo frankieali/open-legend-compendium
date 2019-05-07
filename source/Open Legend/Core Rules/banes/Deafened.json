@@ -1,6 +1,7 @@
 {
   "name": "Deafened",
   "content": "<h2>Description</h2>You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.<br/><br/><h2>Effect</h2>The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
+  "content-md": "## Description  \nYou deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.  \n##Effect  \nThe target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Banes",

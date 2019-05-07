@@ -1,13 +1,13 @@
 {
   "name": "Combat Follow-through",
   "content": "<h2>Description</h2>You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.<br/><br/><h2>Effect</h2>Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
+  "content-md": "## Description  \nYou are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.  \n##Effect  \nEvery time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
     "Description": "You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.",
     "Effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
     "Prerequisites (1)": "None",
-    "data-prerequisites": "[{\"Tier 1\":\"None\"}]",
     "Tags": "Combat, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

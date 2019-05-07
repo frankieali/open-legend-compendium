@@ -1,6 +1,7 @@
 {
   "name": "Short-winded",
   "content": "You have poor lung capacity and easily tire. Sprints, long runs, and forced marches are either impossible for you or they tend to leave you completely incapacitated afterwards.",
+  "content-md": "You have poor lung capacity and easily tire. Sprints, long runs, and forced marches are either impossible for you or they tend to leave you completely incapacitated afterwards.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",

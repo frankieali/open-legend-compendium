@@ -1,6 +1,7 @@
 {
   "name": "Expendable (item)",
   "content": "An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.",
+  "content-md": "An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Properties",

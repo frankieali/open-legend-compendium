@@ -1,6 +1,7 @@
 {
   "name": "Flight",
   "content": "<h2>Description</h2>By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.<br/><br/><h2>Effect</h2>The target gains a flight speed according to your power level. If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.<br/><br/><h2>Power Level</h2><ul><li><strong>Power Level 5</strong> - The target gains a flight speed of 10'.</li><li><strong>Power Level 6</strong> - The target gains a flight speed of 30'.</li><li><strong>Power Level 8</strong> - The target gains a flight speed of 60'.</li></ul>",
+  "content-md": "## Description  \nBy sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.  \n##Effect  \nThe target gains a flight speed according to your power level. If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.  \n##Power Level  \n*  **Power Level 5** - The target gains a flight speed of 10'.  \n*  **Power Level 6** - The target gains a flight speed of 30'.  \n*  **Power Level 8** - The target gains a flight speed of 60'.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Boons",
@@ -8,9 +9,9 @@
     "Effect": "The target gains a flight speed according to your power level. If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.",
     "Tags": "Extraordinary",
     "Power Level": "5, 6, 8",
-    "Effect (5)": "The target gains a flight speed of 10'",
-    "Effect (6)": "The target gains a flight speed of 30'",
-    "Effect (8)": "The target gains a flight speed of 60'",
+    "Tier Effect (5)": "The target gains a flight speed of 10'",
+    "Tier Effect (6)": "The target gains a flight speed of 30'",
+    "Tier Effect (8)": "The target gains a flight speed of 60'",
     "Attribute": "Alteration, Movement",
     "Invocation Time": "1 Major Action",
     "Duration": "Sustain Persists"

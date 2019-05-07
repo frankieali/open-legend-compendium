@@ -1,6 +1,7 @@
 {
   "name": "Honest",
   "content": "You won't tell a lie or engage in deceitful speech, even to save your own life or the life of another.",
+  "content-md": "You won't tell a lie or engage in deceitful speech, even to save your own life or the life of another.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Flaws",

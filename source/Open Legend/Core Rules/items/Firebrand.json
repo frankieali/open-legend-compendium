@@ -1,6 +1,7 @@
 {
   "name": "Firebrand",
   "content": "A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
+  "content-md": "A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Items",

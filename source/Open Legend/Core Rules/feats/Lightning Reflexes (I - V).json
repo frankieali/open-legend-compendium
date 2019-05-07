@@ -1,6 +1,7 @@
 {
   "name": "Lightning Reflexes (I - V)",
   "content": "<h2>Description</h2>You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.<br/><br/><h2>Effect</h2>For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
+  "content-md": "## Description  \nYou are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.  \n##Effect  \nFor each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
   "data": {
     "Source": "Open Legend: Core Rules",
     "Category": "Feats",
@@ -8,7 +9,6 @@
     "Effect": "For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.",
     "Prerequisites (1-2)": "Agility 2 or Prescience 2",
     "Prerequisites (3-5)": "Agility 4 or Prescience 4",
-    "data-prerequisites": "[{\"Tier 1-2\": \"Agility 2 or Prescience 2\"},{\"Tier 3-5\": \"Agility 4 or Prescience 4\"}]",
     "Tags": "Physical, Extraordinary, Agility, Prescience",
     "Cost": "1 points",
     "data-cost": 1
