@@ -8,6 +8,7 @@
     "Description": "Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples of this feat in action.",
     "Effect": "You are able to shrug off the effects of the <em>fatigued</em> bane. For each tier you possess in this feat, treat your fatigue level as one lower than it actually is for the purposes of determining the bane's effects.",
     "Prerequisites (1-5)": "Fortitude 5 or Will 5",
+    "data-prerequisites": "**Tier 1 - 5**: Fortitude 5 or Will 5",
     "Tags": "Physical",
     "Cost": "2 points",
     "data-cost": 2

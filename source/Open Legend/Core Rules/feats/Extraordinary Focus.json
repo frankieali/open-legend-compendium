@@ -9,6 +9,7 @@
     "Effect": "With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a digital psi amplifier, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. The focus heightens your power and for the purposes of determining your attribute dice for action rolls, you treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).",
     "Special": "If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.  \nYou may take this feat multiple times. If you do, select a new attribute not chosen previously. For each instance of this feat, you may choose an existing focus or select a new one.",
     "Prerequisites (1)": "any Extraordinary 1",
+    "data-prerequisites": "**Tier 1**: any Extraordinary 1",
     "Tags": "Extraordinary",
     "Cost": "3 points",
     "data-cost": 3

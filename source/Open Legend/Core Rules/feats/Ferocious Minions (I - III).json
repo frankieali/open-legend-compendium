@@ -10,6 +10,7 @@
     "Prerequisites (1)": "Alteration 4, Creation 4, Entropy 4, Energy 4, or Influence 4",
     "Prerequisites (2)": "Alteration 5, Creation 5, Entropy 5, Energy 5, or Influence 5",
     "Prerequisites (3)": "Alteration 7, Creation 7, Entropy 7, Energy 7, or Influence 7",
+    "data-prerequisites": "**Tier 1**: Alteration 4, Creation 4, Entropy 4, Energy 4, or Influence 4 | **Tier 2**: Alteration 5, Creation 5, Entropy 5, Energy 5, or Influence 5 | **Tier 3**: Alteration 7, Creation 7, Entropy 7, Energy 7, or Influence 7",
     "Tags": "Extraordinary, Influence",
     "Cost": "2 points",
     "data-cost": 2

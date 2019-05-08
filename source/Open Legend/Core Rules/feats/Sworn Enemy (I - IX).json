@@ -9,6 +9,7 @@
     "Effect": "Choose a species, race, or faction (e.g., dragons, Void Templars, gnolls, or vampires). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.",
     "Special": "In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new group each time. Your total advantage on Mental attribute rolls is equal to your tier for that particular group. For example, a character might have Sworn Enemy II (Void Templars) and Sworn Enemy IV (Werewolves).",
     "Prerequisites (1-9)": "None",
+    "data-prerequisites": "**Tier 1 - 9**: None",
     "Tags": "Non-Combat, Combat, No Prerequisite",
     "Cost": "1 points",
     "data-cost": 1

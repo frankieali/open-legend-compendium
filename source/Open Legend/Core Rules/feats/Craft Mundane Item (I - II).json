@@ -11,6 +11,7 @@
     "Tier Effect (1)": "You can craft items equal to your wealth level.",
     "Tier Effect (2)": "You can craft items equal to your wealth level + 1.",
     "Prerequisites (1-2)": "Learning 3, Logic 3, or Knowledge I",
+    "data-prerequisites": "**Tier 1 - 2**: Learning 3, Logic 3, or Knowledge I",
     "Tags": "Non-Combat",
     "Cost": "2 points",
     "data-cost": 2

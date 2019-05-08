@@ -9,6 +9,7 @@
     "Effect": "When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.",
     "Special": "In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.",
     "Prerequisites (1-5)": "None",
+    "data-prerequisites": "**Tier 1 - 5**: None",
     "Tags": "Any Attribute, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

@@ -8,6 +8,7 @@
     "Description": "You know how to turn a strong offense into an even stronger defense. Your special training or experience with defensive implements and shields allows you to capitalize on their defensive benefits far beyond the average wielder. Examples include a martial artist's defensive kata or a soldier equipped with a riot shield.",
     "Effect": "When wielding a weapon or implement with the _defensive_ property, you gain an additional +1 armor bonus. In addition, the _defensive_ value of the item is increased by 1 when you wield it. So _defensive_ 1 becomes _defensive_ 2 and _defensive_ 2 becomes _defensive_ 3.",
     "Prerequisites (1)": "None",
+    "data-prerequisites": "**Tier 1**: None",
     "Tags": "Combat, No Prerequisite",
     "Cost": "3 points",
     "data-cost": 3

@@ -9,6 +9,7 @@
     "Effect": "Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. Furthermore, when making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll.",
     "Special": "You may take this feat multiple times. Each time you do, choose a different bane.",
     "Prerequisites (1)": "Ability to invoke the chosen bane",
+    "data-prerequisites": "**Tier 1**: Ability to invoke the chosen bane",
     "Tags": "Might, Passive, Combat, Bane",
     "Cost": "3 points",
     "data-cost": 3

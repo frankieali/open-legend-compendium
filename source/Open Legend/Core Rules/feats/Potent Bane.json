@@ -9,6 +9,7 @@
     "Effect": "Choose one bane that you can invoke that has a duration of “resist ends”. When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.",
     "Special": "You may select this feat multiple times. Each time you take it, choose a different bane.",
     "Prerequisites (1)": "Ability to invoke the chosen bane",
+    "data-prerequisites": "**Tier 1**: Ability to invoke the chosen bane",
     "Tags": "Bane, Combat",
     "Cost": "3 points",
     "data-cost": 3

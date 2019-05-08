@@ -9,6 +9,7 @@
     "Effect": "When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.  \nWith the chosen weapon or attack type, your range with that weapon or attribute is doubled.",
     "Special": "You may take this feat multiple times. If you do, select a new weapon or attack type each time.",
     "Prerequisites (1)": "Agility 5, Might 5, or any Extraordinary 5",
+    "data-prerequisites": "**Tier 1**: Agility 5, Might 5, or any Extraordinary 5",
     "Tags": "Combat",
     "Cost": "1 points",
     "data-cost": 1

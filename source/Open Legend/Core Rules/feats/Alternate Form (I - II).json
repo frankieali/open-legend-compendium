@@ -11,6 +11,7 @@
     "Tier Effect (1)": "Half of your primary form's attribute points (rounded up), and 3 feat points.",
     "Tier Effect (2)": "Same attribute points as your primary form, and 3 feat points less than your primary form.",
     "Prerequisites (1-2)": "None",
+    "data-prerequisites": "**Tier 1 - 2**: None",
     "Tags": "No Prerequisite",
     "Cost": "3 points",
     "data-cost": 3

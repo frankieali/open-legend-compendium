@@ -13,6 +13,7 @@
     "Tier Effect (3)": "Your defense scores are increased by 9 against the chosen energy type.",
     "Tier Effect (4)": "You are immune to damage and harmful effects from the chosen energy type.",
     "Prerequisites (1-4)": "None",
+    "data-prerequisites": "**Tier 1 - 4**: None",
     "Tags": "Extraordinary, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

@@ -8,6 +8,7 @@
     "Description": "You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.",
     "Effect": "Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.",
     "Prerequisites (1)": "None",
+    "data-prerequisites": "**Tier 1**: None",
     "Tags": "Combat, No Prerequisite",
     "Cost": "2 points",
     "data-cost": 2

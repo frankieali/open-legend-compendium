@@ -9,6 +9,7 @@
     "Effect": "You permanently gain 5 extra hit points per tier of this feat you possess.",
     "Prerequisites (1)": "Fortitude 3",
     "Prerequisites (2)": "Fortitude 5",
+    "data-prerequisites": "**Tier 1**: Fortitude 3 | **Tier 2**: Fortitude 5",
     "Tags": "Defense, Physical, Fortitude",
     "Cost": "2 points",
     "data-cost": 2
