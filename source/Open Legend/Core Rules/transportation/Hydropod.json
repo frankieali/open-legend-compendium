@@ -18,6 +18,6 @@
     "Toughness": 17,
     "Resolve": "Immune",
     "Tags": "Water, Swimming",
-    "data-defense": "Guard: 20, Toughness: 17, Resolve: Immune"
+    "data-defense": "Guard: 20  \nToughness: 17  \nResolve: Immune"
   }
 }
