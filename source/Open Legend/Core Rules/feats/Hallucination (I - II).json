@@ -11,7 +11,7 @@
     "Tier Effect (2)": "When you invoke the hallucination form of the _phantasm_ bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.    \n*   **Influence 7** - 5 targets  \n*   **Influence 8** - 10 targets  \n*   **Influence 9** - 50 targets",
     "Prerequisites (1)": "Influence 5",
     "Prerequisites (2)": "Influence 7",
-    "data-prerequisites": "**Tier 1**: Influence 5 | **Tier 2**: Influence 7",
+    "data-prerequisites": "**Tier 1**: Influence 5  \n**Tier 2**: Influence 7",
     "Tags": "Extraordinary, Non-Combat, Influence",
     "Cost": "3 points",
     "data-cost": 3

@@ -10,7 +10,7 @@
     "Prerequisites (1)": "Movement 2, Prescience 2, or Protection 2",
     "Prerequisites (2)": "Movement 3, Prescience 3, or Protection 3",
     "Prerequisites (3)": "Movement 4, Prescience 4, or Protection 4",
-    "data-prerequisites": "**Tier 1**: Movement 2, Prescience 2, or Protection 2 | **Tier 2**: Movement 3, Prescience 3, or Protection 3 | **Tier 3**: Movement 4, Prescience 4, or Protection 4",
+    "data-prerequisites": "**Tier 1**: Movement 2, Prescience 2, or Protection 2  \n**Tier 2**: Movement 3, Prescience 3, or Protection 3  \n**Tier 3**: Movement 4, Prescience 4, or Protection 4",
     "Tags": "Extraordinary, Defense",
     "Cost": "3 points",
     "data-cost": 3
